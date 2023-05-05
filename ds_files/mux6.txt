@@ -1,0 +1,15 @@
+IF Bit 0 ∈ {0} AND Bit 1 ∈ {0} AND Bit 2 ∈ {0} AND Bit 3 ∈ {0} THEN target == 0
+IF Address bit 2 ∈ {1} AND Bit 1 ∈ {0} AND Bit 3 ∈ {0} THEN target == 0
+IF Address bit 2 ∈ {0} AND Bit 0 ∈ {0} AND Bit 2 ∈ {0} THEN target == 0
+IF Address bit 1 ∈ {1} AND Bit 2 ∈ {0} AND Bit 3 ∈ {0} THEN target == 0
+IF Address bit 1 ∈ {0} AND Address bit 2 ∈ {0} AND Bit 0 ∈ {0} THEN target == 0
+IF Address bit 1 ∈ {1} AND Address bit 2 ∈ {1} AND Bit 3 ∈ {0} THEN target == 0
+IF Address bit 1 ∈ {0} AND Bit 0 ∈ {0} AND Bit 1 ∈ {0} THEN target == 0
+IF Address bit 1 ∈ {0} AND Address bit 2 ∈ {1} AND Bit 1 ∈ {0} THEN target == 0
+IF Address bit 1 ∈ {1} AND Address bit 2 ∈ {0} AND Bit 2 ∈ {0} THEN target == 0
+IF Address bit 1 ∈ {0} AND Address bit 2 ∈ {0} AND Bit 0 ∈ {1} THEN target == 1
+IF Address bit 1 ∈ {0} AND Address bit 2 ∈ {1} AND Bit 1 ∈ {1} THEN target == 1
+IF Address bit 1 ∈ {1} AND Address bit 2 ∈ {0} AND Bit 2 ∈ {1} THEN target == 1
+IF Address bit 1 ∈ {1} AND Address bit 2 ∈ {1} AND Bit 3 ∈ {1} THEN target == 1
+IF Address bit 2 ∈ {1} AND Bit 1 ∈ {1} AND Bit 3 ∈ {1} THEN target == 1
+IF Address bit 1 ∈ {1} AND Bit 2 ∈ {1} AND Bit 3 ∈ {1} THEN target == 1

@@ -1,0 +1,154 @@
+IF A17 ∈ (-inf, 57.0] AND A18 ∈ (62.0, inf] AND A20 ∈ (-inf, 74.0] AND A21 ∈ (-inf, 59.0] THEN target == 0
+IF A2 ∈ (63.0, inf] AND A17 ∈ (-inf, 57.0] AND A18 ∈ (62.0, inf] AND A20 ∈ (-inf, 74.0] THEN target == 0
+IF A1 ∈ (-inf, 64.0] AND A6 ∈ (71.0, inf] AND A12 ∈ (68.0, inf] AND A14 ∈ (71.0, inf] AND A17 ∈ (57.0, 60.0] AND A18 ∈ (62.0, inf] AND A20 ∈ (-inf, 74.0] THEN target == 0
+IF A1 ∈ (-inf, 63.0] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (83.0, inf] AND A20 ∈ (-inf, 74.0] AND A21 ∈ (-inf, 70.0] AND A26 ∈ (95.0, inf] THEN target == 0
+IF A1 ∈ (-inf, 53.0] AND A2 ∈ (53.0, inf] AND A16 ∈ (-inf, 79.0] AND A17 ∈ (-inf, 76.0] AND A18 ∈ (49.0, 69.0] AND A20 ∈ (74.0, inf] AND A24 ∈ (-inf, 100.0] THEN target == 0
+IF A2 ∈ (94.0, inf] AND A17 ∈ (-inf, 63.0] AND A18 ∈ (69.0, 91.0] AND A20 ∈ (74.0, inf] AND A26 ∈ (-inf, 60.0] AND A35 ∈ (98.0, inf] THEN target == 0
+IF A17 ∈ (-inf, 63.0] AND A18 ∈ (69.0, 91.0] AND A20 ∈ (74.0, inf] AND A21 ∈ (-inf, 53.0] AND A26 ∈ (60.0, inf] THEN target == 0
+IF A10 ∈ (69.0, inf] AND A17 ∈ (-inf, 63.0] AND A18 ∈ (69.0, 91.0] AND A20 ∈ (74.0, inf] AND A26 ∈ (60.0, inf] THEN target == 0
+IF A17 ∈ (63.0, 68.0] AND A18 ∈ (79.0, 91.0] AND A20 ∈ (74.0, 85.0] THEN target == 0
+IF A17 ∈ (63.0, 71.0] AND A18 ∈ (79.0, 91.0] AND A20 ∈ (85.0, inf] AND A24 ∈ (-inf, 88.0] THEN target == 0
+IF A17 ∈ (71.0, 76.0] AND A18 ∈ (87.0, inf] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (83.0, inf] AND A29 ∈ (-inf, 66.0] THEN target == 0
+IF A2 ∈ (75.0, 95.0] AND A3 ∈ (-inf, 106.0] AND A5 ∈ (59.0, inf] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, inf] AND A20 ∈ (88.0, inf] THEN target == 0
+IF A5 ∈ (-inf, 80.0] AND A12 ∈ (78.0, inf] AND A15 ∈ (-inf, 109.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A25 ∈ (-inf, 80.0] AND A27 ∈ (108.0, inf] THEN target == 0
+IF A2 ∈ (87.0, inf] AND A13 ∈ (-inf, 83.0] AND A16 ∈ (90.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (-inf, 78.0] THEN target == 0
+IF A13 ∈ (83.0, inf] AND A15 ∈ (114.0, inf] AND A16 ∈ (90.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A21 ∈ (-inf, 82.0] AND A33 ∈ (-inf, 78.0] AND A36 ∈ (74.0, inf] THEN target == 0
+IF A1 ∈ (84.0, inf] AND A13 ∈ (83.0, inf] AND A15 ∈ (114.0, inf] AND A16 ∈ (90.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (-inf, 78.0] AND A36 ∈ (74.0, inf] THEN target == 0
+IF A3 ∈ (96.0, inf] AND A16 ∈ (94.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A25 ∈ (-inf, 84.0] AND A33 ∈ (78.0, 85.0] AND A36 ∈ (87.0, inf] THEN target == 0
+IF A1 ∈ (67.0, inf] AND A2 ∈ (79.0, inf] AND A3 ∈ (-inf, 84.0] AND A16 ∈ (-inf, 65.0] AND A17 ∈ (60.0, 76.0] AND A20 ∈ (-inf, 74.0] AND A34 ∈ (-inf, 63.0] AND A35 ∈ (94.0, inf] THEN target == 1
+IF A1 ∈ (49.0, inf] AND A7 ∈ (87.0, inf] AND A8 ∈ (76.0, inf] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (-inf, 72.0] AND A20 ∈ (-inf, 74.0] AND A22 ∈ (61.0, inf] THEN target == 1
+IF A17 ∈ (-inf, 76.0] AND A18 ∈ (-inf, 49.0] AND A20 ∈ (74.0, inf] THEN target == 1
+IF A1 ∈ (-inf, 53.0] AND A11 ∈ (106.0, inf] AND A16 ∈ (79.0, inf] AND A17 ∈ (-inf, 76.0] AND A18 ∈ (49.0, 69.0] AND A20 ∈ (74.0, inf] THEN target == 1
+IF A1 ∈ (-inf, 53.0] AND A16 ∈ (79.0, inf] AND A17 ∈ (-inf, 76.0] AND A18 ∈ (49.0, 69.0] AND A20 ∈ (74.0, inf] AND A21 ∈ (60.0, inf] THEN target == 1
+IF A1 ∈ (53.0, inf] AND A17 ∈ (-inf, 76.0] AND A18 ∈ (49.0, 69.0] AND A20 ∈ (74.0, inf] AND A27 ∈ (110.0, inf] THEN target == 1
+IF A17 ∈ (-inf, 76.0] AND A18 ∈ (49.0, 69.0] AND A20 ∈ (74.0, inf] AND A24 ∈ (100.0, inf] THEN target == 1
+IF A2 ∈ (-inf, 94.0] AND A17 ∈ (-inf, 63.0] AND A18 ∈ (69.0, 91.0] AND A20 ∈ (74.0, inf] AND A26 ∈ (-inf, 60.0] AND A35 ∈ (98.0, inf] THEN target == 1
+IF A17 ∈ (63.0, 71.0] AND A18 ∈ (69.0, 79.0] AND A20 ∈ (74.0, inf] AND A27 ∈ (83.0, inf] AND A29 ∈ (-inf, 63.0] THEN target == 1
+IF A1 ∈ (70.0, inf] AND A7 ∈ (93.0, inf] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, 87.0] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (83.0, inf] THEN target == 1
+IF A2 ∈ (75.0, 95.0] AND A3 ∈ (-inf, 106.0] AND A5 ∈ (-inf, 59.0] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, inf] AND A20 ∈ (88.0, inf] THEN target == 1
+IF A1 ∈ (71.0, 79.0] AND A11 ∈ (112.0, inf] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (-inf, 88.0] AND A27 ∈ (-inf, 108.0] THEN target == 1
+IF A1 ∈ (-inf, 71.0] AND A3 ∈ (-inf, 93.0] AND A5 ∈ (-inf, 78.0] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (88.0, inf] AND A27 ∈ (-inf, 108.0] AND A36 ∈ (75.0, inf] THEN target == 1
+IF A5 ∈ (84.0, inf] AND A12 ∈ (78.0, inf] AND A15 ∈ (-inf, 109.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A25 ∈ (-inf, 80.0] AND A27 ∈ (108.0, inf] THEN target == 1
+IF A1 ∈ (60.0, 63.0] AND A2 ∈ (-inf, 88.0] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A25 ∈ (80.0, inf] AND A27 ∈ (108.0, inf] THEN target == 1
+IF A11 ∈ (-inf, 64.0] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (72.0, 83.0] AND A20 ∈ (-inf, 74.0] AND A21 ∈ (-inf, 60.0] THEN target == 2
+IF A1 ∈ (63.0, inf] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (83.0, inf] AND A20 ∈ (-inf, 74.0] AND A21 ∈ (-inf, 70.0] AND A26 ∈ (95.0, inf] THEN target == 2
+IF A5 ∈ (-inf, 60.0] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (83.0, inf] AND A20 ∈ (-inf, 74.0] AND A21 ∈ (70.0, inf] AND A26 ∈ (95.0, inf] THEN target == 2
+IF A15 ∈ (98.0, inf] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, inf] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (-inf, 83.0] AND A25 ∈ (-inf, 80.0] AND A30 ∈ (-inf, 79.0] THEN target == 2
+IF A17 ∈ (71.0, 76.0] AND A18 ∈ (91.0, inf] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (-inf, 83.0] AND A25 ∈ (80.0, inf] THEN target == 2
+IF A17 ∈ (71.0, 76.0] AND A18 ∈ (87.0, inf] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (83.0, inf] AND A29 ∈ (66.0, inf] AND A35 ∈ (-inf, 113.0] THEN target == 2
+IF A2 ∈ (-inf, 75.0] AND A3 ∈ (-inf, 106.0] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, inf] AND A20 ∈ (88.0, inf] THEN target == 2
+IF A1 ∈ (-inf, 79.0] AND A12 ∈ (-inf, 78.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (-inf, 84.0] AND A24 ∈ (-inf, 58.0] THEN target == 2
+IF A1 ∈ (71.0, inf] AND A12 ∈ (-inf, 78.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (84.0, inf] AND A25 ∈ (79.0, inf] AND A31 ∈ (106.0, inf] AND A32 ∈ (79.0, inf] THEN target == 2
+IF A1 ∈ (71.0, inf] AND A12 ∈ (-inf, 78.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A22 ∈ (97.0, inf] AND A23 ∈ (84.0, inf] AND A25 ∈ (79.0, inf] AND A32 ∈ (79.0, inf] THEN target == 2
+IF A1 ∈ (79.0, inf] AND A11 ∈ (112.0, inf] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (-inf, 88.0] AND A27 ∈ (-inf, 108.0] THEN target == 2
+IF A3 ∈ (93.0, 114.0] AND A5 ∈ (78.0, inf] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (88.0, inf] AND A27 ∈ (-inf, 108.0] AND A36 ∈ (75.0, inf] THEN target == 2
+IF A5 ∈ (80.0, 84.0] AND A12 ∈ (78.0, inf] AND A15 ∈ (-inf, 109.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A25 ∈ (-inf, 80.0] AND A27 ∈ (108.0, inf] THEN target == 2
+IF A1 ∈ (-inf, 60.0] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A25 ∈ (80.0, inf] AND A27 ∈ (108.0, inf] THEN target == 2
+IF A2 ∈ (88.0, inf] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A25 ∈ (80.0, inf] AND A27 ∈ (108.0, inf] THEN target == 2
+IF A10 ∈ (-inf, 95.0] AND A11 ∈ (-inf, 101.0] AND A12 ∈ (-inf, 79.0] AND A15 ∈ (102.0, inf] AND A16 ∈ (-inf, 90.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (-inf, 78.0] THEN target == 2
+IF A10 ∈ (95.0, inf] AND A11 ∈ (-inf, 96.0] AND A15 ∈ (102.0, inf] AND A16 ∈ (-inf, 90.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (-inf, 78.0] THEN target == 2
+IF A11 ∈ (101.0, 111.0] AND A16 ∈ (-inf, 90.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, 102.0] AND A27 ∈ (76.0, 104.0] AND A33 ∈ (-inf, 78.0] THEN target == 2
+IF A13 ∈ (83.0, inf] AND A15 ∈ (-inf, 114.0] AND A16 ∈ (90.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (-inf, 78.0] THEN target == 2
+IF A13 ∈ (83.0, inf] AND A16 ∈ (90.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (-inf, 78.0] AND A36 ∈ (-inf, 74.0] THEN target == 2
+IF A1 ∈ (-inf, 84.0] AND A13 ∈ (83.0, inf] AND A16 ∈ (90.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A21 ∈ (82.0, inf] AND A33 ∈ (-inf, 78.0] THEN target == 2
+IF A1 ∈ (-inf, 78.0] AND A3 ∈ (-inf, 96.0] AND A7 ∈ (-inf, 97.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A19 ∈ (-inf, 108.0] AND A20 ∈ (80.0, inf] AND A33 ∈ (78.0, 85.0] THEN target == 2
+IF A1 ∈ (-inf, 67.0] AND A3 ∈ (-inf, 96.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A19 ∈ (108.0, inf] AND A20 ∈ (80.0, inf] AND A33 ∈ (78.0, 85.0] THEN target == 2
+IF A3 ∈ (96.0, inf] AND A16 ∈ (-inf, 94.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (78.0, 85.0] THEN target == 2
+IF A1 ∈ (80.0, inf] AND A3 ∈ (96.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (78.0, 85.0] AND A36 ∈ (-inf, 87.0] THEN target == 2
+IF A3 ∈ (96.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A25 ∈ (84.0, inf] AND A33 ∈ (78.0, 85.0] THEN target == 2
+IF A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (85.0, inf] THEN target == 2
+IF A3 ∈ (84.0, inf] AND A16 ∈ (-inf, 65.0] AND A17 ∈ (60.0, 76.0] AND A20 ∈ (-inf, 74.0] AND A34 ∈ (-inf, 63.0] AND A35 ∈ (94.0, inf] THEN target == 3
+IF A1 ∈ (-inf, 49.0] AND A7 ∈ (87.0, inf] AND A8 ∈ (76.0, inf] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (-inf, 72.0] AND A20 ∈ (-inf, 74.0] AND A22 ∈ (61.0, inf] THEN target == 3
+IF A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (79.0, 83.0] AND A19 ∈ (91.0, inf] AND A20 ∈ (-inf, 74.0] AND A21 ∈ (60.0, inf] THEN target == 3
+IF A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (83.0, inf] AND A20 ∈ (-inf, 74.0] AND A26 ∈ (-inf, 83.0] AND A27 ∈ (92.0, inf] THEN target == 3
+IF A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (83.0, inf] AND A19 ∈ (84.0, inf] AND A20 ∈ (-inf, 74.0] AND A26 ∈ (83.0, 95.0] THEN target == 3
+IF A17 ∈ (68.0, 71.0] AND A18 ∈ (79.0, 91.0] AND A20 ∈ (74.0, 85.0] THEN target == 3
+IF A4 ∈ (65.0, inf] AND A15 ∈ (-inf, 98.0] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, inf] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (-inf, 83.0] AND A25 ∈ (-inf, 80.0] THEN target == 3
+IF A15 ∈ (98.0, inf] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, inf] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (-inf, 83.0] AND A25 ∈ (-inf, 80.0] AND A30 ∈ (79.0, inf] THEN target == 3
+IF A1 ∈ (-inf, 70.0] AND A7 ∈ (93.0, inf] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, 87.0] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (83.0, inf] THEN target == 3
+IF A12 ∈ (-inf, 78.0] AND A14 ∈ (95.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (84.0, inf] AND A26 ∈ (-inf, 83.0] AND A32 ∈ (-inf, 79.0] THEN target == 3
+IF A12 ∈ (-inf, 78.0] AND A16 ∈ (-inf, 73.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (84.0, inf] AND A26 ∈ (83.0, inf] AND A32 ∈ (-inf, 79.0] AND A35 ∈ (-inf, 87.0] THEN target == 3
+IF A12 ∈ (-inf, 78.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (84.0, inf] AND A26 ∈ (83.0, inf] AND A32 ∈ (-inf, 74.0] AND A34 ∈ (-inf, 92.0] AND A35 ∈ (87.0, inf] THEN target == 3
+IF A12 ∈ (-inf, 78.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (84.0, inf] AND A26 ∈ (83.0, inf] AND A32 ∈ (-inf, 79.0] AND A35 ∈ (87.0, 96.0] THEN target == 3
+IF A1 ∈ (71.0, inf] AND A9 ∈ (75.0, inf] AND A12 ∈ (-inf, 78.0] AND A16 ∈ (-inf, 79.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (84.0, inf] AND A25 ∈ (-inf, 79.0] AND A32 ∈ (79.0, inf] THEN target == 3
+IF A1 ∈ (71.0, inf] AND A12 ∈ (-inf, 78.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A22 ∈ (-inf, 97.0] AND A23 ∈ (84.0, inf] AND A25 ∈ (79.0, inf] AND A31 ∈ (-inf, 106.0] AND A32 ∈ (79.0, inf] THEN target == 3
+IF A4 ∈ (73.0, inf] AND A11 ∈ (-inf, 102.0] AND A12 ∈ (78.0, inf] AND A15 ∈ (-inf, 97.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (-inf, 88.0] AND A27 ∈ (-inf, 108.0] THEN target == 3
+IF A12 ∈ (78.0, inf] AND A14 ∈ (95.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (88.0, inf] AND A27 ∈ (-inf, 108.0] AND A34 ∈ (87.0, inf] AND A36 ∈ (-inf, 75.0] THEN target == 3
+IF A1 ∈ (71.0, inf] AND A3 ∈ (-inf, 93.0] AND A5 ∈ (-inf, 78.0] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (88.0, inf] AND A27 ∈ (-inf, 108.0] AND A36 ∈ (75.0, inf] THEN target == 3
+IF A1 ∈ (78.0, inf] AND A3 ∈ (-inf, 93.0] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (88.0, inf] AND A27 ∈ (-inf, 108.0] AND A36 ∈ (75.0, inf] THEN target == 3
+IF A3 ∈ (93.0, inf] AND A5 ∈ (-inf, 78.0] AND A6 ∈ (-inf, 91.0] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (88.0, inf] AND A27 ∈ (-inf, 108.0] AND A36 ∈ (75.0, inf] THEN target == 3
+IF A3 ∈ (114.0, inf] AND A5 ∈ (78.0, inf] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (88.0, inf] AND A27 ∈ (-inf, 108.0] AND A36 ∈ (75.0, inf] THEN target == 3
+IF A1 ∈ (71.0, inf] AND A11 ∈ (-inf, 101.0] AND A15 ∈ (-inf, 102.0] AND A16 ∈ (-inf, 90.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (-inf, 78.0] THEN target == 3
+IF A10 ∈ (95.0, inf] AND A11 ∈ (96.0, 101.0] AND A15 ∈ (102.0, inf] AND A16 ∈ (-inf, 90.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (-inf, 78.0] THEN target == 3
+IF A11 ∈ (101.0, inf] AND A16 ∈ (-inf, 90.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A27 ∈ (-inf, 76.0] AND A33 ∈ (-inf, 78.0] THEN target == 3
+IF A3 ∈ (-inf, 96.0] AND A7 ∈ (97.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A19 ∈ (-inf, 108.0] AND A20 ∈ (80.0, inf] AND A33 ∈ (78.0, 85.0] THEN target == 3
+IF A1 ∈ (78.0, inf] AND A3 ∈ (-inf, 96.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (78.0, 85.0] THEN target == 3
+IF A17 ∈ (-inf, 60.0] AND A18 ∈ (-inf, 62.0] AND A20 ∈ (-inf, 74.0] THEN target == 4
+IF A2 ∈ (-inf, 63.0] AND A17 ∈ (-inf, 57.0] AND A20 ∈ (-inf, 74.0] AND A21 ∈ (59.0, inf] THEN target == 4
+IF A10 ∈ (48.0, 57.0] AND A12 ∈ (-inf, 68.0] AND A17 ∈ (57.0, 60.0] AND A20 ∈ (-inf, 74.0] THEN target == 4
+IF A6 ∈ (-inf, 71.0] AND A12 ∈ (68.0, inf] AND A17 ∈ (57.0, 60.0] AND A20 ∈ (-inf, 74.0] THEN target == 4
+IF A1 ∈ (64.0, inf] AND A12 ∈ (68.0, inf] AND A14 ∈ (71.0, inf] AND A17 ∈ (57.0, 60.0] AND A20 ∈ (-inf, 74.0] THEN target == 4
+IF A16 ∈ (-inf, 65.0] AND A17 ∈ (60.0, 76.0] AND A20 ∈ (-inf, 74.0] AND A22 ∈ (-inf, 62.0] AND A29 ∈ (-inf, 64.0] AND A34 ∈ (-inf, 63.0] AND A35 ∈ (-inf, 94.0] THEN target == 4
+IF A15 ∈ (81.0, inf] AND A16 ∈ (-inf, 65.0] AND A17 ∈ (60.0, 76.0] AND A20 ∈ (-inf, 74.0] AND A22 ∈ (62.0, inf] AND A34 ∈ (-inf, 63.0] AND A35 ∈ (-inf, 94.0] THEN target == 4
+IF A4 ∈ (70.0, inf] AND A16 ∈ (-inf, 65.0] AND A17 ∈ (60.0, 76.0] AND A20 ∈ (-inf, 74.0] AND A22 ∈ (62.0, inf] AND A34 ∈ (-inf, 63.0] AND A35 ∈ (-inf, 94.0] THEN target == 4
+IF A1 ∈ (-inf, 67.0] AND A3 ∈ (-inf, 84.0] AND A16 ∈ (-inf, 65.0] AND A17 ∈ (60.0, 76.0] AND A20 ∈ (-inf, 74.0] AND A34 ∈ (-inf, 63.0] AND A35 ∈ (94.0, inf] THEN target == 4
+IF A7 ∈ (-inf, 87.0] AND A14 ∈ (-inf, 72.0] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (-inf, 72.0] AND A20 ∈ (-inf, 74.0] THEN target == 4
+IF A6 ∈ (-inf, 64.0] AND A7 ∈ (-inf, 87.0] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (-inf, 72.0] AND A20 ∈ (-inf, 74.0] THEN target == 4
+IF A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (-inf, 72.0] AND A20 ∈ (-inf, 74.0] AND A22 ∈ (-inf, 58.0] THEN target == 4
+IF A7 ∈ (87.0, inf] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (-inf, 72.0] AND A20 ∈ (-inf, 74.0] AND A22 ∈ (-inf, 61.0] THEN target == 4
+IF A11 ∈ (64.0, inf] AND A14 ∈ (84.0, inf] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (72.0, 83.0] AND A20 ∈ (-inf, 74.0] AND A21 ∈ (-inf, 60.0] THEN target == 4
+IF A1 ∈ (-inf, 53.0] AND A2 ∈ (-inf, 53.0] AND A16 ∈ (-inf, 79.0] AND A17 ∈ (-inf, 76.0] AND A18 ∈ (49.0, 69.0] AND A20 ∈ (74.0, inf] AND A24 ∈ (-inf, 100.0] THEN target == 4
+IF A1 ∈ (-inf, 53.0] AND A11 ∈ (-inf, 106.0] AND A16 ∈ (79.0, inf] AND A17 ∈ (-inf, 76.0] AND A18 ∈ (49.0, 69.0] AND A20 ∈ (74.0, inf] AND A21 ∈ (-inf, 60.0] AND A24 ∈ (-inf, 100.0] THEN target == 4
+IF A1 ∈ (53.0, inf] AND A17 ∈ (-inf, 76.0] AND A18 ∈ (49.0, 69.0] AND A20 ∈ (74.0, inf] AND A24 ∈ (-inf, 100.0] AND A27 ∈ (-inf, 110.0] THEN target == 4
+IF A17 ∈ (-inf, 63.0] AND A18 ∈ (69.0, 91.0] AND A20 ∈ (74.0, inf] AND A26 ∈ (-inf, 60.0] AND A35 ∈ (-inf, 98.0] THEN target == 4
+IF A10 ∈ (-inf, 69.0] AND A17 ∈ (-inf, 63.0] AND A18 ∈ (69.0, 91.0] AND A20 ∈ (74.0, inf] AND A21 ∈ (53.0, inf] AND A26 ∈ (60.0, inf] THEN target == 4
+IF A17 ∈ (63.0, 71.0] AND A18 ∈ (69.0, 79.0] AND A20 ∈ (74.0, inf] AND A27 ∈ (-inf, 83.0] AND A29 ∈ (-inf, 63.0] THEN target == 4
+IF A17 ∈ (63.0, 71.0] AND A18 ∈ (69.0, 79.0] AND A20 ∈ (74.0, inf] AND A29 ∈ (63.0, inf] AND A32 ∈ (75.0, inf] THEN target == 4
+IF A17 ∈ (63.0, 71.0] AND A18 ∈ (79.0, 91.0] AND A20 ∈ (85.0, inf] AND A24 ∈ (88.0, inf] THEN target == 4
+IF A2 ∈ (-inf, 75.0] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, 91.0] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (-inf, 83.0] AND A25 ∈ (80.0, inf] THEN target == 4
+IF A2 ∈ (-inf, 56.0] AND A7 ∈ (-inf, 93.0] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, 87.0] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (83.0, inf] THEN target == 4
+IF A2 ∈ (-inf, 95.0] AND A3 ∈ (106.0, inf] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, inf] AND A20 ∈ (88.0, inf] THEN target == 4
+IF A12 ∈ (78.0, inf] AND A15 ∈ (109.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A25 ∈ (-inf, 80.0] AND A27 ∈ (108.0, inf] THEN target == 4
+IF A2 ∈ (-inf, 87.0] AND A13 ∈ (-inf, 83.0] AND A16 ∈ (90.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (-inf, 78.0] THEN target == 4
+IF A1 ∈ (-inf, 80.0] AND A3 ∈ (96.0, inf] AND A16 ∈ (94.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A25 ∈ (-inf, 84.0] AND A33 ∈ (78.0, 85.0] AND A36 ∈ (-inf, 87.0] THEN target == 4
+IF A10 ∈ (-inf, 48.0] AND A12 ∈ (-inf, 68.0] AND A17 ∈ (57.0, 60.0] AND A18 ∈ (62.0, inf] AND A20 ∈ (-inf, 74.0] THEN target == 5
+IF A6 ∈ (71.0, inf] AND A12 ∈ (68.0, inf] AND A14 ∈ (-inf, 71.0] AND A17 ∈ (57.0, 60.0] AND A18 ∈ (62.0, inf] AND A20 ∈ (-inf, 74.0] THEN target == 5
+IF A16 ∈ (-inf, 65.0] AND A17 ∈ (60.0, 76.0] AND A20 ∈ (-inf, 74.0] AND A22 ∈ (-inf, 62.0] AND A29 ∈ (64.0, inf] AND A35 ∈ (-inf, 94.0] THEN target == 5
+IF A4 ∈ (-inf, 70.0] AND A15 ∈ (-inf, 81.0] AND A16 ∈ (-inf, 65.0] AND A17 ∈ (60.0, 76.0] AND A20 ∈ (-inf, 74.0] AND A22 ∈ (62.0, inf] AND A35 ∈ (-inf, 94.0] THEN target == 5
+IF A1 ∈ (67.0, inf] AND A2 ∈ (-inf, 79.0] AND A3 ∈ (-inf, 84.0] AND A16 ∈ (-inf, 65.0] AND A17 ∈ (60.0, 76.0] AND A20 ∈ (-inf, 74.0] AND A35 ∈ (94.0, inf] THEN target == 5
+IF A16 ∈ (-inf, 65.0] AND A17 ∈ (60.0, 76.0] AND A20 ∈ (-inf, 74.0] AND A34 ∈ (63.0, inf] THEN target == 5
+IF A6 ∈ (64.0, inf] AND A7 ∈ (-inf, 87.0] AND A14 ∈ (72.0, inf] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (-inf, 72.0] AND A20 ∈ (-inf, 74.0] AND A22 ∈ (58.0, inf] THEN target == 5
+IF A7 ∈ (87.0, inf] AND A8 ∈ (-inf, 76.0] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (-inf, 72.0] AND A20 ∈ (-inf, 74.0] AND A22 ∈ (61.0, inf] THEN target == 5
+IF A11 ∈ (64.0, inf] AND A14 ∈ (-inf, 84.0] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (72.0, 83.0] AND A20 ∈ (-inf, 74.0] AND A21 ∈ (-inf, 60.0] THEN target == 5
+IF A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (72.0, 79.0] AND A20 ∈ (-inf, 74.0] AND A21 ∈ (60.0, inf] THEN target == 5
+IF A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (79.0, 83.0] AND A19 ∈ (-inf, 91.0] AND A20 ∈ (-inf, 74.0] AND A21 ∈ (60.0, inf] THEN target == 5
+IF A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (83.0, inf] AND A20 ∈ (-inf, 74.0] AND A26 ∈ (-inf, 83.0] AND A27 ∈ (-inf, 92.0] THEN target == 5
+IF A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (83.0, inf] AND A19 ∈ (-inf, 84.0] AND A20 ∈ (-inf, 74.0] AND A26 ∈ (83.0, 95.0] THEN target == 5
+IF A5 ∈ (60.0, inf] AND A16 ∈ (65.0, inf] AND A17 ∈ (60.0, 76.0] AND A18 ∈ (83.0, inf] AND A20 ∈ (-inf, 74.0] AND A21 ∈ (70.0, inf] AND A26 ∈ (95.0, inf] THEN target == 5
+IF A17 ∈ (63.0, 71.0] AND A18 ∈ (69.0, 79.0] AND A20 ∈ (74.0, inf] AND A29 ∈ (63.0, inf] AND A32 ∈ (-inf, 75.0] THEN target == 5
+IF A4 ∈ (-inf, 65.0] AND A15 ∈ (-inf, 98.0] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, inf] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (-inf, 83.0] AND A25 ∈ (-inf, 80.0] THEN target == 5
+IF A2 ∈ (75.0, inf] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, 91.0] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (-inf, 83.0] AND A25 ∈ (80.0, inf] THEN target == 5
+IF A2 ∈ (56.0, inf] AND A7 ∈ (-inf, 93.0] AND A17 ∈ (71.0, 76.0] AND A18 ∈ (69.0, 87.0] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (83.0, inf] THEN target == 5
+IF A17 ∈ (71.0, 76.0] AND A18 ∈ (87.0, inf] AND A20 ∈ (74.0, 88.0] AND A24 ∈ (83.0, inf] AND A29 ∈ (66.0, inf] AND A35 ∈ (113.0, inf] THEN target == 5
+IF A1 ∈ (79.0, inf] AND A12 ∈ (-inf, 78.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (-inf, 84.0] THEN target == 5
+IF A12 ∈ (-inf, 78.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (-inf, 84.0] AND A24 ∈ (58.0, inf] THEN target == 5
+IF A12 ∈ (-inf, 78.0] AND A14 ∈ (-inf, 95.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (84.0, inf] AND A26 ∈ (-inf, 83.0] AND A32 ∈ (-inf, 79.0] THEN target == 5
+IF A12 ∈ (-inf, 78.0] AND A16 ∈ (73.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (84.0, inf] AND A26 ∈ (83.0, inf] AND A32 ∈ (-inf, 79.0] AND A35 ∈ (-inf, 87.0] THEN target == 5
+IF A12 ∈ (-inf, 78.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (84.0, inf] AND A26 ∈ (83.0, inf] AND A32 ∈ (-inf, 79.0] AND A34 ∈ (92.0, inf] AND A35 ∈ (96.0, inf] THEN target == 5
+IF A1 ∈ (-inf, 71.0] AND A12 ∈ (-inf, 78.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (84.0, inf] AND A32 ∈ (79.0, inf] THEN target == 5
+IF A9 ∈ (-inf, 75.0] AND A12 ∈ (-inf, 78.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (84.0, inf] AND A25 ∈ (-inf, 79.0] AND A32 ∈ (79.0, inf] THEN target == 5
+IF A12 ∈ (-inf, 78.0] AND A16 ∈ (79.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A23 ∈ (84.0, inf] AND A25 ∈ (-inf, 79.0] AND A32 ∈ (79.0, inf] THEN target == 5
+IF A4 ∈ (-inf, 73.0] AND A11 ∈ (-inf, 104.0] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (-inf, 88.0] AND A27 ∈ (-inf, 108.0] THEN target == 5
+IF A11 ∈ (102.0, 104.0] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (-inf, 88.0] AND A27 ∈ (-inf, 108.0] THEN target == 5
+IF A11 ∈ (-inf, 104.0] AND A12 ∈ (78.0, inf] AND A15 ∈ (97.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (-inf, 88.0] AND A27 ∈ (-inf, 108.0] THEN target == 5
+IF A1 ∈ (-inf, 71.0] AND A11 ∈ (112.0, inf] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (-inf, 88.0] AND A27 ∈ (-inf, 108.0] THEN target == 5
+IF A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (88.0, inf] AND A27 ∈ (-inf, 108.0] AND A34 ∈ (-inf, 87.0] AND A36 ∈ (-inf, 75.0] THEN target == 5
+IF A12 ∈ (78.0, inf] AND A14 ∈ (-inf, 95.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (88.0, inf] AND A27 ∈ (-inf, 108.0] AND A36 ∈ (-inf, 75.0] THEN target == 5
+IF A1 ∈ (-inf, 78.0] AND A3 ∈ (-inf, 93.0] AND A5 ∈ (78.0, inf] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (88.0, inf] AND A27 ∈ (-inf, 108.0] AND A36 ∈ (75.0, inf] THEN target == 5
+IF A3 ∈ (93.0, inf] AND A5 ∈ (-inf, 78.0] AND A6 ∈ (91.0, inf] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A26 ∈ (88.0, inf] AND A27 ∈ (-inf, 108.0] AND A36 ∈ (75.0, inf] THEN target == 5
+IF A1 ∈ (63.0, inf] AND A2 ∈ (-inf, 88.0] AND A12 ∈ (78.0, inf] AND A17 ∈ (76.0, inf] AND A18 ∈ (-inf, 96.0] AND A25 ∈ (80.0, inf] AND A27 ∈ (108.0, inf] THEN target == 5
+IF A1 ∈ (-inf, 71.0] AND A11 ∈ (-inf, 101.0] AND A15 ∈ (-inf, 102.0] AND A16 ∈ (-inf, 90.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (-inf, 78.0] THEN target == 5
+IF A10 ∈ (-inf, 95.0] AND A11 ∈ (-inf, 101.0] AND A12 ∈ (79.0, inf] AND A15 ∈ (102.0, inf] AND A16 ∈ (-inf, 90.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A33 ∈ (-inf, 78.0] THEN target == 5
+IF A11 ∈ (101.0, 111.0] AND A16 ∈ (-inf, 90.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (102.0, inf] AND A27 ∈ (76.0, 104.0] AND A33 ∈ (-inf, 78.0] THEN target == 5
+IF A1 ∈ (-inf, 78.0] AND A3 ∈ (-inf, 96.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A20 ∈ (-inf, 80.0] AND A33 ∈ (78.0, 85.0] THEN target == 5
+IF A1 ∈ (67.0, 78.0] AND A3 ∈ (-inf, 96.0] AND A17 ∈ (76.0, inf] AND A18 ∈ (96.0, inf] AND A19 ∈ (108.0, inf] AND A33 ∈ (78.0, 85.0] THEN target == 5

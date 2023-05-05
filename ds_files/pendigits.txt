@@ -1,0 +1,115 @@
+IF input6 ∈ (-inf, 11.0] AND input7 ∈ (30.0, inf] AND input8 ∈ (-inf, 54.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (-inf, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 0
+IF input1 ∈ (-inf, 35.0] AND input3 ∈ (-inf, 41.0] AND input4 ∈ (-inf, 87.0] AND input8 ∈ (54.0, inf] AND input10 ∈ (84.0, inf] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (-inf, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 0
+IF input6 ∈ (-inf, 51.0] AND input8 ∈ (-inf, 62.0] AND input10 ∈ (15.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (0.0, 24.0] THEN target == 0
+IF input1 ∈ (35.0, inf] AND input7 ∈ (-inf, 10.0] AND input13 ∈ (68.0, inf] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (65.0, inf] AND input16 ∈ (24.0, inf] THEN target == 0
+IF input8 ∈ (-inf, 27.0] AND input9 ∈ (52.0, inf] AND input14 ∈ (58.0, inf] AND input16 ∈ (24.0, inf] THEN target == 0
+IF input2 ∈ (3.0, inf] AND input4 ∈ (-inf, 28.0] AND input9 ∈ (52.0, inf] AND input14 ∈ (58.0, inf] AND input16 ∈ (24.0, inf] THEN target == 0
+IF input3 ∈ (-inf, 41.0] AND input4 ∈ (-inf, 87.0] AND input8 ∈ (54.0, inf] AND input10 ∈ (-inf, 84.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (-inf, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input3 ∈ (-inf, 41.0] AND input4 ∈ (87.0, inf] AND input5 ∈ (-inf, 0.0] AND input8 ∈ (54.0, inf] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (-inf, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input3 ∈ (41.0, inf] AND input8 ∈ (54.0, inf] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (-inf, 33.0] AND input15 ∈ (-inf, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input1 ∈ (-inf, 0.0] AND input2 ∈ (-inf, 66.0] AND input3 ∈ (41.0, inf] AND input8 ∈ (54.0, inf] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (1.0, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input1 ∈ (-inf, 15.0] AND input4 ∈ (-inf, 92.0] AND input9 ∈ (-inf, 35.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input1 ∈ (16.0, inf] AND input3 ∈ (-inf, 57.0] AND input4 ∈ (-inf, 92.0] AND input9 ∈ (20.0, 35.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input4 ∈ (92.0, inf] AND input5 ∈ (-inf, 49.0] AND input9 ∈ (9.0, 35.0] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (-inf, 55.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input4 ∈ (92.0, inf] AND input5 ∈ (-inf, 49.0] AND input6 ∈ (82.0, inf] AND input9 ∈ (-inf, 35.0] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (-inf, 55.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input4 ∈ (-inf, 98.0] AND input7 ∈ (-inf, 64.0] AND input9 ∈ (35.0, inf] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (-inf, 57.0] AND input14 ∈ (-inf, 12.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input7 ∈ (-inf, 64.0] AND input8 ∈ (-inf, 63.0] AND input9 ∈ (35.0, inf] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (-inf, 57.0] AND input14 ∈ (-inf, 12.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input1 ∈ (21.0, inf] AND input7 ∈ (-inf, 64.0] AND input9 ∈ (35.0, inf] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (-inf, 57.0] AND input14 ∈ (12.0, inf] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input4 ∈ (-inf, 86.0] AND input7 ∈ (-inf, 64.0] AND input9 ∈ (35.0, inf] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (57.0, inf] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input4 ∈ (-inf, 87.0] AND input7 ∈ (64.0, 75.0] AND input9 ∈ (35.0, 61.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 16.0] THEN target == 1
+IF input7 ∈ (64.0, inf] AND input8 ∈ (-inf, 63.0] AND input9 ∈ (61.0, inf] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 16.0] THEN target == 1
+IF input2 ∈ (-inf, 39.0] AND input6 ∈ (-inf, 69.0] AND input8 ∈ (62.0, inf] AND input10 ∈ (15.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input1 ∈ (-inf, 7.0] AND input2 ∈ (28.0, inf] AND input3 ∈ (-inf, 38.0] AND input4 ∈ (-inf, 88.0] AND input6 ∈ (69.0, inf] AND input11 ∈ (45.0, inf] AND input12 ∈ (-inf, 33.0] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input1 ∈ (-inf, 7.0] AND input4 ∈ (-inf, 88.0] AND input6 ∈ (69.0, inf] AND input7 ∈ (58.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input1 ∈ (7.0, 36.0] AND input4 ∈ (-inf, 88.0] AND input6 ∈ (69.0, inf] AND input7 ∈ (48.0, inf] AND input9 ∈ (51.0, inf] AND input10 ∈ (-inf, 76.0] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input1 ∈ (7.0, 36.0] AND input4 ∈ (-inf, 88.0] AND input6 ∈ (69.0, 82.0] AND input7 ∈ (48.0, inf] AND input10 ∈ (76.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input4 ∈ (88.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (69.0, inf] AND input7 ∈ (-inf, 50.0] AND input10 ∈ (-inf, 27.0] AND input11 ∈ (45.0, inf] AND input14 ∈ (-inf, 19.0] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input3 ∈ (-inf, 89.0] AND input4 ∈ (88.0, inf] AND input5 ∈ (58.0, inf] AND input6 ∈ (69.0, inf] AND input8 ∈ (-inf, 82.0] AND input11 ∈ (45.0, inf] AND input15 ∈ (56.0, inf] AND input16 ∈ (-inf, 4.0] THEN target == 1
+IF input1 ∈ (-inf, 76.0] AND input3 ∈ (89.0, inf] AND input4 ∈ (88.0, inf] AND input5 ∈ (58.0, inf] AND input6 ∈ (69.0, 85.0] AND input11 ∈ (45.0, inf] AND input12 ∈ (-inf, 6.0] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input1 ∈ (76.0, inf] AND input2 ∈ (90.0, inf] AND input3 ∈ (89.0, inf] AND input4 ∈ (88.0, inf] AND input5 ∈ (58.0, inf] AND input6 ∈ (69.0, 85.0] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input3 ∈ (89.0, inf] AND input4 ∈ (88.0, inf] AND input5 ∈ (64.0, inf] AND input6 ∈ (85.0, inf] AND input7 ∈ (63.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 1
+IF input1 ∈ (53.0, inf] AND input6 ∈ (11.0, inf] AND input7 ∈ (30.0, inf] AND input8 ∈ (-inf, 54.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (-inf, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 2
+IF input1 ∈ (15.0, inf] AND input3 ∈ (-inf, 57.0] AND input4 ∈ (-inf, 92.0] AND input9 ∈ (-inf, 20.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 2
+IF input4 ∈ (92.0, inf] AND input6 ∈ (-inf, 82.0] AND input9 ∈ (-inf, 9.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 2
+IF input4 ∈ (92.0, inf] AND input9 ∈ (-inf, 35.0] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (55.0, inf] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 2
+IF input4 ∈ (92.0, inf] AND input5 ∈ (49.0, inf] AND input9 ∈ (-inf, 35.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 2
+IF input4 ∈ (98.0, inf] AND input7 ∈ (-inf, 64.0] AND input8 ∈ (63.0, inf] AND input9 ∈ (35.0, inf] AND input11 ∈ (-inf, 45.0] AND input14 ∈ (-inf, 12.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 2
+IF input4 ∈ (86.0, inf] AND input7 ∈ (-inf, 64.0] AND input9 ∈ (35.0, inf] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (57.0, inf] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 2
+IF input7 ∈ (75.0, inf] AND input9 ∈ (35.0, 61.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 16.0] THEN target == 2
+IF input4 ∈ (87.0, inf] AND input7 ∈ (64.0, inf] AND input9 ∈ (35.0, 61.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 16.0] THEN target == 2
+IF input4 ∈ (75.0, inf] AND input7 ∈ (64.0, inf] AND input8 ∈ (63.0, inf] AND input9 ∈ (61.0, inf] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 16.0] THEN target == 2
+IF input1 ∈ (35.0, 42.0] AND input7 ∈ (10.0, inf] AND input13 ∈ (68.0, inf] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (65.0, inf] AND input16 ∈ (24.0, inf] THEN target == 2
+IF input2 ∈ (66.0, 85.0] AND input3 ∈ (41.0, inf] AND input8 ∈ (54.0, inf] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (33.0, inf] AND input15 ∈ (1.0, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 3
+IF input1 ∈ (-inf, 66.0] AND input6 ∈ (51.0, 69.0] AND input8 ∈ (-inf, 62.0] AND input10 ∈ (15.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (0.0, 24.0] THEN target == 3
+IF input1 ∈ (7.0, 36.0] AND input4 ∈ (-inf, 88.0] AND input6 ∈ (69.0, inf] AND input7 ∈ (48.0, inf] AND input9 ∈ (-inf, 51.0] AND input10 ∈ (-inf, 76.0] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 3
+IF input1 ∈ (-inf, 37.0] AND input4 ∈ (88.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (69.0, inf] AND input7 ∈ (50.0, inf] AND input10 ∈ (-inf, 61.0] AND input11 ∈ (45.0, inf] AND input14 ∈ (-inf, 19.0] AND input16 ∈ (-inf, 24.0] THEN target == 3
+IF input3 ∈ (-inf, 89.0] AND input4 ∈ (88.0, inf] AND input5 ∈ (58.0, inf] AND input6 ∈ (69.0, inf] AND input8 ∈ (-inf, 82.0] AND input11 ∈ (45.0, inf] AND input15 ∈ (-inf, 56.0] AND input16 ∈ (-inf, 24.0] THEN target == 3
+IF input3 ∈ (-inf, 89.0] AND input4 ∈ (88.0, inf] AND input5 ∈ (58.0, inf] AND input6 ∈ (69.0, inf] AND input8 ∈ (82.0, inf] AND input11 ∈ (45.0, inf] AND input12 ∈ (-inf, 35.0] AND input15 ∈ (2.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 3
+IF input1 ∈ (-inf, 76.0] AND input3 ∈ (89.0, inf] AND input4 ∈ (88.0, inf] AND input5 ∈ (58.0, inf] AND input6 ∈ (69.0, 85.0] AND input11 ∈ (45.0, inf] AND input12 ∈ (6.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 3
+IF input1 ∈ (-inf, 35.0] AND input2 ∈ (-inf, 84.0] AND input3 ∈ (0.0, inf] AND input9 ∈ (75.0, inf] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (-inf, 37.0] AND input16 ∈ (24.0, inf] THEN target == 3
+IF input1 ∈ (4.0, 35.0] AND input2 ∈ (84.0, inf] AND input3 ∈ (66.0, inf] AND input10 ∈ (23.0, inf] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (-inf, 37.0] AND input16 ∈ (24.0, inf] THEN target == 3
+IF input1 ∈ (35.0, inf] AND input3 ∈ (-inf, 93.0] AND input5 ∈ (61.0, inf] AND input8 ∈ (-inf, 64.0] AND input9 ∈ (68.0, inf] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (-inf, 65.0] AND input16 ∈ (24.0, inf] THEN target == 3
+IF input1 ∈ (-inf, 53.0] AND input6 ∈ (11.0, inf] AND input7 ∈ (30.0, inf] AND input8 ∈ (-inf, 54.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (-inf, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 4
+IF input1 ∈ (35.0, inf] AND input3 ∈ (-inf, 41.0] AND input4 ∈ (-inf, 87.0] AND input8 ∈ (54.0, inf] AND input10 ∈ (84.0, inf] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (-inf, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 4
+IF input6 ∈ (-inf, 69.0] AND input8 ∈ (-inf, 62.0] AND input10 ∈ (15.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 0.0] THEN target == 4
+IF input1 ∈ (-inf, 72.0] AND input2 ∈ (39.0, inf] AND input6 ∈ (-inf, 69.0] AND input8 ∈ (62.0, 87.0] AND input10 ∈ (15.0, inf] AND input11 ∈ (45.0, inf] AND input14 ∈ (20.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 4
+IF input4 ∈ (88.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (69.0, 79.0] AND input10 ∈ (17.0, 61.0] AND input11 ∈ (45.0, inf] AND input14 ∈ (19.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 4
+IF input3 ∈ (41.0, inf] AND input8 ∈ (54.0, inf] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (33.0, inf] AND input15 ∈ (-inf, 1.0] AND input16 ∈ (-inf, 24.0] THEN target == 5
+IF input4 ∈ (88.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (69.0, inf] AND input7 ∈ (-inf, 50.0] AND input10 ∈ (27.0, 61.0] AND input11 ∈ (45.0, inf] AND input14 ∈ (-inf, 19.0] AND input16 ∈ (-inf, 24.0] THEN target == 5
+IF input1 ∈ (-inf, 40.0] AND input3 ∈ (64.0, inf] AND input4 ∈ (88.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (69.0, inf] AND input10 ∈ (61.0, inf] AND input11 ∈ (83.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 5
+IF input1 ∈ (40.0, inf] AND input4 ∈ (88.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (69.0, inf] AND input9 ∈ (-inf, 73.0] AND input10 ∈ (61.0, inf] AND input11 ∈ (45.0, 88.0] AND input16 ∈ (-inf, 24.0] THEN target == 5
+IF input1 ∈ (-inf, 41.0] AND input3 ∈ (-inf, 89.0] AND input4 ∈ (88.0, inf] AND input5 ∈ (58.0, inf] AND input6 ∈ (69.0, inf] AND input8 ∈ (82.0, inf] AND input11 ∈ (45.0, inf] AND input15 ∈ (-inf, 2.0] AND input16 ∈ (-inf, 24.0] THEN target == 5
+IF input3 ∈ (89.0, inf] AND input4 ∈ (88.0, inf] AND input5 ∈ (58.0, inf] AND input6 ∈ (85.0, inf] AND input7 ∈ (-inf, 63.0] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 5
+IF input1 ∈ (-inf, 4.0] AND input2 ∈ (84.0, inf] AND input3 ∈ (66.0, inf] AND input10 ∈ (23.0, inf] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (-inf, 37.0] AND input16 ∈ (24.0, inf] THEN target == 5
+IF input1 ∈ (-inf, 56.0] AND input9 ∈ (-inf, 52.0] AND input13 ∈ (-inf, 25.0] AND input14 ∈ (58.0, inf] AND input15 ∈ (-inf, 99.0] AND input16 ∈ (24.0, inf] THEN target == 5
+IF input1 ∈ (0.0, inf] AND input9 ∈ (-inf, 52.0] AND input12 ∈ (42.0, inf] AND input14 ∈ (58.0, 71.0] AND input15 ∈ (99.0, inf] AND input16 ∈ (24.0, inf] THEN target == 5
+IF input9 ∈ (-inf, 52.0] AND input14 ∈ (71.0, inf] AND input15 ∈ (99.0, inf] AND input16 ∈ (24.0, inf] THEN target == 5
+IF input7 ∈ (-inf, 30.0] AND input8 ∈ (-inf, 54.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (-inf, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 6
+IF input1 ∈ (0.0, inf] AND input2 ∈ (-inf, 66.0] AND input3 ∈ (41.0, inf] AND input8 ∈ (54.0, inf] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (33.0, inf] AND input15 ∈ (1.0, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 6
+IF input6 ∈ (-inf, 69.0] AND input10 ∈ (-inf, 15.0] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 6
+IF input1 ∈ (66.0, inf] AND input2 ∈ (95.0, inf] AND input6 ∈ (51.0, 69.0] AND input8 ∈ (-inf, 62.0] AND input11 ∈ (45.0, inf] AND input16 ∈ (0.0, 24.0] THEN target == 6
+IF input4 ∈ (88.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (69.0, inf] AND input10 ∈ (-inf, 17.0] AND input11 ∈ (45.0, inf] AND input14 ∈ (19.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 6
+IF input1 ∈ (76.0, inf] AND input2 ∈ (-inf, 90.0] AND input3 ∈ (89.0, inf] AND input4 ∈ (88.0, inf] AND input5 ∈ (58.0, inf] AND input6 ∈ (69.0, 85.0] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 6
+IF input1 ∈ (-inf, 35.0] AND input2 ∈ (95.0, inf] AND input4 ∈ (-inf, 76.0] AND input10 ∈ (-inf, 23.0] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (-inf, 37.0] AND input16 ∈ (24.0, inf] THEN target == 6
+IF input1 ∈ (35.0, inf] AND input5 ∈ (-inf, 61.0] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (-inf, 65.0] AND input16 ∈ (24.0, inf] THEN target == 6
+IF input3 ∈ (-inf, 41.0] AND input4 ∈ (87.0, inf] AND input5 ∈ (0.0, inf] AND input8 ∈ (54.0, inf] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (-inf, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 7
+IF input2 ∈ (85.0, inf] AND input3 ∈ (41.0, inf] AND input8 ∈ (54.0, inf] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (33.0, inf] AND input15 ∈ (1.0, 54.0] AND input16 ∈ (-inf, 24.0] THEN target == 7
+IF input1 ∈ (-inf, 21.0] AND input7 ∈ (-inf, 64.0] AND input9 ∈ (35.0, inf] AND input11 ∈ (-inf, 45.0] AND input13 ∈ (-inf, 57.0] AND input14 ∈ (12.0, inf] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 7
+IF input7 ∈ (64.0, inf] AND input9 ∈ (35.0, inf] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (16.0, 24.0] THEN target == 7
+IF input1 ∈ (7.0, 36.0] AND input4 ∈ (-inf, 88.0] AND input6 ∈ (82.0, inf] AND input7 ∈ (48.0, inf] AND input10 ∈ (76.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 7
+IF input1 ∈ (-inf, 40.0] AND input4 ∈ (88.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (69.0, inf] AND input10 ∈ (61.0, inf] AND input11 ∈ (45.0, 83.0] AND input16 ∈ (-inf, 24.0] THEN target == 7
+IF input3 ∈ (-inf, 89.0] AND input4 ∈ (88.0, inf] AND input5 ∈ (58.0, inf] AND input6 ∈ (69.0, inf] AND input8 ∈ (-inf, 82.0] AND input11 ∈ (45.0, inf] AND input15 ∈ (56.0, inf] AND input16 ∈ (4.0, 24.0] THEN target == 7
+IF input3 ∈ (-inf, 89.0] AND input4 ∈ (88.0, inf] AND input5 ∈ (58.0, inf] AND input6 ∈ (69.0, inf] AND input8 ∈ (82.0, inf] AND input11 ∈ (45.0, inf] AND input12 ∈ (35.0, inf] AND input15 ∈ (2.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 7
+IF input1 ∈ (-inf, 35.0] AND input2 ∈ (-inf, 84.0] AND input3 ∈ (-inf, 0.0] AND input9 ∈ (75.0, inf] AND input14 ∈ (-inf, 58.0] AND input16 ∈ (24.0, inf] THEN target == 7
+IF input1 ∈ (-inf, 35.0] AND input2 ∈ (84.0, inf] AND input4 ∈ (76.0, inf] AND input10 ∈ (-inf, 23.0] AND input14 ∈ (-inf, 58.0] AND input16 ∈ (24.0, inf] THEN target == 7
+IF input1 ∈ (-inf, 35.0] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (37.0, inf] AND input16 ∈ (24.0, inf] THEN target == 7
+IF input1 ∈ (-inf, 0.0] AND input9 ∈ (-inf, 52.0] AND input12 ∈ (42.0, inf] AND input14 ∈ (58.0, 71.0] AND input15 ∈ (99.0, inf] AND input16 ∈ (24.0, inf] THEN target == 7
+IF input1 ∈ (-inf, 7.0] AND input2 ∈ (-inf, 28.0] AND input4 ∈ (-inf, 88.0] AND input6 ∈ (69.0, inf] AND input7 ∈ (-inf, 58.0] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 8
+IF input1 ∈ (-inf, 35.0] AND input2 ∈ (-inf, 84.0] AND input9 ∈ (-inf, 75.0] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (-inf, 37.0] AND input16 ∈ (24.0, inf] THEN target == 8
+IF input1 ∈ (-inf, 35.0] AND input2 ∈ (84.0, 95.0] AND input4 ∈ (-inf, 76.0] AND input10 ∈ (-inf, 23.0] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (-inf, 37.0] AND input16 ∈ (24.0, inf] THEN target == 8
+IF input1 ∈ (-inf, 35.0] AND input2 ∈ (84.0, inf] AND input3 ∈ (-inf, 66.0] AND input10 ∈ (23.0, inf] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (-inf, 37.0] AND input16 ∈ (24.0, inf] THEN target == 8
+IF input1 ∈ (35.0, inf] AND input5 ∈ (61.0, inf] AND input9 ∈ (-inf, 68.0] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (-inf, 65.0] AND input16 ∈ (24.0, inf] THEN target == 8
+IF input1 ∈ (35.0, inf] AND input3 ∈ (93.0, inf] AND input5 ∈ (61.0, inf] AND input8 ∈ (-inf, 64.0] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (-inf, 65.0] AND input16 ∈ (24.0, inf] THEN target == 8
+IF input1 ∈ (35.0, inf] AND input13 ∈ (-inf, 68.0] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (65.0, inf] AND input16 ∈ (24.0, inf] THEN target == 8
+IF input1 ∈ (42.0, inf] AND input7 ∈ (10.0, inf] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (65.0, inf] AND input16 ∈ (24.0, inf] THEN target == 8
+IF input1 ∈ (56.0, inf] AND input9 ∈ (-inf, 52.0] AND input14 ∈ (58.0, inf] AND input15 ∈ (-inf, 99.0] AND input16 ∈ (24.0, inf] THEN target == 8
+IF input9 ∈ (-inf, 52.0] AND input13 ∈ (25.0, inf] AND input14 ∈ (58.0, inf] AND input15 ∈ (-inf, 99.0] AND input16 ∈ (24.0, inf] THEN target == 8
+IF input9 ∈ (-inf, 52.0] AND input12 ∈ (-inf, 42.0] AND input14 ∈ (58.0, 71.0] AND input15 ∈ (99.0, inf] AND input16 ∈ (24.0, inf] THEN target == 8
+IF input4 ∈ (28.0, inf] AND input8 ∈ (27.0, inf] AND input9 ∈ (52.0, inf] AND input14 ∈ (58.0, inf] AND input16 ∈ (24.0, inf] THEN target == 8
+IF input1 ∈ (15.0, inf] AND input3 ∈ (57.0, inf] AND input4 ∈ (-inf, 92.0] AND input9 ∈ (-inf, 35.0] AND input11 ∈ (-inf, 45.0] AND input15 ∈ (54.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input1 ∈ (66.0, inf] AND input2 ∈ (-inf, 95.0] AND input6 ∈ (51.0, 69.0] AND input8 ∈ (-inf, 62.0] AND input10 ∈ (15.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (0.0, 24.0] THEN target == 9
+IF input2 ∈ (39.0, inf] AND input6 ∈ (-inf, 69.0] AND input8 ∈ (62.0, inf] AND input10 ∈ (15.0, inf] AND input11 ∈ (45.0, inf] AND input14 ∈ (-inf, 20.0] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input2 ∈ (39.0, inf] AND input6 ∈ (-inf, 69.0] AND input8 ∈ (87.0, inf] AND input10 ∈ (15.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input1 ∈ (-inf, 7.0] AND input2 ∈ (28.0, inf] AND input3 ∈ (38.0, inf] AND input4 ∈ (-inf, 88.0] AND input6 ∈ (69.0, inf] AND input7 ∈ (-inf, 58.0] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input1 ∈ (-inf, 7.0] AND input2 ∈ (28.0, inf] AND input4 ∈ (-inf, 88.0] AND input6 ∈ (69.0, inf] AND input7 ∈ (-inf, 58.0] AND input11 ∈ (45.0, inf] AND input12 ∈ (33.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input1 ∈ (7.0, 36.0] AND input4 ∈ (-inf, 88.0] AND input6 ∈ (69.0, inf] AND input7 ∈ (-inf, 48.0] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input1 ∈ (36.0, inf] AND input4 ∈ (-inf, 88.0] AND input6 ∈ (69.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input1 ∈ (37.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (69.0, inf] AND input7 ∈ (50.0, inf] AND input10 ∈ (-inf, 61.0] AND input11 ∈ (45.0, inf] AND input14 ∈ (-inf, 19.0] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input4 ∈ (88.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (79.0, inf] AND input10 ∈ (17.0, 61.0] AND input11 ∈ (45.0, inf] AND input14 ∈ (19.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input1 ∈ (-inf, 40.0] AND input3 ∈ (-inf, 64.0] AND input4 ∈ (88.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (69.0, inf] AND input10 ∈ (61.0, inf] AND input11 ∈ (83.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input1 ∈ (40.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (69.0, inf] AND input10 ∈ (61.0, inf] AND input11 ∈ (88.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input1 ∈ (40.0, inf] AND input5 ∈ (-inf, 58.0] AND input6 ∈ (69.0, inf] AND input9 ∈ (73.0, inf] AND input10 ∈ (61.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input1 ∈ (41.0, inf] AND input3 ∈ (-inf, 89.0] AND input5 ∈ (58.0, inf] AND input6 ∈ (69.0, inf] AND input8 ∈ (82.0, inf] AND input11 ∈ (45.0, inf] AND input15 ∈ (-inf, 2.0] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input3 ∈ (89.0, inf] AND input4 ∈ (88.0, inf] AND input5 ∈ (58.0, 64.0] AND input6 ∈ (85.0, inf] AND input7 ∈ (63.0, inf] AND input11 ∈ (45.0, inf] AND input16 ∈ (-inf, 24.0] THEN target == 9
+IF input1 ∈ (35.0, inf] AND input5 ∈ (61.0, inf] AND input8 ∈ (64.0, inf] AND input9 ∈ (68.0, inf] AND input14 ∈ (-inf, 58.0] AND input15 ∈ (-inf, 65.0] AND input16 ∈ (24.0, inf] THEN target == 9
+IF input2 ∈ (-inf, 3.0] AND input4 ∈ (-inf, 28.0] AND input8 ∈ (27.0, inf] AND input9 ∈ (52.0, inf] AND input14 ∈ (58.0, inf] AND input16 ∈ (24.0, inf] THEN target == 9

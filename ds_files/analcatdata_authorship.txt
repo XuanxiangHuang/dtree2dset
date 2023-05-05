@@ -1,0 +1,13 @@
+IF at ∈ (7.0, inf] AND be ∈ (-inf, 9.0] AND was ∈ (8.0, inf] AND BookID ∈ (6.0, inf] THEN target == 0
+IF any ∈ (5.0, inf] AND be ∈ (9.0, inf] AND the ∈ (-inf, 69.0] AND was ∈ (8.0, inf] THEN target == 0
+IF be ∈ (9.0, inf] AND been ∈ (9.0, inf] AND the ∈ (69.0, inf] AND was ∈ (8.0, inf] THEN target == 0
+IF be ∈ (9.0, inf] AND to ∈ (39.0, inf] AND was ∈ (8.0, inf] THEN target == 0
+IF a ∈ (14.0, inf] AND is ∈ (9.0, inf] AND my ∈ (-inf, 3.0] AND was ∈ (-inf, 8.0] THEN target == 1
+IF be ∈ (-inf, 9.0] AND was ∈ (8.0, inf] AND BookID ∈ (-inf, 6.0] THEN target == 1
+IF be ∈ (9.0, inf] AND been ∈ (-inf, 9.0] AND the ∈ (69.0, inf] AND to ∈ (-inf, 39.0] AND was ∈ (8.0, inf] THEN target == 1
+IF from ∈ (7.0, inf] AND is ∈ (-inf, 9.0] AND was ∈ (-inf, 8.0] THEN target == 2
+IF a ∈ (-inf, 14.0] AND is ∈ (9.0, inf] AND my ∈ (-inf, 3.0] AND was ∈ (-inf, 8.0] THEN target == 2
+IF from ∈ (-inf, 7.0] AND is ∈ (-inf, 9.0] AND was ∈ (-inf, 8.0] THEN target == 3
+IF is ∈ (9.0, inf] AND my ∈ (3.0, inf] AND was ∈ (-inf, 8.0] THEN target == 3
+IF at ∈ (-inf, 7.0] AND be ∈ (-inf, 9.0] AND was ∈ (8.0, inf] AND BookID ∈ (6.0, inf] THEN target == 3
+IF any ∈ (-inf, 5.0] AND be ∈ (9.0, inf] AND the ∈ (-inf, 69.0] AND to ∈ (-inf, 39.0] AND was ∈ (8.0, inf] THEN target == 3

@@ -1,0 +1,21 @@
+IF A00 ∈ {0} AND A05 ∈ {0} AND A14 ∈ {0, 1} AND A20 ∈ {0} AND A32 ∈ {0} AND A34 ∈ {0} THEN target == 0
+IF A05 ∈ {0} AND A13 ∈ {1} AND A14 ∈ {0, 1} AND A20 ∈ {0} AND A32 ∈ {0} AND A34 ∈ {0} THEN target == 0
+IF A05 ∈ {0} AND A16 ∈ {0} AND A20 ∈ {0} AND A22 ∈ {1} AND A32 ∈ {0} AND A34 ∈ {1} THEN target == 0
+IF A00 ∈ {0} AND A05 ∈ {0} AND A14 ∈ {0} AND A20 ∈ {0} AND A32 ∈ {0} THEN target == 0
+IF A05 ∈ {0} AND A14 ∈ {0} AND A20 ∈ {0} AND A22 ∈ {1} AND A32 ∈ {0} AND A34 ∈ {1} THEN target == 0
+IF A20 ∈ {0} AND A31 ∈ {1} AND A32 ∈ {0} THEN target == 0
+IF A19 ∈ {1} AND A20 ∈ {0} AND A32 ∈ {1} THEN target == 0
+IF A03 ∈ {1} AND A20 ∈ {0} AND A32 ∈ {1} THEN target == 0
+IF A15 ∈ {1} AND A20 ∈ {0} AND A32 ∈ {1} THEN target == 0
+IF A20 ∈ {0} AND A26 ∈ {1} AND A32 ∈ {1} THEN target == 0
+IF A06 ∈ {1} AND A20 ∈ {0} AND A32 ∈ {1} THEN target == 0
+IF A17 ∈ {1} AND A20 ∈ {0} AND A32 ∈ {1} THEN target == 0
+IF A09 ∈ {1} AND A20 ∈ {0} THEN target == 0
+IF A09 ∈ {0} AND A14 ∈ {2} AND A31 ∈ {0} AND A32 ∈ {0} AND A34 ∈ {0} THEN target == 1
+IF A00 ∈ {1} AND A09 ∈ {0} AND A13 ∈ {0} AND A31 ∈ {0} AND A32 ∈ {0} AND A34 ∈ {0} THEN target == 1
+IF A09 ∈ {0} AND A14 ∈ {1, 2} AND A22 ∈ {0} AND A31 ∈ {0} AND A32 ∈ {0} AND A34 ∈ {1} THEN target == 1
+IF A09 ∈ {0} AND A14 ∈ {1, 2} AND A16 ∈ {1} AND A31 ∈ {0} AND A32 ∈ {0} AND A34 ∈ {1} THEN target == 1
+IF A00 ∈ {1} AND A09 ∈ {0} AND A22 ∈ {0} AND A31 ∈ {0} AND A32 ∈ {0} AND A34 ∈ {1} THEN target == 1
+IF A05 ∈ {1} AND A09 ∈ {0} AND A31 ∈ {0} AND A32 ∈ {0} THEN target == 1
+IF A03 ∈ {0} AND A06 ∈ {0} AND A09 ∈ {0} AND A15 ∈ {0} AND A17 ∈ {0} AND A19 ∈ {0} AND A26 ∈ {0} AND A32 ∈ {1} THEN target == 1
+IF A20 ∈ {1} THEN target == 1

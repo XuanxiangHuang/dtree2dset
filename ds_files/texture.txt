@@ -1,0 +1,81 @@
+IF A3 ∈ (-inf, -0.945] AND A6 ∈ (-inf, -0.508] AND A12 ∈ (-inf, -0.868] AND A40 ∈ (-0.857, -0.557] THEN target == 0
+IF A2 ∈ (-0.838, inf] AND A3 ∈ (-inf, -0.945] AND A6 ∈ (-inf, -0.508] AND A40 ∈ (-0.857, -0.557] THEN target == 0
+IF A1 ∈ (-inf, -1.226] AND A3 ∈ (-0.945, inf] AND A5 ∈ (-inf, -0.561] AND A6 ∈ (-inf, -0.286] AND A10 ∈ (-inf, -0.911] AND A20 ∈ (-inf, -0.737] AND A38 ∈ (-inf, -0.767] AND A40 ∈ (-inf, -0.557] THEN target == 0
+IF A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A20 ∈ (-inf, -0.737] AND A23 ∈ (-inf, -0.992] AND A27 ∈ (-inf, -0.977] AND A38 ∈ (-0.767, inf] AND A40 ∈ (-inf, -0.557] THEN target == 0
+IF A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A20 ∈ (-inf, -0.737] AND A27 ∈ (-0.977, -0.806] AND A38 ∈ (-0.767, inf] AND A40 ∈ (-inf, -0.557] THEN target == 0
+IF A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A10 ∈ (-0.998, inf] AND A20 ∈ (-inf, -0.737] AND A27 ∈ (-0.806, inf] AND A33 ∈ (-0.66, inf] AND A38 ∈ (-0.767, inf] AND A40 ∈ (-inf, -0.557] THEN target == 0
+IF A2 ∈ (-inf, -0.798] AND A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A20 ∈ (-0.737, -0.282] AND A25 ∈ (-0.716, inf] AND A26 ∈ (-inf, -0.589] AND A40 ∈ (-inf, -0.687] THEN target == 0
+IF A2 ∈ (-0.798, inf] AND A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A20 ∈ (-0.737, -0.282] AND A23 ∈ (-inf, -1.008] AND A26 ∈ (-inf, -0.589] AND A40 ∈ (-inf, -0.687] THEN target == 0
+IF A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A20 ∈ (-0.737, -0.282] AND A23 ∈ (-inf, -0.866] AND A40 ∈ (-0.687, -0.557] THEN target == 0
+IF A3 ∈ (-0.945, -0.7] AND A6 ∈ (-0.286, inf] AND A10 ∈ (-inf, -0.646] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-inf, -0.649] AND A30 ∈ (-inf, -0.756] AND A34 ∈ (-0.745, inf] AND A40 ∈ (-inf, -0.557] THEN target == 0
+IF A2 ∈ (-0.671, inf] AND A3 ∈ (-0.945, inf] AND A6 ∈ (-0.286, inf] AND A9 ∈ (-inf, -0.318] AND A10 ∈ (-0.646, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-inf, -0.649] AND A30 ∈ (-inf, -0.756] AND A40 ∈ (-inf, -0.557] THEN target == 0
+IF A1 ∈ (-1.063, inf] AND A2 ∈ (-inf, -0.476] AND A3 ∈ (-0.945, inf] AND A6 ∈ (-0.286, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-0.649, inf] AND A26 ∈ (-inf, -0.488] AND A40 ∈ (-inf, -0.557] THEN target == 0
+IF A2 ∈ (-0.476, inf] AND A3 ∈ (-0.945, -0.431] AND A6 ∈ (-0.286, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-0.649, inf] AND A29 ∈ (-inf, -0.417] AND A34 ∈ (-0.592, inf] AND A40 ∈ (-inf, -0.557] THEN target == 0
+IF A5 ∈ (-inf, -0.241] AND A10 ∈ (-inf, -0.495] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-inf, -0.808] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 0
+IF A1 ∈ (-1.102, inf] AND A10 ∈ (-inf, -0.495] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-inf, -0.808] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 0
+IF A2 ∈ (-inf, -0.575] AND A10 ∈ (-inf, -0.34] AND A20 ∈ (-0.339, inf] AND A23 ∈ (-inf, -0.722] AND A26 ∈ (-inf, -0.418] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 0
+IF A3 ∈ (-0.945, inf] AND A5 ∈ (-0.561, inf] AND A6 ∈ (-inf, -0.286] AND A20 ∈ (-inf, -0.737] AND A38 ∈ (-inf, -0.767] AND A40 ∈ (-inf, -0.557] THEN target == 1
+IF A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A20 ∈ (-inf, -0.737] AND A23 ∈ (-0.992, inf] AND A27 ∈ (-inf, -0.977] AND A38 ∈ (-0.767, inf] AND A40 ∈ (-inf, -0.557] THEN target == 1
+IF A2 ∈ (-0.798, inf] AND A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A20 ∈ (-0.737, -0.282] AND A23 ∈ (-1.008, inf] AND A26 ∈ (-inf, -0.589] AND A40 ∈ (-inf, -0.687] THEN target == 1
+IF A3 ∈ (-0.945, -0.7] AND A6 ∈ (-0.286, inf] AND A10 ∈ (-inf, -0.646] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-inf, -0.649] AND A30 ∈ (-inf, -0.756] AND A34 ∈ (-inf, -0.745] AND A40 ∈ (-inf, -0.557] THEN target == 1
+IF A3 ∈ (-0.7, inf] AND A6 ∈ (-0.286, inf] AND A10 ∈ (-inf, -0.646] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-inf, -0.649] AND A30 ∈ (-inf, -0.756] AND A40 ∈ (-inf, -0.557] THEN target == 1
+IF A2 ∈ (-0.671, inf] AND A3 ∈ (-0.945, inf] AND A6 ∈ (-0.286, inf] AND A9 ∈ (-0.318, inf] AND A10 ∈ (-0.646, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-inf, -0.649] AND A30 ∈ (-inf, -0.756] AND A40 ∈ (-inf, -0.557] THEN target == 1
+IF A2 ∈ (-0.476, inf] AND A3 ∈ (-0.654, inf] AND A6 ∈ (-0.286, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-0.649, inf] AND A34 ∈ (-inf, -0.592] AND A40 ∈ (-inf, -0.557] THEN target == 1
+IF A1 ∈ (-1.239, -1.102] AND A5 ∈ (-0.241, inf] AND A10 ∈ (-inf, -0.495] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-inf, -0.808] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 1
+IF A1 ∈ (-1.269, inf] AND A12 ∈ (-0.719, inf] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-0.808, -0.726] AND A24 ∈ (-inf, -0.65] AND A30 ∈ (-inf, -0.241] AND A36 ∈ (-0.574, inf] AND A40 ∈ (-0.557, inf] THEN target == 1
+IF A2 ∈ (-0.575, inf] AND A10 ∈ (-inf, -0.34] AND A20 ∈ (-0.339, inf] AND A23 ∈ (-inf, -0.722] AND A26 ∈ (-inf, -0.418] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 1
+IF A3 ∈ (-inf, -0.945] AND A6 ∈ (-inf, -0.508] AND A40 ∈ (-inf, -0.857] THEN target == 2
+IF A2 ∈ (-inf, -0.838] AND A3 ∈ (-inf, -0.945] AND A6 ∈ (-inf, -0.508] AND A12 ∈ (-0.868, inf] AND A40 ∈ (-0.857, -0.557] THEN target == 2
+IF A1 ∈ (-1.226, inf] AND A3 ∈ (-0.945, inf] AND A5 ∈ (-inf, -0.561] AND A6 ∈ (-inf, -0.286] AND A10 ∈ (-inf, -0.911] AND A20 ∈ (-inf, -0.737] AND A38 ∈ (-inf, -0.767] AND A40 ∈ (-inf, -0.557] THEN target == 2
+IF A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A20 ∈ (-inf, -0.737] AND A27 ∈ (-0.806, inf] AND A33 ∈ (-inf, -0.66] AND A38 ∈ (-0.767, inf] AND A40 ∈ (-inf, -0.557] THEN target == 2
+IF A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A10 ∈ (-inf, -0.998] AND A20 ∈ (-inf, -0.737] AND A27 ∈ (-0.806, inf] AND A38 ∈ (-0.767, inf] AND A40 ∈ (-inf, -0.557] THEN target == 2
+IF A10 ∈ (-0.495, inf] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-inf, -0.808] AND A26 ∈ (-0.411, inf] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 3
+IF A2 ∈ (-inf, -0.534] AND A16 ∈ (-inf, -0.512] AND A20 ∈ (-0.339, inf] AND A23 ∈ (-inf, -0.722] AND A26 ∈ (-0.418, inf] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 3
+IF A6 ∈ (-0.075, inf] AND A16 ∈ (-inf, -0.512] AND A20 ∈ (-0.339, inf] AND A23 ∈ (-inf, -0.722] AND A26 ∈ (-0.418, inf] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 3
+IF A10 ∈ (-0.34, inf] AND A20 ∈ (-0.339, inf] AND A23 ∈ (-inf, -0.722] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 3
+IF A6 ∈ (-inf, -0.094] AND A10 ∈ (-inf, -0.211] AND A16 ∈ (-inf, -0.552] AND A20 ∈ (-0.339, -0.263] AND A23 ∈ (-0.722, inf] AND A24 ∈ (-0.601, inf] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 3
+IF A1 ∈ (-inf, -1.015] AND A10 ∈ (-inf, -0.211] AND A16 ∈ (-inf, -0.547] AND A20 ∈ (-0.263, inf] AND A23 ∈ (-0.722, inf] AND A24 ∈ (-0.601, inf] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 3
+IF A10 ∈ (-0.211, inf] AND A20 ∈ (-0.339, inf] AND A24 ∈ (-0.601, inf] AND A30 ∈ (-inf, -0.241] AND A34 ∈ (-inf, -0.527] AND A40 ∈ (-0.557, inf] THEN target == 3
+IF A3 ∈ (-0.945, inf] AND A20 ∈ (-0.282, inf] AND A40 ∈ (-inf, -0.557] THEN target == 4
+IF A1 ∈ (-inf, -1.017] AND A2 ∈ (-inf, -0.476] AND A3 ∈ (-0.945, inf] AND A6 ∈ (-0.286, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-0.649, inf] AND A26 ∈ (-0.488, inf] AND A40 ∈ (-0.578, -0.557] THEN target == 5
+IF A1 ∈ (-0.866, inf] AND A2 ∈ (-0.476, inf] AND A3 ∈ (-0.431, inf] AND A6 ∈ (-0.286, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-0.649, inf] AND A34 ∈ (-0.592, inf] AND A40 ∈ (-inf, -0.557] THEN target == 5
+IF A10 ∈ (-0.495, inf] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-inf, -0.808] AND A26 ∈ (-inf, -0.411] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 5
+IF A10 ∈ (-0.6, inf] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-0.808, inf] AND A27 ∈ (-0.624, inf] AND A30 ∈ (-inf, -0.241] AND A36 ∈ (-inf, -0.574] AND A40 ∈ (-0.557, inf] THEN target == 5
+IF A12 ∈ (-inf, -0.719] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-0.808, -0.726] AND A24 ∈ (-inf, -0.65] AND A30 ∈ (-inf, -0.241] AND A36 ∈ (-0.574, inf] AND A40 ∈ (-0.557, inf] THEN target == 5
+IF A14 ∈ (-inf, -0.562] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-0.808, -0.497] AND A24 ∈ (-0.65, inf] AND A30 ∈ (-inf, -0.241] AND A32 ∈ (-0.683, inf] AND A36 ∈ (-0.574, inf] AND A40 ∈ (-0.557, inf] THEN target == 5
+IF A14 ∈ (-0.562, inf] AND A20 ∈ (-0.465, -0.339] AND A23 ∈ (-0.808, -0.497] AND A24 ∈ (-0.65, inf] AND A30 ∈ (-inf, -0.241] AND A36 ∈ (-0.574, inf] AND A40 ∈ (-0.557, inf] THEN target == 5
+IF A20 ∈ (-inf, -0.339] AND A22 ∈ (-0.544, inf] AND A23 ∈ (-0.497, inf] AND A24 ∈ (-0.65, inf] AND A30 ∈ (-inf, -0.241] AND A36 ∈ (-0.574, inf] AND A40 ∈ (-0.557, inf] THEN target == 5
+IF A6 ∈ (-0.094, inf] AND A10 ∈ (-inf, -0.211] AND A20 ∈ (-0.339, -0.263] AND A23 ∈ (-0.722, inf] AND A24 ∈ (-0.601, inf] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 5
+IF A10 ∈ (-0.211, inf] AND A20 ∈ (-0.339, -0.17] AND A23 ∈ (-0.722, inf] AND A24 ∈ (-0.601, inf] AND A25 ∈ (-inf, -0.216] AND A30 ∈ (-inf, -0.241] AND A34 ∈ (-0.527, inf] AND A40 ∈ (-0.557, inf] THEN target == 5
+IF A5 ∈ (-inf, 0.048] AND A10 ∈ (-0.211, inf] AND A20 ∈ (-0.339, inf] AND A23 ∈ (-0.722, inf] AND A24 ∈ (-0.601, inf] AND A25 ∈ (-0.216, inf] AND A30 ∈ (-inf, -0.241] AND A34 ∈ (-0.527, inf] AND A40 ∈ (-0.557, inf] THEN target == 5
+IF A3 ∈ (-0.945, inf] AND A5 ∈ (-inf, -0.561] AND A6 ∈ (-inf, -0.286] AND A10 ∈ (-0.911, inf] AND A20 ∈ (-inf, -0.737] AND A38 ∈ (-inf, -0.767] AND A40 ∈ (-inf, -0.557] THEN target == 6
+IF A2 ∈ (-inf, -0.798] AND A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A20 ∈ (-0.737, -0.282] AND A25 ∈ (-inf, -0.716] AND A40 ∈ (-inf, -0.687] THEN target == 6
+IF A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A20 ∈ (-0.737, -0.282] AND A26 ∈ (-0.589, inf] AND A40 ∈ (-inf, -0.687] THEN target == 6
+IF A3 ∈ (-0.945, inf] AND A6 ∈ (-inf, -0.286] AND A20 ∈ (-0.737, -0.282] AND A23 ∈ (-0.866, inf] AND A40 ∈ (-0.687, -0.557] THEN target == 6
+IF A1 ∈ (-1.26, inf] AND A2 ∈ (-inf, -0.671] AND A3 ∈ (-0.945, inf] AND A6 ∈ (-0.286, inf] AND A10 ∈ (-0.646, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-inf, -0.649] AND A30 ∈ (-inf, -0.756] AND A40 ∈ (-inf, -0.557] THEN target == 6
+IF A1 ∈ (-inf, -1.063] AND A2 ∈ (-inf, -0.476] AND A3 ∈ (-0.945, inf] AND A6 ∈ (-0.286, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-0.649, inf] AND A26 ∈ (-inf, -0.488] AND A40 ∈ (-inf, -0.557] THEN target == 6
+IF A2 ∈ (-inf, -0.476] AND A3 ∈ (-0.945, inf] AND A6 ∈ (-0.286, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-0.649, inf] AND A26 ∈ (-0.488, inf] AND A40 ∈ (-inf, -0.578] THEN target == 6
+IF A2 ∈ (-0.476, inf] AND A3 ∈ (-0.945, -0.431] AND A6 ∈ (-0.286, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-0.649, inf] AND A29 ∈ (-0.417, inf] AND A34 ∈ (-0.592, inf] AND A40 ∈ (-inf, -0.557] THEN target == 6
+IF A1 ∈ (-inf, -0.866] AND A2 ∈ (-0.476, inf] AND A3 ∈ (-0.431, inf] AND A6 ∈ (-0.286, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-0.649, inf] AND A34 ∈ (-0.592, inf] AND A40 ∈ (-inf, -0.557] THEN target == 6
+IF A14 ∈ (-0.562, inf] AND A20 ∈ (-inf, -0.465] AND A23 ∈ (-0.808, -0.497] AND A24 ∈ (-0.65, inf] AND A30 ∈ (-inf, -0.241] AND A36 ∈ (-0.574, inf] AND A40 ∈ (-0.557, inf] THEN target == 6
+IF A10 ∈ (-inf, -0.34] AND A16 ∈ (-0.382, inf] AND A20 ∈ (-0.339, inf] AND A23 ∈ (-inf, -0.722] AND A26 ∈ (-0.418, inf] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 6
+IF A14 ∈ (-inf, -0.562] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-0.808, -0.497] AND A24 ∈ (-0.65, inf] AND A30 ∈ (-inf, -0.241] AND A32 ∈ (-inf, -0.683] AND A36 ∈ (-0.574, inf] AND A40 ∈ (-0.557, inf] THEN target == 7
+IF A2 ∈ (-0.534, inf] AND A6 ∈ (-inf, -0.075] AND A10 ∈ (-inf, -0.34] AND A16 ∈ (-inf, -0.512] AND A20 ∈ (-0.339, inf] AND A23 ∈ (-inf, -0.722] AND A26 ∈ (-0.418, inf] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 7
+IF A10 ∈ (-inf, -0.34] AND A16 ∈ (-0.512, -0.382] AND A20 ∈ (-0.339, inf] AND A23 ∈ (-inf, -0.722] AND A26 ∈ (-0.418, inf] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 7
+IF A6 ∈ (-inf, -0.094] AND A10 ∈ (-inf, -0.211] AND A16 ∈ (-0.552, inf] AND A20 ∈ (-0.339, -0.263] AND A23 ∈ (-0.722, inf] AND A24 ∈ (-0.601, inf] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 7
+IF A10 ∈ (-inf, -0.211] AND A16 ∈ (-0.547, -0.346] AND A20 ∈ (-0.263, inf] AND A23 ∈ (-0.722, inf] AND A24 ∈ (-0.601, inf] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 7
+IF A5 ∈ (0.048, inf] AND A10 ∈ (-0.211, inf] AND A20 ∈ (-0.339, inf] AND A23 ∈ (-0.722, inf] AND A24 ∈ (-0.601, inf] AND A25 ∈ (-0.216, inf] AND A30 ∈ (-inf, -0.241] AND A34 ∈ (-0.527, inf] AND A40 ∈ (-0.557, inf] THEN target == 7
+IF A3 ∈ (-inf, -0.945] AND A6 ∈ (-0.508, inf] AND A40 ∈ (-inf, -0.557] THEN target == 8
+IF A30 ∈ (-0.241, inf] AND A40 ∈ (-0.557, inf] THEN target == 9
+IF A1 ∈ (-inf, -1.26] AND A2 ∈ (-inf, -0.671] AND A3 ∈ (-0.945, inf] AND A6 ∈ (-0.286, inf] AND A10 ∈ (-0.646, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-inf, -0.649] AND A40 ∈ (-inf, -0.557] THEN target == 10
+IF A3 ∈ (-0.945, inf] AND A6 ∈ (-0.286, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-inf, -0.649] AND A30 ∈ (-0.756, inf] AND A40 ∈ (-inf, -0.557] THEN target == 10
+IF A2 ∈ (-0.476, inf] AND A3 ∈ (-0.945, -0.654] AND A6 ∈ (-0.286, inf] AND A20 ∈ (-inf, -0.282] AND A24 ∈ (-0.649, inf] AND A34 ∈ (-inf, -0.592] AND A40 ∈ (-inf, -0.557] THEN target == 10
+IF A1 ∈ (-inf, -1.239] AND A5 ∈ (-0.241, inf] AND A10 ∈ (-inf, -0.495] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-inf, -0.808] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 10
+IF A20 ∈ (-inf, -0.339] AND A23 ∈ (-0.808, inf] AND A27 ∈ (-inf, -0.624] AND A30 ∈ (-inf, -0.241] AND A36 ∈ (-inf, -0.574] AND A40 ∈ (-0.557, inf] THEN target == 10
+IF A10 ∈ (-inf, -0.6] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-0.808, inf] AND A30 ∈ (-inf, -0.241] AND A36 ∈ (-inf, -0.574] AND A40 ∈ (-0.557, inf] THEN target == 10
+IF A1 ∈ (-inf, -1.269] AND A12 ∈ (-0.719, inf] AND A20 ∈ (-inf, -0.339] AND A23 ∈ (-0.808, -0.726] AND A24 ∈ (-inf, -0.65] AND A30 ∈ (-inf, -0.241] AND A36 ∈ (-0.574, inf] AND A40 ∈ (-0.557, inf] THEN target == 10
+IF A20 ∈ (-inf, -0.339] AND A23 ∈ (-0.726, inf] AND A24 ∈ (-inf, -0.65] AND A30 ∈ (-inf, -0.241] AND A36 ∈ (-0.574, inf] AND A40 ∈ (-0.557, inf] THEN target == 10
+IF A20 ∈ (-inf, -0.339] AND A22 ∈ (-inf, -0.544] AND A23 ∈ (-0.497, inf] AND A30 ∈ (-inf, -0.241] AND A36 ∈ (-0.574, inf] AND A40 ∈ (-0.557, inf] THEN target == 10
+IF A20 ∈ (-0.339, inf] AND A23 ∈ (-0.722, inf] AND A24 ∈ (-inf, -0.601] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 10
+IF A1 ∈ (-1.015, inf] AND A10 ∈ (-inf, -0.211] AND A16 ∈ (-inf, -0.547] AND A20 ∈ (-0.263, inf] AND A23 ∈ (-0.722, inf] AND A30 ∈ (-inf, -0.241] AND A40 ∈ (-0.557, inf] THEN target == 10
+IF A10 ∈ (-0.211, inf] AND A20 ∈ (-0.17, inf] AND A23 ∈ (-0.722, inf] AND A25 ∈ (-inf, -0.216] AND A30 ∈ (-inf, -0.241] AND A34 ∈ (-0.527, inf] AND A40 ∈ (-0.557, inf] THEN target == 10

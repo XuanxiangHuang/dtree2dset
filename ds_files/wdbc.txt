@@ -1,0 +1,9 @@
+IF Perimeter3 ∈ (-inf, 106.0] THEN target == 0
+IF Texture3 ∈ (-inf, 19.58] AND Concave_points3 ∈ (-inf, 0.15] THEN target == 0
+IF Smoothness1 ∈ (-inf, 0.088] AND Radius3 ∈ (-inf, 16.76] AND Concave_points3 ∈ (-inf, 0.15] THEN target == 0
+IF Concave_points1 ∈ (-inf, 0.042] AND Radius3 ∈ (-inf, 16.76] AND Concave_points3 ∈ (-inf, 0.15] THEN target == 0
+IF Radius1 ∈ (16.02, inf] AND Radius3 ∈ (16.76, inf] AND Concavity3 ∈ (-inf, 0.188] AND Concave_points3 ∈ (-inf, 0.15] THEN target == 0
+IF Smoothness1 ∈ (0.088, inf] AND Concave_points1 ∈ (0.042, inf] AND Radius3 ∈ (-inf, 16.76] AND Texture3 ∈ (19.58, inf] AND Perimeter3 ∈ (106.0, inf] THEN target == 1
+IF Radius1 ∈ (-inf, 16.02] AND Radius3 ∈ (16.76, inf] AND Texture3 ∈ (19.58, inf] AND Perimeter3 ∈ (106.0, inf] THEN target == 1
+IF Radius3 ∈ (16.76, inf] AND Texture3 ∈ (19.58, inf] AND Perimeter3 ∈ (106.0, inf] AND Concavity3 ∈ (0.188, inf] THEN target == 1
+IF Perimeter3 ∈ (106.0, inf] AND Concave_points3 ∈ (0.15, inf] THEN target == 1

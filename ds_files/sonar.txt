@@ -1,0 +1,14 @@
+IF A2 ∈ (-inf, 0.0071] AND A4 ∈ (0.0505, inf] AND A11 ∈ (-inf, 0.168] THEN target == 0
+IF A4 ∈ (0.0505, inf] AND A11 ∈ (-inf, 0.168] AND A45 ∈ (0.1556, inf] THEN target == 0
+IF A4 ∈ (-inf, 0.0076] AND A11 ∈ (0.168, inf] AND A36 ∈ (-inf, 0.5437] AND A51 ∈ (-inf, 0.0125] THEN target == 0
+IF A11 ∈ (0.168, inf] AND A36 ∈ (-inf, 0.5437] AND A42 ∈ (0.2714, inf] AND A51 ∈ (-inf, 0.0125] THEN target == 0
+IF A11 ∈ (0.168, inf] AND A23 ∈ (0.6967, inf] AND A36 ∈ (-inf, 0.5437] AND A51 ∈ (-inf, 0.0125] THEN target == 0
+IF A8 ∈ (-inf, 0.14] AND A11 ∈ (0.168, inf] AND A36 ∈ (-inf, 0.5437] AND A51 ∈ (0.0125, inf] THEN target == 0
+IF A3 ∈ (0.0641, inf] AND A11 ∈ (0.168, inf] AND A36 ∈ (-inf, 0.5437] AND A51 ∈ (0.0125, inf] THEN target == 0
+IF A11 ∈ (0.168, inf] AND A36 ∈ (-inf, 0.5437] AND A48 ∈ (0.0278, inf] AND A51 ∈ (0.0125, inf] THEN target == 0
+IF A11 ∈ (0.168, inf] AND A45 ∈ (0.2378, inf] THEN target == 0
+IF A4 ∈ (-inf, 0.0505] AND A11 ∈ (-inf, 0.168] THEN target == 1
+IF A2 ∈ (0.0071, inf] AND A11 ∈ (-inf, 0.168] AND A45 ∈ (-inf, 0.1556] THEN target == 1
+IF A4 ∈ (0.0076, inf] AND A11 ∈ (0.168, inf] AND A23 ∈ (-inf, 0.6967] AND A42 ∈ (-inf, 0.2714] AND A45 ∈ (-inf, 0.2378] AND A51 ∈ (-inf, 0.0125] THEN target == 1
+IF A3 ∈ (-inf, 0.0641] AND A8 ∈ (0.14, inf] AND A11 ∈ (0.168, inf] AND A45 ∈ (-inf, 0.2378] AND A48 ∈ (-inf, 0.0278] AND A51 ∈ (0.0125, inf] THEN target == 1
+IF A11 ∈ (0.168, inf] AND A36 ∈ (0.5437, inf] AND A45 ∈ (-inf, 0.2378] THEN target == 1

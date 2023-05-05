@@ -1,0 +1,10 @@
+IF water project cost sharing ∈ {1, 2} AND adoption of the budget resolution ∈ {1, 2} AND synfuels corporation cutback ∈ {2} THEN target == 0
+IF adoption of the budget resolution ∈ {0} AND immigration ∈ {0} AND synfuels corporation cutback ∈ {2} AND superfund right to sue ∈ {0} AND export administration act south africa ∈ {0} THEN target == 0
+IF water project cost sharing ∈ {0} AND adoption of the budget resolution ∈ {0} AND immigration ∈ {0} AND synfuels corporation cutback ∈ {2} AND export administration act south africa ∈ {0} THEN target == 0
+IF synfuels corporation cutback ∈ {2} AND education spending ∈ {0} THEN target == 0
+IF physician fee freeze ∈ {0, 1} THEN target == 0
+IF water project cost sharing ∈ {0} AND adoption of the budget resolution ∈ {1, 2} AND physician fee freeze ∈ {2} AND education spending ∈ {1, 2} THEN target == 1
+IF adoption of the budget resolution ∈ {0} AND physician fee freeze ∈ {2} AND education spending ∈ {1, 2} AND export administration act south africa ∈ {1, 2} THEN target == 1
+IF adoption of the budget resolution ∈ {0} AND physician fee freeze ∈ {2} AND immigration ∈ {1, 2} AND education spending ∈ {1, 2} THEN target == 1
+IF water project cost sharing ∈ {1, 2} AND adoption of the budget resolution ∈ {0} AND physician fee freeze ∈ {2} AND education spending ∈ {1, 2} AND superfund right to sue ∈ {1, 2} THEN target == 1
+IF physician fee freeze ∈ {2} AND synfuels corporation cutback ∈ {0, 1} THEN target == 1

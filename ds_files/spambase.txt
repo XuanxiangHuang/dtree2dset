@@ -1,0 +1,68 @@
+IF 6 ∈ (-inf, 0.0] AND 15 ∈ (-inf, 0.17] AND 23 ∈ (-inf, 0.0] AND 51 ∈ (-inf, 0.079] AND 52 ∈ (-inf, 0.166] THEN target == 0
+IF 6 ∈ (-inf, 0.0] AND 12 ∈ (-inf, 1.29] AND 15 ∈ (-inf, 0.17] AND 17 ∈ (-inf, 1.19] AND 23 ∈ (-inf, 0.0] AND 51 ∈ (-inf, 0.079] AND 54 ∈ (-inf, 3.36] THEN target == 0
+IF 6 ∈ (-inf, 0.0] AND 15 ∈ (-inf, 0.17] AND 16 ∈ (0.0, inf] AND 23 ∈ (-inf, 0.0] AND 51 ∈ (-inf, 0.079] AND 54 ∈ (3.36, inf] THEN target == 0
+IF 4 ∈ (-inf, 2.04] AND 6 ∈ (-inf, 0.0] AND 15 ∈ (0.17, inf] AND 20 ∈ (-inf, 3.03] AND 23 ∈ (-inf, 0.0] AND 44 ∈ (-inf, 0.25] AND 51 ∈ (-inf, 0.079] AND 56 ∈ (-inf, 108.0] THEN target == 0
+IF 6 ∈ (-inf, 0.0] AND 15 ∈ (0.17, inf] AND 23 ∈ (-inf, 0.0] AND 36 ∈ (0.42, inf] AND 44 ∈ (-inf, 0.25] AND 51 ∈ (-inf, 0.079] AND 56 ∈ (108.0, inf] THEN target == 0
+IF 6 ∈ (-inf, 0.0] AND 15 ∈ (0.17, inf] AND 17 ∈ (0.95, inf] AND 23 ∈ (-inf, 0.0] AND 44 ∈ (-inf, 0.25] AND 51 ∈ (-inf, 0.079] AND 56 ∈ (108.0, inf] THEN target == 0
+IF 6 ∈ (-inf, 0.0] AND 15 ∈ (0.17, inf] AND 16 ∈ (-inf, 0.25] AND 23 ∈ (-inf, 0.0] AND 44 ∈ (0.25, inf] AND 51 ∈ (-inf, 0.079] THEN target == 0
+IF 6 ∈ (-inf, 0.0] AND 15 ∈ (0.17, inf] AND 23 ∈ (-inf, 0.0] AND 24 ∈ (0.0, inf] AND 51 ∈ (-inf, 0.079] THEN target == 0
+IF 6 ∈ (-inf, 0.0] AND 23 ∈ (0.0, inf] AND 39 ∈ (-inf, 0.0] AND 51 ∈ (-inf, 0.079] AND 52 ∈ (-inf, 0.061] AND 54 ∈ (-inf, 2.309] THEN target == 0
+IF 6 ∈ (-inf, 0.0] AND 11 ∈ (0.93, inf] AND 23 ∈ (0.0, inf] AND 51 ∈ (-inf, 0.079] AND 52 ∈ (-inf, 0.061] AND 54 ∈ (2.309, inf] THEN target == 0
+IF 6 ∈ (-inf, 0.0] AND 23 ∈ (0.0, inf] AND 49 ∈ (0.1159999999999999, inf] AND 51 ∈ (-inf, 0.079] AND 52 ∈ (-inf, 0.061] THEN target == 0
+IF 23 ∈ (0.0, inf] AND 26 ∈ (0.0, inf] AND 51 ∈ (-inf, 0.079] AND 52 ∈ (0.061, inf] THEN target == 0
+IF 6 ∈ (-inf, 0.0] AND 7 ∈ (0.38, inf] AND 23 ∈ (0.0, inf] AND 51 ∈ (-inf, 0.079] AND 52 ∈ (0.061, inf] THEN target == 0
+IF 6 ∈ (0.0, inf] AND 24 ∈ (0.26, inf] AND 25 ∈ (-inf, 0.34] AND 51 ∈ (-inf, 0.079] THEN target == 0
+IF 6 ∈ (0.0, inf] AND 45 ∈ (0.0, inf] AND 51 ∈ (-inf, 0.079] THEN target == 0
+IF 6 ∈ (0.0, inf] AND 26 ∈ (0.0, inf] AND 51 ∈ (-inf, 0.079] THEN target == 0
+IF 6 ∈ (-inf, 0.25] AND 15 ∈ (-inf, 0.42] AND 20 ∈ (-inf, 0.42] AND 51 ∈ (0.079, 0.862] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] THEN target == 0
+IF 6 ∈ (-inf, 0.25] AND 15 ∈ (-inf, 0.42] AND 16 ∈ (-inf, 0.34] AND 51 ∈ (0.079, 0.862] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] THEN target == 0
+IF 6 ∈ (-inf, 0.25] AND 11 ∈ (0.51, inf] AND 15 ∈ (-inf, 0.42] AND 51 ∈ (0.079, 0.862] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] THEN target == 0
+IF 6 ∈ (-inf, 0.25] AND 15 ∈ (-inf, 0.42] AND 51 ∈ (0.862, 1.739] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] AND 56 ∈ (2.0, 13.0] THEN target == 0
+IF 6 ∈ (-inf, 0.25] AND 15 ∈ (-inf, 0.42] AND 18 ∈ (-inf, 2.85] AND 51 ∈ (0.862, inf] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] AND 56 ∈ (13.0, inf] THEN target == 0
+IF 6 ∈ (-inf, 0.25] AND 11 ∈ (1.56, inf] AND 15 ∈ (-inf, 0.42] AND 51 ∈ (0.862, inf] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] AND 56 ∈ (13.0, inf] THEN target == 0
+IF 6 ∈ (-inf, 0.25] AND 15 ∈ (0.42, 0.69] AND 18 ∈ (0.0, inf] AND 51 ∈ (0.079, 0.523] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] THEN target == 0
+IF 6 ∈ (-inf, 0.25] AND 15 ∈ (0.69, inf] AND 51 ∈ (0.079, 0.523] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] AND 55 ∈ (-inf, 6.0] THEN target == 0
+IF 6 ∈ (-inf, 0.25] AND 9 ∈ (1.04, inf] AND 15 ∈ (0.69, inf] AND 51 ∈ (0.079, 0.523] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] THEN target == 0
+IF 20 ∈ (-inf, 0.37] AND 51 ∈ (0.079, 0.361] AND 52 ∈ (0.0, inf] AND 54 ∈ (-inf, 2.193] THEN target == 0
+IF 11 ∈ (-inf, 0.0] AND 20 ∈ (-inf, 0.37] AND 51 ∈ (0.079, 0.361] AND 52 ∈ (0.0, inf] AND 54 ∈ (2.193, 2.741] THEN target == 0
+IF 4 ∈ (0.67, inf] AND 20 ∈ (-inf, 0.37] AND 51 ∈ (0.361, inf] AND 52 ∈ (0.0, inf] AND 54 ∈ (-inf, 2.741] THEN target == 0
+IF 16 ∈ (0.46, inf] AND 20 ∈ (1.57, inf] AND 51 ∈ (0.079, 0.37] AND 52 ∈ (0.0, inf] AND 54 ∈ (-inf, 2.741] AND 56 ∈ (-inf, 126.0] THEN target == 0
+IF 8 ∈ (-inf, 0.23] AND 20 ∈ (1.57, inf] AND 51 ∈ (0.079, 0.37] AND 52 ∈ (0.0, inf] AND 54 ∈ (-inf, 2.741] AND 56 ∈ (126.0, inf] THEN target == 0
+IF 20 ∈ (0.37, inf] AND 24 ∈ (0.0, inf] AND 51 ∈ (0.079, 0.37] AND 52 ∈ (0.0, inf] AND 54 ∈ (-inf, 2.741] THEN target == 0
+IF 4 ∈ (-inf, 0.0] AND 15 ∈ (-inf, 0.72] AND 23 ∈ (-inf, 0.0] AND 24 ∈ (-inf, 0.38] AND 51 ∈ (0.079, 0.485] AND 52 ∈ (-inf, 0.065] AND 54 ∈ (2.741, 6.51] THEN target == 0
+IF 4 ∈ (-inf, 0.0] AND 15 ∈ (-inf, 0.72] AND 24 ∈ (-inf, 0.38] AND 44 ∈ (0.0, inf] AND 51 ∈ (0.485, inf] AND 52 ∈ (-inf, 0.065] AND 54 ∈ (2.741, inf] AND 56 ∈ (-inf, 73.0] THEN target == 0
+IF 9 ∈ (-inf, 0.09] AND 24 ∈ (0.38, inf] AND 51 ∈ (0.079, inf] AND 54 ∈ (2.741, inf] THEN target == 0
+IF 24 ∈ (1.35, inf] AND 51 ∈ (0.079, inf] AND 54 ∈ (2.741, inf] THEN target == 0
+IF 6 ∈ (-inf, 0.0] AND 15 ∈ (-inf, 0.17] AND 17 ∈ (1.19, inf] AND 23 ∈ (-inf, 0.0] AND 51 ∈ (-inf, 0.079] AND 52 ∈ (0.166, inf] AND 54 ∈ (-inf, 3.36] THEN target == 1
+IF 6 ∈ (-inf, 0.0] AND 12 ∈ (1.29, inf] AND 15 ∈ (-inf, 0.17] AND 23 ∈ (-inf, 0.0] AND 51 ∈ (-inf, 0.079] AND 52 ∈ (0.166, inf] AND 54 ∈ (-inf, 3.36] THEN target == 1
+IF 6 ∈ (-inf, 0.0] AND 15 ∈ (-inf, 0.17] AND 16 ∈ (-inf, 0.0] AND 23 ∈ (-inf, 0.0] AND 51 ∈ (-inf, 0.079] AND 52 ∈ (0.166, inf] AND 54 ∈ (3.36, inf] THEN target == 1
+IF 6 ∈ (-inf, 0.0] AND 15 ∈ (0.17, inf] AND 20 ∈ (3.03, inf] AND 23 ∈ (-inf, 0.0] AND 24 ∈ (-inf, 0.0] AND 44 ∈ (-inf, 0.25] AND 51 ∈ (-inf, 0.079] AND 56 ∈ (-inf, 108.0] THEN target == 1
+IF 4 ∈ (2.04, inf] AND 6 ∈ (-inf, 0.0] AND 15 ∈ (0.17, inf] AND 23 ∈ (-inf, 0.0] AND 24 ∈ (-inf, 0.0] AND 44 ∈ (-inf, 0.25] AND 51 ∈ (-inf, 0.079] AND 56 ∈ (-inf, 108.0] THEN target == 1
+IF 6 ∈ (-inf, 0.0] AND 15 ∈ (0.17, inf] AND 17 ∈ (-inf, 0.95] AND 23 ∈ (-inf, 0.0] AND 24 ∈ (-inf, 0.0] AND 36 ∈ (-inf, 0.42] AND 44 ∈ (-inf, 0.25] AND 51 ∈ (-inf, 0.079] AND 56 ∈ (108.0, inf] THEN target == 1
+IF 6 ∈ (-inf, 0.0] AND 15 ∈ (0.17, inf] AND 16 ∈ (0.25, inf] AND 23 ∈ (-inf, 0.0] AND 24 ∈ (-inf, 0.0] AND 44 ∈ (0.25, inf] AND 51 ∈ (-inf, 0.079] THEN target == 1
+IF 6 ∈ (-inf, 0.0] AND 23 ∈ (0.0, inf] AND 39 ∈ (0.0, inf] AND 49 ∈ (-inf, 0.1159999999999999] AND 51 ∈ (-inf, 0.079] AND 52 ∈ (-inf, 0.061] AND 54 ∈ (-inf, 2.309] THEN target == 1
+IF 6 ∈ (-inf, 0.0] AND 11 ∈ (-inf, 0.93] AND 23 ∈ (0.0, inf] AND 49 ∈ (-inf, 0.1159999999999999] AND 51 ∈ (-inf, 0.079] AND 52 ∈ (-inf, 0.061] AND 54 ∈ (2.309, inf] THEN target == 1
+IF 6 ∈ (-inf, 0.0] AND 7 ∈ (-inf, 0.38] AND 23 ∈ (0.0, inf] AND 26 ∈ (-inf, 0.0] AND 51 ∈ (-inf, 0.079] AND 52 ∈ (0.061, inf] THEN target == 1
+IF 6 ∈ (0.0, inf] AND 24 ∈ (-inf, 0.26] AND 26 ∈ (-inf, 0.0] AND 45 ∈ (-inf, 0.0] AND 51 ∈ (-inf, 0.079] THEN target == 1
+IF 6 ∈ (0.0, inf] AND 25 ∈ (0.34, inf] AND 26 ∈ (-inf, 0.0] AND 45 ∈ (-inf, 0.0] AND 51 ∈ (-inf, 0.079] THEN target == 1
+IF 11 ∈ (-inf, 0.51] AND 15 ∈ (-inf, 0.42] AND 16 ∈ (0.34, inf] AND 20 ∈ (0.42, inf] AND 51 ∈ (0.079, 0.862] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] THEN target == 1
+IF 51 ∈ (0.862, inf] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] AND 56 ∈ (-inf, 2.0] THEN target == 1
+IF 11 ∈ (-inf, 1.56] AND 18 ∈ (2.85, inf] AND 51 ∈ (0.862, inf] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] AND 56 ∈ (13.0, inf] THEN target == 1
+IF 15 ∈ (0.42, 0.69] AND 18 ∈ (-inf, 0.0] AND 51 ∈ (0.079, 0.523] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] THEN target == 1
+IF 9 ∈ (-inf, 1.04] AND 15 ∈ (0.69, inf] AND 51 ∈ (0.079, 0.523] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] AND 55 ∈ (6.0, inf] THEN target == 1
+IF 15 ∈ (0.42, inf] AND 51 ∈ (0.523, inf] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] THEN target == 1
+IF 6 ∈ (0.25, inf] AND 51 ∈ (0.079, inf] AND 52 ∈ (-inf, 0.0] AND 54 ∈ (-inf, 2.741] THEN target == 1
+IF 11 ∈ (0.0, inf] AND 20 ∈ (-inf, 0.37] AND 51 ∈ (0.079, 0.361] AND 52 ∈ (0.0, inf] AND 54 ∈ (2.193, 2.741] THEN target == 1
+IF 4 ∈ (-inf, 0.67] AND 20 ∈ (-inf, 0.37] AND 51 ∈ (0.361, inf] AND 52 ∈ (0.0, inf] AND 54 ∈ (-inf, 2.741] THEN target == 1
+IF 20 ∈ (0.37, 1.57] AND 24 ∈ (-inf, 0.0] AND 51 ∈ (0.079, 0.37] AND 52 ∈ (0.0, inf] AND 54 ∈ (-inf, 2.741] THEN target == 1
+IF 16 ∈ (-inf, 0.46] AND 20 ∈ (1.57, inf] AND 24 ∈ (-inf, 0.0] AND 51 ∈ (0.079, 0.37] AND 52 ∈ (0.0, inf] AND 54 ∈ (-inf, 2.741] AND 56 ∈ (-inf, 126.0] THEN target == 1
+IF 8 ∈ (0.23, inf] AND 20 ∈ (1.57, inf] AND 24 ∈ (-inf, 0.0] AND 51 ∈ (0.079, 0.37] AND 52 ∈ (0.0, inf] AND 54 ∈ (-inf, 2.741] AND 56 ∈ (126.0, inf] THEN target == 1
+IF 20 ∈ (0.37, inf] AND 51 ∈ (0.37, inf] AND 52 ∈ (0.0, inf] AND 54 ∈ (-inf, 2.741] THEN target == 1
+IF 23 ∈ (0.0, inf] AND 24 ∈ (-inf, 0.38] AND 51 ∈ (0.079, 0.485] AND 54 ∈ (2.741, 6.51] THEN target == 1
+IF 24 ∈ (-inf, 0.38] AND 51 ∈ (0.079, 0.485] AND 54 ∈ (6.51, inf] THEN target == 1
+IF 24 ∈ (-inf, 0.38] AND 44 ∈ (-inf, 0.0] AND 51 ∈ (0.485, inf] AND 54 ∈ (2.741, inf] THEN target == 1
+IF 24 ∈ (-inf, 0.38] AND 51 ∈ (0.485, inf] AND 54 ∈ (2.741, inf] AND 56 ∈ (73.0, inf] THEN target == 1
+IF 15 ∈ (0.72, inf] AND 24 ∈ (-inf, 0.38] AND 51 ∈ (0.079, inf] AND 54 ∈ (2.741, inf] THEN target == 1
+IF 4 ∈ (0.0, inf] AND 24 ∈ (-inf, 0.38] AND 51 ∈ (0.079, inf] AND 54 ∈ (2.741, inf] THEN target == 1
+IF 24 ∈ (-inf, 0.38] AND 51 ∈ (0.079, inf] AND 52 ∈ (0.065, inf] AND 54 ∈ (2.741, inf] THEN target == 1
+IF 9 ∈ (0.09, inf] AND 24 ∈ (0.38, 1.35] AND 51 ∈ (0.079, inf] AND 54 ∈ (2.741, inf] THEN target == 1

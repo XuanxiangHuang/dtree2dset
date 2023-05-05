@@ -1,0 +1,48 @@
+IF A18 ∈ (-inf, -1972.0] THEN target == 0
+IF A6 ∈ (-inf, -946.0] AND A18 ∈ (-1972.0, -1321.0] THEN target == 0
+IF A3 ∈ (-inf, -8.0] AND A15 ∈ (-inf, -429.0] AND A18 ∈ (-1972.0, -1321.0] THEN target == 0
+IF A10 ∈ (-inf, -663.0] AND A15 ∈ (-inf, -429.0] AND A18 ∈ (-1972.0, -1321.0] THEN target == 0
+IF A15 ∈ (-inf, -429.0] AND A18 ∈ (-1972.0, -1321.0] AND A19 ∈ (-inf, -1324.0] THEN target == 0
+IF A8 ∈ (-inf, -1769.0] AND A15 ∈ (-429.0, inf] AND A18 ∈ (-1972.0, -1321.0] THEN target == 0
+IF A15 ∈ (-429.0, inf] AND A17 ∈ (-inf, -1538.0] AND A18 ∈ (-1972.0, -1321.0] THEN target == 0
+IF A2 ∈ (-inf, -1675.0] AND A15 ∈ (-429.0, inf] AND A18 ∈ (-1972.0, -1321.0] THEN target == 0
+IF A14 ∈ (-inf, -715.0] AND A15 ∈ (-429.0, inf] AND A18 ∈ (-1972.0, -1321.0] THEN target == 0
+IF A10 ∈ (-inf, -1369.0] AND A18 ∈ (-1972.0, -1321.0] THEN target == 0
+IF A3 ∈ (-inf, -2423.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-2423.0, -1602.0] AND A8 ∈ (-inf, -251.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-2423.0, -1602.0] AND A9 ∈ (-inf, -369.0] AND A13 ∈ (-inf, -627.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A2 ∈ (-inf, -377.0] AND A3 ∈ (-2423.0, -1602.0] AND A9 ∈ (-inf, -369.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-2423.0, -1602.0] AND A9 ∈ (-369.0, inf] AND A16 ∈ (-inf, -1943.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-2423.0, -1602.0] AND A13 ∈ (-inf, -1627.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-2423.0, -1602.0] AND A9 ∈ (-369.0, inf] AND A12 ∈ (-inf, -2117.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-2423.0, -1602.0] AND A8 ∈ (2206.0, inf] AND A9 ∈ (-369.0, inf] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-1602.0, inf] AND A12 ∈ (-inf, -2453.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-1602.0, inf] AND A6 ∈ (-inf, -1098.0] AND A12 ∈ (-2453.0, -1693.0] THEN target == 0
+IF A3 ∈ (-1602.0, inf] AND A12 ∈ (-2453.0, -1693.0] AND A14 ∈ (-inf, -834.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-1602.0, inf] AND A12 ∈ (-2453.0, -1693.0] AND A18 ∈ (-1321.0, inf] AND A20 ∈ (-inf, -992.0] THEN target == 0
+IF A3 ∈ (-1602.0, inf] AND A12 ∈ (-2453.0, -1693.0] AND A17 ∈ (-inf, -1653.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-1602.0, inf] AND A7 ∈ (-inf, -726.0] AND A12 ∈ (-2453.0, -1693.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-1602.0, inf] AND A7 ∈ (-inf, -2643.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-1602.0, inf] AND A7 ∈ (-2643.0, -1522.0] AND A13 ∈ (-inf, -706.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-1602.0, inf] AND A7 ∈ (-2643.0, -1522.0] AND A18 ∈ (-1321.0, inf] AND A20 ∈ (-inf, -958.0] THEN target == 0
+IF A3 ∈ (-1602.0, inf] AND A7 ∈ (-2643.0, -1522.0] AND A11 ∈ (-inf, -1175.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A2 ∈ (-inf, -1347.0] AND A3 ∈ (-1602.0, inf] AND A7 ∈ (-2643.0, -1522.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A7 ∈ (-1522.0, inf] AND A8 ∈ (-inf, -2282.0] AND A12 ∈ (-1693.0, inf] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A8 ∈ (-2282.0, -1331.0] AND A18 ∈ (-1321.0, inf] AND A20 ∈ (-inf, -1212.0] THEN target == 0
+IF A8 ∈ (-2282.0, -1331.0] AND A11 ∈ (-inf, -1722.0] AND A12 ∈ (-1693.0, inf] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A7 ∈ (-1522.0, inf] AND A8 ∈ (-2282.0, -1331.0] AND A12 ∈ (-1693.0, inf] AND A16 ∈ (2102.0, inf] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A2 ∈ (-inf, -2941.0] AND A3 ∈ (-1602.0, inf] AND A8 ∈ (-1331.0, inf] AND A12 ∈ (-1693.0, inf] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A2 ∈ (-2941.0, -1295.0] AND A3 ∈ (-1602.0, inf] AND A5 ∈ (-inf, -1402.0] AND A7 ∈ (-1522.0, inf] AND A8 ∈ (-1331.0, inf] AND A12 ∈ (-1693.0, inf] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A2 ∈ (-2941.0, -1295.0] AND A3 ∈ (-1602.0, inf] AND A7 ∈ (-1522.0, inf] AND A8 ∈ (-1331.0, inf] AND A12 ∈ (-1693.0, inf] AND A18 ∈ (-1321.0, inf] AND A19 ∈ (-inf, -1119.0] THEN target == 0
+IF A2 ∈ (-1295.0, inf] AND A3 ∈ (-1602.0, inf] AND A7 ∈ (-1522.0, inf] AND A8 ∈ (-1331.0, inf] AND A9 ∈ (-inf, -2853.0] AND A12 ∈ (-1693.0, inf] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A2 ∈ (-1295.0, inf] AND A3 ∈ (-1602.0, inf] AND A7 ∈ (-1522.0, inf] AND A8 ∈ (-1331.0, inf] AND A12 ∈ (-1693.0, inf] AND A16 ∈ (-inf, -1436.0] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A1 ∈ (-inf, -2107.0] AND A2 ∈ (-1295.0, inf] AND A3 ∈ (-1602.0, inf] AND A7 ∈ (-1522.0, inf] AND A8 ∈ (-1331.0, inf] AND A12 ∈ (-1693.0, inf] AND A18 ∈ (-1321.0, inf] THEN target == 0
+IF A3 ∈ (-8.0, 1045.0] AND A6 ∈ (-946.0, inf] AND A10 ∈ (-663.0, inf] AND A15 ∈ (-inf, -429.0] AND A18 ∈ (-1972.0, -1321.0] AND A19 ∈ (-1324.0, inf] THEN target == 1
+IF A2 ∈ (-1675.0, inf] AND A6 ∈ (-946.0, inf] AND A8 ∈ (-1769.0, inf] AND A10 ∈ (-1369.0, inf] AND A14 ∈ (-715.0, inf] AND A15 ∈ (-429.0, inf] AND A17 ∈ (-1538.0, inf] AND A18 ∈ (-1972.0, -1321.0] THEN target == 1
+IF A2 ∈ (-377.0, inf] AND A3 ∈ (-2423.0, -1602.0] AND A8 ∈ (-251.0, inf] AND A9 ∈ (-inf, -369.0] AND A13 ∈ (-627.0, -277.0] AND A18 ∈ (-1321.0, inf] THEN target == 1
+IF A3 ∈ (-2423.0, -1602.0] AND A8 ∈ (-251.0, 2206.0] AND A9 ∈ (-369.0, inf] AND A12 ∈ (-2117.0, inf] AND A13 ∈ (-1627.0, inf] AND A16 ∈ (-1943.0, inf] AND A18 ∈ (-1321.0, inf] THEN target == 1
+IF A3 ∈ (-1602.0, inf] AND A6 ∈ (-1098.0, inf] AND A7 ∈ (-726.0, inf] AND A12 ∈ (-2453.0, -1693.0] AND A14 ∈ (-834.0, inf] AND A17 ∈ (-1653.0, inf] AND A18 ∈ (-1321.0, inf] AND A20 ∈ (-992.0, inf] THEN target == 1
+IF A2 ∈ (-1347.0, inf] AND A3 ∈ (-1602.0, inf] AND A7 ∈ (-2643.0, -1522.0] AND A11 ∈ (-1175.0, inf] AND A12 ∈ (-1693.0, inf] AND A13 ∈ (-706.0, inf] AND A18 ∈ (-1321.0, inf] AND A20 ∈ (-958.0, inf] THEN target == 1
+IF A3 ∈ (-1602.0, inf] AND A7 ∈ (-1522.0, inf] AND A8 ∈ (-2282.0, -1331.0] AND A11 ∈ (-1722.0, inf] AND A12 ∈ (-1693.0, inf] AND A16 ∈ (-inf, 2102.0] AND A18 ∈ (-1321.0, inf] AND A20 ∈ (-1212.0, inf] THEN target == 1
+IF A2 ∈ (-2941.0, -1295.0] AND A3 ∈ (-1602.0, inf] AND A5 ∈ (-1402.0, inf] AND A7 ∈ (-1522.0, inf] AND A8 ∈ (-1331.0, inf] AND A12 ∈ (-1693.0, inf] AND A18 ∈ (-1321.0, inf] AND A19 ∈ (-1119.0, inf] THEN target == 1
+IF A1 ∈ (-2107.0, inf] AND A2 ∈ (-1295.0, inf] AND A3 ∈ (-1602.0, inf] AND A7 ∈ (-1522.0, inf] AND A8 ∈ (-1331.0, inf] AND A9 ∈ (-1933.0, inf] AND A12 ∈ (-1693.0, inf] AND A16 ∈ (-1436.0, inf] AND A18 ∈ (-1321.0, inf] THEN target == 1

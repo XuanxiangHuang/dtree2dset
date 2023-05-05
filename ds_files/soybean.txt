@@ -1,0 +1,38 @@
+IF plant-stand ∈ {0.0} AND crop-hist ∈ {0.0} AND leafspot-size ∈ {0.0, 1.0, 3.0} AND canker-lesion ∈ {0.0, 1.0} AND fruit-pods ∈ {0.0, 2.0, 3.0} THEN target == 0
+IF date ∈ {0.0, 6.0, 7.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND stem ∈ {2.0} AND fruiting-bodies ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 1
+IF date ∈ {0.0, 6.0, 7.0} AND temp ∈ {0.0, 1.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND fruiting-bodies ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 1
+IF date ∈ {2.0} AND germination ∈ {0.0, 2.0, 3.0} AND leafspot-size ∈ {2.0} AND leaf-malf ∈ {0.0, 1.0} AND leaf-mild ∈ {0.0, 1.0} AND fruiting-bodies ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 1
+IF date ∈ {2.0} AND seed-tmt ∈ {0.0, 2.0} AND leafspot-size ∈ {2.0} AND leaf-malf ∈ {0.0, 1.0} AND leaf-mild ∈ {0.0, 1.0} AND fruiting-bodies ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 1
+IF date ∈ {1.0, 3.0, 4.0, 5.0} AND plant-stand ∈ {2.0} AND precip ∈ {0.0, 1.0} AND hail ∈ {2.0} AND area-damaged ∈ {0.0, 2.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 1
+IF leafspot-size ∈ {0.0, 1.0, 3.0} AND stem-cankers ∈ {1.0, 2.0} AND fruit-pods ∈ {1.0, 4.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 2
+IF leafspots-marg ∈ {0.0, 3.0} AND leafspot-size ∈ {0.0, 1.0, 3.0} AND leaf-mild ∈ {1.0} AND stem-cankers ∈ {0.0, 3.0, 4.0} AND canker-lesion ∈ {2.0, 3.0} AND int-discolor ∈ {0.0, 3.0} AND fruit-pods ∈ {1.0, 4.0} AND seed-size ∈ {2.0} AND roots ∈ {1.0, 2.0} THEN target == 3
+IF leafspot-size ∈ {0.0, 1.0, 3.0} AND leaf-mild ∈ {1.0} AND stem-cankers ∈ {0.0, 3.0, 4.0} AND canker-lesion ∈ {2.0, 3.0} AND int-discolor ∈ {0.0, 3.0} AND fruit-pods ∈ {1.0, 4.0} AND roots ∈ {0.0, 3.0} THEN target == 4
+IF leafspot-size ∈ {0.0, 1.0, 3.0} AND leaf-mild ∈ {1.0} AND stem-cankers ∈ {0.0, 3.0, 4.0} AND canker-lesion ∈ {2.0, 3.0} AND int-discolor ∈ {0.0, 3.0} AND fruit-pods ∈ {1.0, 4.0} AND seed-size ∈ {0.0, 1.0} THEN target == 4
+IF leafspots-marg ∈ {1.0, 2.0} AND leafspot-size ∈ {0.0, 1.0, 3.0} AND leaf-mild ∈ {1.0} AND stem-cankers ∈ {0.0, 3.0, 4.0} AND canker-lesion ∈ {2.0, 3.0} AND int-discolor ∈ {0.0, 3.0} AND fruit-pods ∈ {1.0, 4.0} THEN target == 4
+IF precip ∈ {1.0, 3.0} AND leafspot-size ∈ {2.0} AND fruit-pods ∈ {2.0, 3.0, 4.0} AND fruit-spots ∈ {0.0, 3.0, 4.0} THEN target == 5
+IF date ∈ {0.0, 2.0, 7.0} AND leafspot-size ∈ {2.0} AND fruiting-bodies ∈ {2.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 5
+IF date ∈ {1.0, 5.0} AND precip ∈ {3.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 5
+IF date ∈ {3.0, 4.0} AND plant-stand ∈ {2.0} AND precip ∈ {3.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 5
+IF date ∈ {3.0, 4.0} AND precip ∈ {3.0} AND hail ∈ {0.0, 1.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 5
+IF date ∈ {1.0, 3.0, 4.0, 5.0} AND precip ∈ {0.0, 1.0} AND area-damaged ∈ {1.0, 3.0, 4.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 5
+IF leafspot-size ∈ {0.0, 1.0, 3.0} AND stem-cankers ∈ {0.0, 3.0, 4.0} AND int-discolor ∈ {2.0} AND fruit-pods ∈ {1.0, 4.0} THEN target == 6
+IF precip ∈ {0.0, 2.0} AND leafspot-size ∈ {2.0} AND fruit-pods ∈ {2.0, 3.0, 4.0} AND fruit-spots ∈ {0.0, 3.0, 4.0} THEN target == 6
+IF leafspot-size ∈ {0.0, 1.0, 3.0} AND stem-cankers ∈ {0.0, 3.0, 4.0} AND int-discolor ∈ {1.0} AND fruit-pods ∈ {1.0, 4.0} THEN target == 7
+IF plant-stand ∈ {0.0} AND crop-hist ∈ {1.0, 2.0, 3.0, 4.0} AND leafspot-size ∈ {0.0, 1.0, 3.0} AND canker-lesion ∈ {0.0, 1.0} AND fruit-pods ∈ {0.0, 2.0, 3.0} THEN target == 8
+IF temp ∈ {0.0, 1.0} AND leafspot-size ∈ {0.0, 1.0, 3.0} AND leaf-mild ∈ {0.0, 2.0, 3.0} AND stem-cankers ∈ {0.0, 3.0, 4.0} AND int-discolor ∈ {0.0, 3.0} AND fruit-pods ∈ {1.0, 4.0} THEN target == 9
+IF leafspot-size ∈ {0.0, 1.0, 3.0} AND stem-cankers ∈ {1.0, 2.0} AND fruit-pods ∈ {1.0, 4.0} AND fruit-spots ∈ {0.0, 3.0, 4.0} THEN target == 10
+IF leafspot-size ∈ {2.0} AND leaf-mild ∈ {2.0, 3.0} AND fruiting-bodies ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 11
+IF date ∈ {1.0, 3.0, 4.0, 5.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {2.0, 3.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 11
+IF leafspot-size ∈ {2.0} AND fruit-pods ∈ {0.0, 1.0} AND fruit-spots ∈ {0.0, 3.0, 4.0} THEN target == 12
+IF date ∈ {6.0} AND leafspot-size ∈ {2.0} AND fruiting-bodies ∈ {2.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 12
+IF date ∈ {0.0, 6.0, 7.0} AND temp ∈ {2.0, 3.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND stem ∈ {0.0, 1.0} AND fruiting-bodies ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 12
+IF date ∈ {2.0} AND seed-tmt ∈ {1.0, 3.0} AND germination ∈ {1.0} AND leafspot-size ∈ {2.0} AND leaf-malf ∈ {0.0, 1.0} AND leaf-mild ∈ {0.0, 1.0} AND fruiting-bodies ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 12
+IF date ∈ {1.0, 3.0, 4.0, 5.0} AND precip ∈ {0.0, 1.0} AND hail ∈ {0.0, 1.0} AND area-damaged ∈ {0.0, 2.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 12
+IF date ∈ {1.0, 3.0, 4.0, 5.0} AND plant-stand ∈ {0.0, 1.0} AND precip ∈ {0.0, 1.0} AND area-damaged ∈ {0.0, 2.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 12
+IF date ∈ {2.0} AND leafspot-size ∈ {2.0} AND leaf-malf ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND fruiting-bodies ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 13
+IF date ∈ {3.0, 4.0} AND plant-stand ∈ {0.0, 1.0} AND precip ∈ {3.0} AND hail ∈ {2.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 13
+IF date ∈ {1.0, 3.0, 4.0, 5.0} AND precip ∈ {2.0} AND leafspot-size ∈ {2.0} AND leaf-mild ∈ {0.0, 1.0} AND fruit-spots ∈ {1.0, 2.0} THEN target == 13
+IF leafspot-size ∈ {0.0, 1.0, 3.0} AND canker-lesion ∈ {2.0, 3.0, 4.0} AND fruit-pods ∈ {0.0, 2.0, 3.0} THEN target == 14
+IF temp ∈ {2.0, 3.0} AND leafspot-size ∈ {0.0, 1.0, 3.0} AND leaf-mild ∈ {0.0, 2.0, 3.0} AND stem-cankers ∈ {0.0, 3.0, 4.0} AND int-discolor ∈ {0.0, 3.0} AND fruit-pods ∈ {1.0, 4.0} THEN target == 15
+IF leafspot-size ∈ {0.0, 1.0, 3.0} AND leaf-mild ∈ {1.0} AND stem-cankers ∈ {0.0, 3.0, 4.0} AND canker-lesion ∈ {0.0, 1.0, 4.0} AND int-discolor ∈ {0.0, 3.0} AND fruit-pods ∈ {1.0, 4.0} THEN target == 16
+IF plant-stand ∈ {1.0, 2.0} AND leafspot-size ∈ {0.0, 1.0, 3.0} AND canker-lesion ∈ {0.0, 1.0} AND fruit-pods ∈ {0.0, 2.0, 3.0} THEN target == 17

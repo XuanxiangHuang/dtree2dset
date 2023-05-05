@@ -1,0 +1,46 @@
+IF buying_price_vhigh ∈ {1} AND buying_price_med ∈ {0} AND buying_price_low ∈ {0} AND maintenance_price_high ∈ {1} THEN target == 0
+IF buying_price_vhigh ∈ {0} AND buying_price_med ∈ {0} AND buying_price_low ∈ {0} AND doors_2 ∈ {1} AND luggage_boot_size_small ∈ {1} THEN target == 0
+IF buying_price_med ∈ {0} AND buying_price_low ∈ {0} AND luggage_boot_size_small ∈ {1} AND safety_med ∈ {1} THEN target == 0
+IF buying_price_med ∈ {0} AND buying_price_low ∈ {0} AND maintenance_price_vhigh ∈ {1} THEN target == 0
+IF buying_price_low ∈ {0} AND maintenance_price_med ∈ {0} AND maintenance_price_low ∈ {0} AND luggage_boot_size_small ∈ {1} AND safety_med ∈ {1} THEN target == 0
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_med ∈ {1} AND maintenance_price_low ∈ {0} AND doors_2 ∈ {1} AND luggage_boot_size_small ∈ {1} AND safety_med ∈ {0} THEN target == 0
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_med ∈ {1} AND maintenance_price_low ∈ {0} AND doors_2 ∈ {1} AND persons_4 ∈ {0} AND safety_med ∈ {1} THEN target == 0
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_low ∈ {1} AND doors_2 ∈ {1} AND persons_4 ∈ {0} AND luggage_boot_size_small ∈ {1} THEN target == 0
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {0} AND maintenance_price_high ∈ {0} AND doors_2 ∈ {1} AND persons_4 ∈ {0} AND luggage_boot_size_small ∈ {1} THEN target == 0
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {1} AND doors_3 ∈ {1} AND luggage_boot_size_med ∈ {1} AND safety_med ∈ {1} THEN target == 0
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {1} AND doors_2 ∈ {1} AND luggage_boot_size_med ∈ {1} AND safety_med ∈ {1} THEN target == 0
+IF doors_2 ∈ {1} AND persons_4 ∈ {0} AND luggage_boot_size_small ∈ {1} AND safety_med ∈ {1} THEN target == 0
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {1} AND luggage_boot_size_small ∈ {1} AND safety_med ∈ {1} THEN target == 0
+IF safety_low ∈ {1} THEN target == 0
+IF persons_2 ∈ {1} THEN target == 0
+IF buying_price_med ∈ {0} AND buying_price_low ∈ {0} AND maintenance_price_vhigh ∈ {0} AND maintenance_price_high ∈ {0} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND safety_low ∈ {0} THEN target == 1
+IF buying_price_vhigh ∈ {0} AND buying_price_med ∈ {0} AND buying_price_low ∈ {0} AND maintenance_price_vhigh ∈ {0} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND safety_low ∈ {0} THEN target == 1
+IF buying_price_vhigh ∈ {0} AND buying_price_med ∈ {0} AND buying_price_low ∈ {0} AND maintenance_price_vhigh ∈ {0} AND doors_2 ∈ {0} AND persons_2 ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 1
+IF buying_price_vhigh ∈ {1} AND buying_price_med ∈ {0} AND buying_price_low ∈ {0} AND maintenance_price_vhigh ∈ {0} AND maintenance_price_high ∈ {0} AND persons_2 ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 1
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_med ∈ {0} AND maintenance_price_low ∈ {0} AND persons_2 ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 1
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_med ∈ {0} AND maintenance_price_low ∈ {0} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND safety_low ∈ {0} THEN target == 1
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_low ∈ {0} AND doors_2 ∈ {0} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 1
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_med ∈ {1} AND maintenance_price_low ∈ {0} AND doors_2 ∈ {0} AND persons_2 ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {1} THEN target == 1
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_med ∈ {1} AND maintenance_price_low ∈ {0} AND persons_2 ∈ {0} AND persons_4 ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {1} THEN target == 1
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_low ∈ {1} AND doors_2 ∈ {1} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND luggage_boot_size_med ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {1} THEN target == 1
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_low ∈ {1} AND persons_2 ∈ {0} AND persons_4 ∈ {1} AND luggage_boot_size_small ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {1} THEN target == 1
+IF buying_price_low ∈ {1} AND maintenance_price_high ∈ {1} AND doors_2 ∈ {1} AND persons_2 ∈ {0} AND luggage_boot_size_med ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 1
+IF buying_price_low ∈ {1} AND maintenance_price_high ∈ {1} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 1
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {1} AND persons_2 ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 1
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {0} AND doors_2 ∈ {1} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND luggage_boot_size_med ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {1} THEN target == 1
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {0} AND maintenance_price_high ∈ {1} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {1} THEN target == 1
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {1} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND luggage_boot_size_med ∈ {0} AND safety_low ∈ {0} THEN target == 1
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {1} AND doors_2 ∈ {0} AND doors_3 ∈ {0} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND safety_low ∈ {0} THEN target == 1
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {0} AND doors_2 ∈ {0} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {1} THEN target == 1
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {0} AND persons_2 ∈ {0} AND persons_4 ∈ {1} AND luggage_boot_size_small ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {1} THEN target == 1
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_med ∈ {1} AND maintenance_price_low ∈ {0} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 2
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_low ∈ {1} AND doors_2 ∈ {0} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 2
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {0} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND luggage_boot_size_med ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 2
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {0} AND doors_2 ∈ {0} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 2
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_low ∈ {1} AND doors_2 ∈ {1} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 3
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_low ∈ {1} AND persons_2 ∈ {0} AND persons_4 ∈ {1} AND luggage_boot_size_small ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 3
+IF buying_price_med ∈ {1} AND buying_price_low ∈ {0} AND maintenance_price_low ∈ {1} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND luggage_boot_size_med ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {1} THEN target == 3
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {0} AND maintenance_price_high ∈ {0} AND doors_2 ∈ {1} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND luggage_boot_size_med ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 3
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {0} AND maintenance_price_high ∈ {0} AND doors_2 ∈ {0} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 3
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {0} AND maintenance_price_high ∈ {0} AND persons_2 ∈ {0} AND persons_4 ∈ {1} AND luggage_boot_size_small ∈ {1} AND safety_low ∈ {0} AND safety_med ∈ {0} THEN target == 3
+IF buying_price_low ∈ {1} AND maintenance_price_vhigh ∈ {0} AND maintenance_price_high ∈ {0} AND persons_2 ∈ {0} AND luggage_boot_size_small ∈ {0} AND luggage_boot_size_med ∈ {0} AND safety_low ∈ {0} AND safety_med ∈ {1} THEN target == 3

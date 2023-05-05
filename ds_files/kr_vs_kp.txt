@@ -1,0 +1,20 @@
+IF c1 ∈ {0} AND c6 ∈ {0} AND c15 ∈ {0, 1} AND c21 ∈ {0} AND c33 ∈ {0} AND c35 ∈ {0} THEN target == 0
+IF c6 ∈ {0} AND c14 ∈ {1} AND c15 ∈ {0, 1} AND c21 ∈ {0} AND c33 ∈ {0} AND c35 ∈ {0} THEN target == 0
+IF c6 ∈ {0} AND c15 ∈ {1, 2} AND c17 ∈ {0} AND c21 ∈ {0} AND c23 ∈ {1} AND c33 ∈ {0} AND c35 ∈ {1} THEN target == 0
+IF c1 ∈ {0} AND c6 ∈ {0} AND c15 ∈ {0} AND c21 ∈ {0} AND c33 ∈ {0} THEN target == 0
+IF c21 ∈ {0} AND c32 ∈ {1} AND c33 ∈ {0} THEN target == 0
+IF c21 ∈ {0} AND c30 ∈ {1} AND c33 ∈ {1} THEN target == 0
+IF c4 ∈ {1} AND c21 ∈ {0} AND c33 ∈ {1} THEN target == 0
+IF c16 ∈ {1} AND c21 ∈ {0} AND c33 ∈ {1} THEN target == 0
+IF c21 ∈ {0} AND c27 ∈ {1} AND c33 ∈ {1} THEN target == 0
+IF c7 ∈ {1} AND c21 ∈ {0} AND c33 ∈ {1} THEN target == 0
+IF c21 ∈ {0} AND c33 ∈ {1} AND c34 ∈ {1} THEN target == 0
+IF c10 ∈ {1} AND c21 ∈ {0} THEN target == 0
+IF c10 ∈ {0} AND c15 ∈ {2} AND c32 ∈ {0} AND c33 ∈ {0} AND c35 ∈ {0} THEN target == 1
+IF c1 ∈ {1} AND c10 ∈ {0} AND c14 ∈ {0} AND c32 ∈ {0} AND c33 ∈ {0} AND c35 ∈ {0} THEN target == 1
+IF c10 ∈ {0} AND c15 ∈ {1, 2} AND c23 ∈ {0} AND c32 ∈ {0} AND c33 ∈ {0} AND c35 ∈ {1} THEN target == 1
+IF c10 ∈ {0} AND c15 ∈ {1, 2} AND c17 ∈ {1} AND c32 ∈ {0} AND c33 ∈ {0} AND c35 ∈ {1} THEN target == 1
+IF c1 ∈ {1} AND c10 ∈ {0} AND c15 ∈ {0} AND c32 ∈ {0} AND c33 ∈ {0} AND c35 ∈ {1} THEN target == 1
+IF c6 ∈ {1} AND c10 ∈ {0} AND c32 ∈ {0} AND c33 ∈ {0} THEN target == 1
+IF c4 ∈ {0} AND c7 ∈ {0} AND c10 ∈ {0} AND c16 ∈ {0} AND c27 ∈ {0} AND c30 ∈ {0} AND c33 ∈ {1} AND c34 ∈ {0} THEN target == 1
+IF c21 ∈ {1} THEN target == 1

@@ -1,0 +1,43 @@
+IF total day minutes ∈ (120.3, 160.1] AND total eve minutes ∈ (233.2, inf] AND total eve calls ∈ (-inf, 91.0] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 0
+IF state ∈ (-inf, 37.0] AND total day minutes ∈ (137.9, 160.1] AND total eve minutes ∈ (233.2, inf] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 0
+IF phone number ∈ (4603.0, inf] AND total day minutes ∈ (160.1, 197.8] AND total eve minutes ∈ (-inf, 155.0] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 0
+IF state ∈ (21.0, inf] AND account length ∈ (53.0, inf] AND total day minutes ∈ (197.8, 264.4] AND total eve minutes ∈ (-inf, 155.0] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 0
+IF account length ∈ (53.0, inf] AND phone number ∈ (818.0, inf] AND total day minutes ∈ (197.8, 264.4] AND total eve minutes ∈ (-inf, 155.0] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 0
+IF total day minutes ∈ (160.1, 180.6] AND total day calls ∈ (-inf, 56.0] AND total eve minutes ∈ (155.0, 216.6] AND total night minutes ∈ (-inf, 172.7] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 0
+IF account length ∈ (167.0, inf] AND total day minutes ∈ (160.1, 180.6] AND total eve minutes ∈ (155.0, 190.7] AND total night minutes ∈ (172.7, inf] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 0
+IF total day minutes ∈ (160.1, 180.6] AND total eve minutes ∈ (190.7, 216.6] AND total night minutes ∈ (172.7, inf] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 0
+IF total day minutes ∈ (160.1, 180.6] AND total eve minutes ∈ (216.6, inf] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 0
+IF international plan ∈ {0} AND total day minutes ∈ (180.6, 264.4] AND total eve minutes ∈ (155.0, inf] THEN target == 0
+IF total day minutes ∈ (180.6, 220.1] AND total eve minutes ∈ (155.0, inf] AND total night calls ∈ (83.0, inf] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 0
+IF international plan ∈ {0} AND total day minutes ∈ (-inf, 264.4] AND number customer service calls ∈ {0.0, 1.0, 2.0, 3.0} THEN target == 0
+IF total day minutes ∈ (-inf, 264.4] AND total intl minutes ∈ (-inf, 13.0] AND total intl calls ∈ (2.0, inf] AND number customer service calls ∈ {0.0, 1.0, 2.0, 3.0} THEN target == 0
+IF international plan ∈ {0} AND total day minutes ∈ (264.4, 285.3] AND total eve minutes ∈ (-inf, 189.1] AND total night minutes ∈ (-inf, 220.8] THEN target == 0
+IF state ∈ (20.0, inf] AND voice mail plan ∈ {0} AND total day minutes ∈ (264.4, 285.3] AND total eve minutes ∈ (-inf, 189.1] AND total night minutes ∈ (-inf, 220.8] THEN target == 0
+IF voice mail plan ∈ {0} AND total day minutes ∈ (264.4, 285.3] AND total eve minutes ∈ (-inf, 189.1] AND total night minutes ∈ (-inf, 220.8] AND number customer service calls ∈ {1.0} THEN target == 0
+IF voice mail plan ∈ {0} AND total day minutes ∈ (264.4, 285.3] AND total day calls ∈ (85.0, inf] AND total eve minutes ∈ (-inf, 153.6] AND total night minutes ∈ (220.8, inf] THEN target == 0
+IF voice mail plan ∈ {0} AND total day minutes ∈ (285.3, 310.4] AND total day calls ∈ (63.0, inf] AND total eve minutes ∈ (-inf, 150.1] THEN target == 0
+IF area code ∈ {408.0, 510.0} AND voice mail plan ∈ {0} AND total day minutes ∈ (285.3, inf] AND total eve minutes ∈ (150.1, 189.1] AND total night minutes ∈ (-inf, 143.9] THEN target == 0
+IF voice mail plan ∈ {0} AND total day minutes ∈ (264.4, 277.0] AND total eve minutes ∈ (189.1, inf] AND total night minutes ∈ (-inf, 121.1] THEN target == 0
+IF international plan ∈ {0} AND voice mail plan ∈ {1} AND total day minutes ∈ (264.4, inf] THEN target == 0
+IF account length ∈ (-inf, 92.0] AND voice mail plan ∈ {1} AND total day minutes ∈ (271.5, inf] THEN target == 0
+IF total day minutes ∈ (-inf, 160.1] AND total eve minutes ∈ (-inf, 233.2] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 1
+IF total day minutes ∈ (-inf, 120.3] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 1
+IF total day minutes ∈ (120.3, 137.9] AND total eve calls ∈ (91.0, inf] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 1
+IF state ∈ (37.0, inf] AND total day minutes ∈ (137.9, 160.1] AND total eve calls ∈ (91.0, inf] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 1
+IF phone number ∈ (-inf, 4603.0] AND total day minutes ∈ (160.1, 197.8] AND total eve minutes ∈ (-inf, 155.0] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 1
+IF account length ∈ (-inf, 53.0] AND total day minutes ∈ (197.8, 264.4] AND total eve minutes ∈ (-inf, 155.0] AND total eve calls ∈ (102.0, inf] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 1
+IF state ∈ (-inf, 21.0] AND phone number ∈ (-inf, 818.0] AND total day minutes ∈ (197.8, 264.4] AND total eve minutes ∈ (-inf, 155.0] AND total eve calls ∈ (102.0, inf] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 1
+IF total day minutes ∈ (160.1, 180.6] AND total day calls ∈ (56.0, inf] AND total eve minutes ∈ (155.0, 216.6] AND total night minutes ∈ (-inf, 172.7] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 1
+IF account length ∈ (-inf, 167.0] AND total day minutes ∈ (160.1, 180.6] AND total eve minutes ∈ (155.0, 190.7] AND total night minutes ∈ (172.7, inf] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 1
+IF international plan ∈ {1} AND total day minutes ∈ (180.6, 264.4] AND total eve minutes ∈ (155.0, inf] AND total night calls ∈ (-inf, 83.0] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 1
+IF international plan ∈ {1} AND total day minutes ∈ (220.1, 264.4] AND total eve minutes ∈ (155.0, inf] AND number customer service calls ∈ {4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 1
+IF international plan ∈ {1} AND total day minutes ∈ (-inf, 264.4] AND total intl calls ∈ (-inf, 2.0] AND number customer service calls ∈ {0.0, 1.0, 2.0, 3.0} THEN target == 1
+IF international plan ∈ {1} AND total day minutes ∈ (-inf, 264.4] AND total intl minutes ∈ (13.0, inf] AND number customer service calls ∈ {0.0, 1.0, 2.0, 3.0} THEN target == 1
+IF state ∈ (-inf, 20.0] AND international plan ∈ {1} AND voice mail plan ∈ {0} AND total day minutes ∈ (264.4, 285.3] AND total eve minutes ∈ (-inf, 189.1] AND total night minutes ∈ (-inf, 220.8] AND number customer service calls ∈ {0.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0} THEN target == 1
+IF voice mail plan ∈ {0} AND total day minutes ∈ (264.4, 285.3] AND total day calls ∈ (-inf, 85.0] AND total night minutes ∈ (220.8, inf] THEN target == 1
+IF voice mail plan ∈ {0} AND total day minutes ∈ (264.4, 285.3] AND total eve minutes ∈ (153.6, 189.1] AND total night minutes ∈ (220.8, inf] THEN target == 1
+IF voice mail plan ∈ {0} AND total day minutes ∈ (285.3, 310.4] AND total day calls ∈ (-inf, 63.0] AND total eve minutes ∈ (-inf, 150.1] THEN target == 1
+IF voice mail plan ∈ {0} AND total day minutes ∈ (310.4, inf] AND total eve minutes ∈ (-inf, 150.1] THEN target == 1
+IF area code ∈ {415.0} AND voice mail plan ∈ {0} AND total day minutes ∈ (285.3, inf] AND total eve minutes ∈ (150.1, 189.1] THEN target == 1
+IF international plan ∈ {1} AND voice mail plan ∈ {1} AND total day minutes ∈ (264.4, 271.5] THEN target == 1
+IF account length ∈ (92.0, inf] AND international plan ∈ {1} AND voice mail plan ∈ {1} AND total day minutes ∈ (271.5, inf] THEN target == 1

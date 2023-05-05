@@ -1,0 +1,229 @@
+IF y-bar ∈ (-inf, 5.0] AND y2bar ∈ (-inf, 2.0] AND xybar ∈ (-inf, 10.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (-inf, 4.0] THEN target == 0
+IF x2ybr ∈ (-inf, 3.0] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 0
+IF x-box ∈ (-inf, 3.0] AND width ∈ (4.0, inf] AND y-bar ∈ (-inf, 7.0] AND x-ege ∈ (3.0, 4.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 0
+IF x2ybr ∈ (-inf, 3.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (2.0, 4.0] AND yegvx ∈ (-inf, 7.0] THEN target == 0
+IF y-bar ∈ (-inf, 4.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (-inf, 3.0] AND x2ybr ∈ (-inf, 5.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] THEN target == 0
+IF y-bar ∈ (-inf, 4.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (-inf, 2.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (8.0, inf] THEN target == 0
+IF y-bar ∈ (-inf, 4.0] AND x2bar ∈ (-inf, 4.0] AND xybar ∈ (10.0, inf] AND x2ybr ∈ (-inf, 2.0] AND xy2br ∈ (7.0, 9.0] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] THEN target == 0
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (5.0, inf] AND x2ybr ∈ (-inf, 6.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (6.0, inf] AND yegvx ∈ (-inf, 7.0] THEN target == 0
+IF high ∈ (-inf, 1.0] AND x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 8.0] AND y2bar ∈ (-inf, 7.0] AND xybar ∈ (5.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (-inf, 9.0] THEN target == 1
+IF x-box ∈ (-inf, 2.0] AND x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 8.0] AND x2bar ∈ (4.0, inf] AND xybar ∈ (5.0, inf] AND xy2br ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (9.0, inf] THEN target == 1
+IF x2bar ∈ (-inf, 3.0] AND y2bar ∈ (-inf, 6.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 2.0] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (2.0, 4.0] THEN target == 1
+IF xybar ∈ (-inf, 11.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 2.0] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (8.0, inf] THEN target == 1
+IF x2bar ∈ (-inf, 3.0] AND xy2br ∈ (5.0, 7.0] AND x-ege ∈ (2.0, inf] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (6.0, inf] THEN target == 1
+IF y-bar ∈ (-inf, 7.0] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (5.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (5.0, inf] AND yegvx ∈ (6.0, inf] THEN target == 1
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (4.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (2.0, inf] AND y-ege ∈ (6.0, inf] AND yegvx ∈ (7.0, inf] THEN target == 1
+IF y-bar ∈ (5.0, 8.0] AND xybar ∈ (-inf, 12.0] AND xy2br ∈ (10.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (-inf, 4.0] THEN target == 2
+IF x-box ∈ (-inf, 3.0] AND y-bar ∈ (8.0, inf] AND y2bar ∈ (4.0, 6.0] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (2.0, inf] THEN target == 2
+IF y-bar ∈ (8.0, inf] AND y2bar ∈ (6.0, inf] AND x2ybr ∈ (-inf, 8.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (2.0, 5.0] THEN target == 2
+IF y-bar ∈ (8.0, inf] AND y2bar ∈ (6.0, inf] AND xybar ∈ (10.0, inf] AND x2ybr ∈ (-inf, 8.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (5.0, inf] THEN target == 2
+IF y-bar ∈ (8.0, inf] AND x2bar ∈ (2.0, inf] AND x2ybr ∈ (8.0, inf] AND xy2br ∈ (9.0, inf] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 10.0] THEN target == 2
+IF y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (-inf, 5.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, 5.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] THEN target == 2
+IF x-bar ∈ (-inf, 7.0] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (5.0, inf] AND xybar ∈ (7.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, 5.0] AND yegvx ∈ (-inf, 8.0] THEN target == 2
+IF x-bar ∈ (-inf, 7.0] AND y-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND x2ybr ∈ (5.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, 2.0] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (8.0, inf] THEN target == 2
+IF x-box ∈ (1.0, 4.0] AND width ∈ (-inf, 3.0] AND x2ybr ∈ (3.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 3
+IF xy2br ∈ (-inf, 6.0] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (0.0, 2.0] THEN target == 3
+IF x-box ∈ (3.0, 5.0] AND width ∈ (4.0, inf] AND y-bar ∈ (-inf, 7.0] AND x-ege ∈ (3.0, 4.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 3
+IF y-bar ∈ (-inf, 6.0] AND y2bar ∈ (5.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (2.0, 4.0] AND yegvx ∈ (7.0, inf] THEN target == 3
+IF x2bar ∈ (3.0, inf] AND xy2br ∈ (-inf, 6.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (2.0, 4.0] THEN target == 3
+IF x2bar ∈ (3.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (2.0, 5.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 3
+IF xy2br ∈ (-inf, 7.0] AND x-ege ∈ (5.0, 7.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 3
+IF y-bar ∈ (-inf, 6.0] AND x2bar ∈ (3.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (2.0, inf] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (6.0, inf] THEN target == 3
+IF x2bar ∈ (3.0, inf] AND xybar ∈ (-inf, 9.0] AND x2ybr ∈ (-inf, 6.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 6.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 3
+IF xybar ∈ (9.0, 10.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (4.0, 6.0] THEN target == 3
+IF y-bar ∈ (5.0, 8.0] AND y2bar ∈ (6.0, inf] AND xy2br ∈ (8.0, 10.0] AND x-ege ∈ (0.0, 1.0] AND xegvy ∈ (7.0, inf] AND y-ege ∈ (-inf, 4.0] THEN target == 4
+IF x-bar ∈ (-inf, 5.0] AND y-bar ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (4.0, inf] THEN target == 4
+IF y-bar ∈ (8.0, inf] AND y2bar ∈ (6.0, inf] AND xybar ∈ (-inf, 10.0] AND x2ybr ∈ (-inf, 8.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (5.0, inf] THEN target == 4
+IF y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (5.0, 7.0] AND xybar ∈ (10.0, inf] AND xy2br ∈ (7.0, 9.0] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] THEN target == 4
+IF y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (5.0, 7.0] AND xy2br ∈ (9.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (5.0, inf] THEN target == 4
+IF x-bar ∈ (4.0, 7.0] AND x2bar ∈ (4.0, inf] AND xy2br ∈ (9.0, inf] AND x-ege ∈ (2.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (8.0, inf] THEN target == 4
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (-inf, 4.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (2.0, inf] AND y-ege ∈ (6.0, inf] AND yegvx ∈ (7.0, inf] THEN target == 4
+IF y-bar ∈ (8.0, inf] AND xybar ∈ (-inf, 12.0] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (-inf, 2.0] THEN target == 5
+IF y-bar ∈ (8.0, inf] AND xybar ∈ (-inf, 12.0] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (-inf, 1.0] THEN target == 5
+IF y-bar ∈ (8.0, inf] AND x2bar ∈ (0.0, inf] AND xybar ∈ (12.0, inf] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (0.0, 1.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 5
+IF x-bar ∈ (-inf, 5.0] AND y-bar ∈ (8.0, inf] AND y2bar ∈ (-inf, 4.0] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (2.0, inf] THEN target == 5
+IF x-box ∈ (2.0, inf] AND y-bar ∈ (8.0, inf] AND y2bar ∈ (6.0, inf] AND xybar ∈ (5.0, inf] AND x2ybr ∈ (-inf, 8.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (2.0, 4.0] THEN target == 5
+IF x-bar ∈ (-inf, 3.0] AND y-bar ∈ (11.0, inf] AND x2bar ∈ (2.0, inf] AND x2ybr ∈ (8.0, inf] AND xy2br ∈ (-inf, 9.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 10.0] AND yegvx ∈ (-inf, 5.0] THEN target == 5
+IF onpix ∈ (-inf, 3.0] AND y-bar ∈ (8.0, inf] AND x2bar ∈ (2.0, inf] AND x2ybr ∈ (8.0, inf] AND xy2br ∈ (-inf, 9.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 10.0] AND yegvx ∈ (5.0, inf] THEN target == 5
+IF y-bar ∈ (8.0, inf] AND x2bar ∈ (2.0, inf] AND x2ybr ∈ (8.0, inf] AND xy2br ∈ (5.0, 9.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 10.0] AND yegvx ∈ (5.0, inf] THEN target == 5
+IF x2bar ∈ (-inf, 4.0] AND y2bar ∈ (4.0, inf] AND xy2br ∈ (-inf, 6.0] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (8.0, 10.0] AND y-ege ∈ (-inf, 2.0] THEN target == 5
+IF y-bar ∈ (10.0, inf] AND x2bar ∈ (4.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (8.0, 10.0] AND y-ege ∈ (-inf, 2.0] AND yegvx ∈ (-inf, 6.0] THEN target == 5
+IF xybar ∈ (11.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 2.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (4.0, 7.0] AND yegvx ∈ (-inf, 8.0] THEN target == 5
+IF x2bar ∈ (-inf, 3.0] AND xybar ∈ (-inf, 9.0] AND x2ybr ∈ (-inf, 6.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 6.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 5
+IF y2bar ∈ (5.0, inf] AND xybar ∈ (10.0, inf] AND x2ybr ∈ (9.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 5
+IF x2bar ∈ (-inf, 4.0] AND y2bar ∈ (4.0, inf] AND xy2br ∈ (-inf, 6.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (6.0, 10.0] THEN target == 5
+IF x-bar ∈ (-inf, 7.0] AND x2bar ∈ (4.0, inf] AND xy2br ∈ (7.0, 9.0] AND x-ege ∈ (2.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (8.0, inf] THEN target == 5
+IF x-box ∈ (-inf, 1.0] AND y-bar ∈ (5.0, 8.0] AND xy2br ∈ (-inf, 10.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (2.0, 4.0] THEN target == 6
+IF y-bar ∈ (5.0, 8.0] AND y2bar ∈ (-inf, 6.0] AND xy2br ∈ (6.0, 10.0] AND x-ege ∈ (0.0, 1.0] AND xegvy ∈ (7.0, inf] AND y-ege ∈ (-inf, 4.0] THEN target == 6
+IF x-box ∈ (2.0, inf] AND x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 8.0] AND x2bar ∈ (4.0, inf] AND xybar ∈ (5.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (9.0, inf] THEN target == 6
+IF x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 8.0] AND x2bar ∈ (4.0, inf] AND xybar ∈ (5.0, inf] AND xy2br ∈ (8.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (9.0, inf] THEN target == 6
+IF x2bar ∈ (2.0, 4.0] AND y2bar ∈ (-inf, 4.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (7.0, inf] AND yegvx ∈ (6.0, inf] THEN target == 6
+IF y-box ∈ (7.0, inf] AND y-bar ∈ (-inf, 4.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (-inf, 3.0] AND x2ybr ∈ (5.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (-inf, 8.0] THEN target == 6
+IF x-bar ∈ (-inf, 7.0] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (-inf, 4.0] AND x2ybr ∈ (-inf, 7.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (5.0, inf] AND yegvx ∈ (-inf, 8.0] THEN target == 6
+IF x-bar ∈ (-inf, 7.0] AND y-bar ∈ (-inf, 7.0] AND x2bar ∈ (4.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, 2.0] AND y-ege ∈ (2.0, 4.0] AND yegvx ∈ (8.0, inf] THEN target == 6
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (7.0, inf] AND xybar ∈ (-inf, 6.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, 6.0] AND yegvx ∈ (7.0, inf] THEN target == 6
+IF x-box ∈ (1.0, 4.0] AND width ∈ (3.0, inf] AND x2ybr ∈ (3.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 7
+IF x-ege ∈ (1.0, 3.0] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (-inf, 0.0] THEN target == 7
+IF y2bar ∈ (4.0, inf] AND xy2br ∈ (6.0, 8.0] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (0.0, 2.0] THEN target == 7
+IF x2bar ∈ (-inf, 3.0] AND y2bar ∈ (4.0, inf] AND xy2br ∈ (6.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (8.0, 10.0] AND y-ege ∈ (-inf, 2.0] THEN target == 7
+IF y-box ∈ (2.0, inf] AND y-bar ∈ (-inf, 10.0] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (-inf, 3.0] AND x2ybr ∈ (-inf, 11.0] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 7
+IF x2bar ∈ (3.0, 6.0] AND xy2br ∈ (6.0, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (2.0, 4.0] THEN target == 7
+IF y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (5.0, 7.0] AND xybar ∈ (-inf, 10.0] AND xy2br ∈ (7.0, 9.0] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] THEN target == 7
+IF x-bar ∈ (-inf, 7.0] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (5.0, inf] AND xybar ∈ (-inf, 7.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, 5.0] AND yegvx ∈ (-inf, 8.0] THEN target == 7
+IF x-box ∈ (1.0, inf] AND y-bar ∈ (5.0, 8.0] AND xy2br ∈ (-inf, 10.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (2.0, 4.0] THEN target == 8
+IF y-bar ∈ (5.0, 8.0] AND xy2br ∈ (-inf, 10.0] AND x-ege ∈ (-inf, 0.0] AND xegvy ∈ (7.0, inf] AND y-ege ∈ (-inf, 4.0] THEN target == 8
+IF x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 8.0] AND x2bar ∈ (-inf, 4.0] AND xybar ∈ (5.0, inf] AND xy2br ∈ (-inf, 6.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (9.0, inf] THEN target == 8
+IF y-bar ∈ (8.0, inf] AND x2bar ∈ (-inf, 0.0] AND xybar ∈ (12.0, inf] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (-inf, 2.0] THEN target == 8
+IF x-box ∈ (3.0, inf] AND y-bar ∈ (8.0, inf] AND y2bar ∈ (4.0, 6.0] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (2.0, inf] THEN target == 8
+IF y2bar ∈ (3.0, inf] AND xybar ∈ (11.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 2.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (8.0, inf] THEN target == 8
+IF x2bar ∈ (-inf, 4.0] AND y2bar ∈ (4.0, inf] AND xy2br ∈ (-inf, 6.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (10.0, inf] THEN target == 8
+IF y-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (5.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (5.0, inf] AND yegvx ∈ (6.0, inf] THEN target == 8
+IF y-bar ∈ (-inf, 5.0] AND xybar ∈ (10.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (-inf, 4.0] THEN target == 9
+IF y-bar ∈ (5.0, 8.0] AND xy2br ∈ (-inf, 10.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 9
+IF y-bar ∈ (5.0, 8.0] AND xybar ∈ (12.0, inf] AND xy2br ∈ (10.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (-inf, 4.0] THEN target == 9
+IF y-bar ∈ (8.0, inf] AND x2bar ∈ (0.0, inf] AND xybar ∈ (12.0, inf] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (-inf, 2.0] THEN target == 9
+IF y-box ∈ (10.0, inf] AND y-bar ∈ (8.0, inf] AND x2bar ∈ (0.0, inf] AND xybar ∈ (12.0, inf] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 0.0] AND y-ege ∈ (-inf, 2.0] THEN target == 9
+IF x-box ∈ (1.0, inf] AND x-bar ∈ (5.0, inf] AND y-bar ∈ (8.0, inf] AND y2bar ∈ (-inf, 4.0] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (2.0, inf] THEN target == 9
+IF x-box ∈ (4.0, inf] AND x2ybr ∈ (3.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 9
+IF x-box ∈ (1.0, inf] AND x-bar ∈ (6.0, inf] AND xy2br ∈ (8.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (0.0, 2.0] THEN target == 9
+IF x-box ∈ (2.0, inf] AND width ∈ (-inf, 4.0] AND x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 7.0] AND x-ege ∈ (3.0, 4.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 9
+IF x2ybr ∈ (3.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 7.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (2.0, 4.0] AND yegvx ∈ (-inf, 7.0] THEN target == 9
+IF y2bar ∈ (-inf, 3.0] AND xybar ∈ (11.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 2.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (8.0, inf] THEN target == 9
+IF x2bar ∈ (-inf, 3.0] AND xy2br ∈ (-inf, 5.0] AND x-ege ∈ (2.0, inf] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (6.0, inf] THEN target == 9
+IF x2bar ∈ (-inf, 2.0] AND y2bar ∈ (-inf, 4.0] AND x2ybr ∈ (-inf, 6.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (6.0, inf] THEN target == 9
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND xybar ∈ (6.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (2.0, 6.0] AND yegvx ∈ (-inf, 8.0] THEN target == 9
+IF x-box ∈ (-inf, 1.0] AND x2ybr ∈ (3.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 10
+IF x-bar ∈ (-inf, 6.0] AND xy2br ∈ (8.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (0.0, 2.0] THEN target == 10
+IF x-box ∈ (-inf, 2.0] AND width ∈ (-inf, 4.0] AND x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 7.0] AND x-ege ∈ (3.0, 4.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 10
+IF x2ybr ∈ (-inf, 7.0] AND x-ege ∈ (3.0, inf] AND xegvy ∈ (7.0, inf] AND y-ege ∈ (-inf, 2.0] AND yegvx ∈ (10.0, inf] THEN target == 10
+IF x2bar ∈ (-inf, 4.0] AND y2bar ∈ (4.0, inf] AND xy2br ∈ (6.0, 7.0] AND x-ege ∈ (4.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (6.0, inf] THEN target == 10
+IF y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (5.0, 7.0] AND xy2br ∈ (9.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, 5.0] THEN target == 10
+IF x-bar ∈ (-inf, 6.0] AND y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (7.0, inf] AND xybar ∈ (-inf, 9.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (7.0, inf] THEN target == 10
+IF x-bar ∈ (-inf, 4.0] AND x2bar ∈ (4.0, inf] AND xy2br ∈ (9.0, inf] AND x-ege ∈ (2.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (8.0, inf] THEN target == 10
+IF y-bar ∈ (-inf, 5.0] AND y2bar ∈ (2.0, inf] AND xybar ∈ (-inf, 10.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (-inf, 4.0] THEN target == 11
+IF x-box ∈ (2.0, inf] AND width ∈ (-inf, 4.0] AND x-bar ∈ (-inf, 5.0] AND y-bar ∈ (-inf, 7.0] AND x-ege ∈ (3.0, 4.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 11
+IF y-bar ∈ (-inf, 4.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (2.0, 3.0] AND x2ybr ∈ (5.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (8.0, inf] THEN target == 11
+IF y-bar ∈ (-inf, 4.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (3.0, inf] AND xy2br ∈ (10.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] THEN target == 11
+IF x-box ∈ (-inf, 2.0] AND width ∈ (-inf, 4.0] AND x-bar ∈ (-inf, 5.0] AND y-bar ∈ (-inf, 7.0] AND x-ege ∈ (3.0, 4.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 12
+IF y-bar ∈ (-inf, 7.0] AND x-ege ∈ (4.0, inf] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 12
+IF y-box ∈ (-inf, 9.0] AND y-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND x-ege ∈ (3.0, inf] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 12
+IF y-box ∈ (8.0, inf] AND x2ybr ∈ (-inf, 7.0] AND x-ege ∈ (7.0, inf] AND xegvy ∈ (7.0, inf] AND y-ege ∈ (-inf, 2.0] AND yegvx ∈ (-inf, 10.0] THEN target == 12
+IF onpix ∈ (3.0, inf] AND x-bar ∈ (-inf, 3.0] AND x2ybr ∈ (7.0, inf] AND x-ege ∈ (3.0, inf] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (1.0, 2.0] THEN target == 12
+IF x2ybr ∈ (3.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (7.0, inf] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (2.0, 4.0] AND yegvx ∈ (-inf, 7.0] THEN target == 12
+IF xy2br ∈ (-inf, 7.0] AND x-ege ∈ (7.0, inf] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 12
+IF y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (-inf, 5.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (5.0, inf] AND y-ege ∈ (2.0, 5.0] THEN target == 12
+IF y-bar ∈ (7.0, inf] AND x2bar ∈ (-inf, 4.0] AND x-ege ∈ (3.0, inf] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 13
+IF onpix ∈ (-inf, 5.0] AND x2ybr ∈ (-inf, 7.0] AND x-ege ∈ (3.0, 7.0] AND xegvy ∈ (7.0, 9.0] AND y-ege ∈ (-inf, 2.0] AND yegvx ∈ (-inf, 10.0] THEN target == 13
+IF y2bar ∈ (3.0, inf] AND x2ybr ∈ (-inf, 7.0] AND x-ege ∈ (3.0, 7.0] AND xegvy ∈ (9.0, inf] AND y-ege ∈ (-inf, 2.0] AND yegvx ∈ (-inf, 10.0] THEN target == 13
+IF x2ybr ∈ (7.0, inf] AND x-ege ∈ (3.0, inf] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (-inf, 1.0] THEN target == 13
+IF y2bar ∈ (-inf, 3.0] AND x2ybr ∈ (7.0, inf] AND x-ege ∈ (3.0, 4.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 0.0] THEN target == 13
+IF y-bar ∈ (6.0, inf] AND x2bar ∈ (5.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (2.0, 4.0] AND yegvx ∈ (7.0, inf] THEN target == 13
+IF y2bar ∈ (4.0, inf] AND xybar ∈ (-inf, 9.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (6.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, 4.0] AND yegvx ∈ (-inf, 6.0] THEN target == 13
+IF xybar ∈ (-inf, 9.0] AND x2ybr ∈ (-inf, 6.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (6.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 13
+IF y2bar ∈ (-inf, 4.0] AND xy2br ∈ (6.0, 8.0] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (0.0, 2.0] THEN target == 14
+IF x2bar ∈ (6.0, inf] AND xy2br ∈ (6.0, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (2.0, 4.0] THEN target == 14
+IF x2bar ∈ (4.0, inf] AND x2ybr ∈ (-inf, 8.0] AND xy2br ∈ (6.0, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, 5.0] AND yegvx ∈ (6.0, inf] THEN target == 14
+IF y-bar ∈ (-inf, 4.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (3.0, inf] AND x2ybr ∈ (2.0, inf] AND xy2br ∈ (7.0, 9.0] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, 5.0] THEN target == 14
+IF x-bar ∈ (-inf, 7.0] AND x2bar ∈ (5.0, inf] AND y2bar ∈ (-inf, 5.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, 5.0] AND yegvx ∈ (-inf, 8.0] THEN target == 14
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND xybar ∈ (6.0, inf] AND xy2br ∈ (7.0, 8.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (7.0, inf] AND y-ege ∈ (2.0, 6.0] THEN target == 14
+IF y-bar ∈ (5.0, 8.0] AND y2bar ∈ (-inf, 6.0] AND xy2br ∈ (-inf, 6.0] AND x-ege ∈ (0.0, 1.0] AND xegvy ∈ (7.0, inf] AND y-ege ∈ (-inf, 4.0] THEN target == 15
+IF y-bar ∈ (8.0, inf] AND xybar ∈ (-inf, 12.0] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (1.0, 2.0] THEN target == 15
+IF y-box ∈ (-inf, 10.0] AND y-bar ∈ (8.0, inf] AND x2bar ∈ (0.0, inf] AND xybar ∈ (12.0, inf] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 0.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 15
+IF y-bar ∈ (8.0, inf] AND y2bar ∈ (-inf, 6.0] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] THEN target == 15
+IF onpix ∈ (3.0, inf] AND y-bar ∈ (8.0, inf] AND x2bar ∈ (2.0, inf] AND x2ybr ∈ (8.0, inf] AND xy2br ∈ (-inf, 5.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 10.0] AND yegvx ∈ (5.0, inf] THEN target == 15
+IF xybar ∈ (-inf, 9.0] AND x2ybr ∈ (6.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (6.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 15
+IF y2bar ∈ (-inf, 5.0] AND xybar ∈ (10.0, inf] AND xy2br ∈ (-inf, 5.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 15
+IF x2bar ∈ (2.0, 4.0] AND y2bar ∈ (-inf, 4.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, 7.0] AND yegvx ∈ (6.0, inf] THEN target == 15
+IF x2bar ∈ (4.0, inf] AND x2ybr ∈ (-inf, 8.0] AND xy2br ∈ (-inf, 6.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, 5.0] AND yegvx ∈ (6.0, inf] THEN target == 15
+IF x-box ∈ (-inf, 1.0] AND x-bar ∈ (6.0, inf] AND xy2br ∈ (8.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (0.0, 2.0] THEN target == 16
+IF y-box ∈ (-inf, 2.0] AND y-bar ∈ (-inf, 10.0] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (-inf, 3.0] AND x2ybr ∈ (-inf, 11.0] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 16
+IF y-bar ∈ (-inf, 4.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (3.0, inf] AND x2ybr ∈ (2.0, inf] AND xy2br ∈ (7.0, 9.0] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (5.0, inf] THEN target == 16
+IF y-bar ∈ (-inf, 4.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (3.0, inf] AND xybar ∈ (-inf, 11.0] AND xy2br ∈ (9.0, 10.0] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] THEN target == 16
+IF x-bar ∈ (-inf, 7.0] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (-inf, 4.0] AND x2ybr ∈ (7.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (5.0, inf] AND yegvx ∈ (-inf, 8.0] THEN target == 16
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (-inf, 7.0] AND xybar ∈ (-inf, 6.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, 6.0] AND yegvx ∈ (7.0, inf] THEN target == 16
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND xybar ∈ (6.0, inf] AND xy2br ∈ (8.0, inf] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (7.0, inf] AND y-ege ∈ (2.0, 6.0] THEN target == 16
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND x2ybr ∈ (6.0, inf] AND xy2br ∈ (8.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (6.0, inf] AND yegvx ∈ (-inf, 7.0] THEN target == 16
+IF x-box ∈ (-inf, 1.0] AND x-bar ∈ (5.0, inf] AND y-bar ∈ (8.0, inf] AND y2bar ∈ (-inf, 4.0] AND x2ybr ∈ (-inf, 8.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (2.0, inf] THEN target == 17
+IF y-bar ∈ (-inf, 6.0] AND y2bar ∈ (-inf, 5.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (2.0, 4.0] AND yegvx ∈ (7.0, inf] THEN target == 17
+IF y-bar ∈ (6.0, inf] AND x2bar ∈ (-inf, 5.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (2.0, 4.0] AND yegvx ∈ (7.0, inf] THEN target == 17
+IF y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (-inf, 5.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (5.0, inf] AND y-ege ∈ (5.0, inf] THEN target == 17
+IF x-bar ∈ (-inf, 7.0] AND y-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND x2ybr ∈ (-inf, 5.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, 2.0] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (8.0, inf] THEN target == 17
+IF x-bar ∈ (-inf, 7.0] AND x2bar ∈ (4.0, inf] AND xy2br ∈ (7.0, 9.0] AND x-ege ∈ (2.0, inf] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (8.0, inf] THEN target == 17
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND xybar ∈ (6.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (2.0, 6.0] AND yegvx ∈ (8.0, inf] THEN target == 17
+IF y-bar ∈ (5.0, 8.0] AND y2bar ∈ (6.0, inf] AND xy2br ∈ (-inf, 8.0] AND x-ege ∈ (0.0, 1.0] AND xegvy ∈ (7.0, inf] AND y-ege ∈ (-inf, 4.0] THEN target == 18
+IF x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 8.0] AND xybar ∈ (-inf, 5.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (4.0, inf] THEN target == 18
+IF high ∈ (1.0, inf] AND x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 8.0] AND y2bar ∈ (-inf, 7.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (4.0, 5.0] AND yegvx ∈ (-inf, 9.0] THEN target == 18
+IF high ∈ (-inf, 4.0] AND x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 8.0] AND x2bar ∈ (-inf, 4.0] AND xy2br ∈ (6.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (9.0, inf] THEN target == 18
+IF y-bar ∈ (8.0, inf] AND y2bar ∈ (6.0, inf] AND xybar ∈ (-inf, 5.0] AND x2ybr ∈ (-inf, 8.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (2.0, inf] THEN target == 18
+IF x-box ∈ (-inf, 2.0] AND y-bar ∈ (8.0, inf] AND y2bar ∈ (6.0, inf] AND x2ybr ∈ (-inf, 8.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (2.0, 4.0] THEN target == 18
+IF y-bar ∈ (-inf, 6.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (-inf, 4.0] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 18
+IF xybar ∈ (-inf, 11.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 2.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (4.0, 7.0] AND yegvx ∈ (-inf, 8.0] THEN target == 18
+IF y2bar ∈ (-inf, 8.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 2.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (7.0, inf] AND yegvx ∈ (-inf, 8.0] THEN target == 18
+IF x2bar ∈ (-inf, 3.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (2.0, 5.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 18
+IF x2bar ∈ (4.0, inf] AND y2bar ∈ (-inf, 5.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (7.0, inf] AND yegvx ∈ (6.0, inf] THEN target == 18
+IF y-bar ∈ (-inf, 4.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (3.0, inf] AND xybar ∈ (-inf, 10.0] AND x2ybr ∈ (-inf, 2.0] AND xy2br ∈ (7.0, 9.0] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] THEN target == 18
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (5.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, 2.0] AND y-ege ∈ (6.0, inf] AND yegvx ∈ (7.0, inf] THEN target == 18
+IF y-bar ∈ (8.0, inf] AND x2bar ∈ (-inf, 2.0] AND x2ybr ∈ (8.0, inf] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 9.0] THEN target == 19
+IF y-bar ∈ (8.0, 10.0] AND x2bar ∈ (-inf, 2.0] AND xybar ∈ (10.0, inf] AND x2ybr ∈ (8.0, 9.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (0.0, inf] THEN target == 19
+IF x-bar ∈ (4.0, inf] AND y-bar ∈ (10.0, inf] AND x2bar ∈ (1.0, 2.0] AND x2ybr ∈ (8.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (0.0, inf] THEN target == 19
+IF x-bar ∈ (3.0, inf] AND y-bar ∈ (8.0, inf] AND x2bar ∈ (2.0, inf] AND x2ybr ∈ (8.0, inf] AND xy2br ∈ (-inf, 9.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 10.0] AND y-ege ∈ (-inf, 2.0] AND yegvx ∈ (-inf, 5.0] THEN target == 19
+IF y-box ∈ (10.0, inf] AND y-bar ∈ (11.0, inf] AND x2bar ∈ (2.0, inf] AND x2ybr ∈ (8.0, inf] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (10.0, inf] THEN target == 19
+IF x-bar ∈ (3.0, inf] AND y-bar ∈ (11.0, inf] AND x2bar ∈ (2.0, inf] AND x2ybr ∈ (8.0, inf] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (10.0, inf] THEN target == 19
+IF y-bar ∈ (10.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (4.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (10.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 19
+IF x-bar ∈ (3.0, inf] AND y-bar ∈ (10.0, inf] AND x2bar ∈ (4.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (10.0, inf] AND y-ege ∈ (-inf, 2.0] AND yegvx ∈ (-inf, 6.0] THEN target == 19
+IF x2bar ∈ (-inf, 3.0] AND y2bar ∈ (5.0, inf] AND x2ybr ∈ (7.0, inf] AND x-ege ∈ (3.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 19
+IF x-bar ∈ (-inf, 7.0] AND x2bar ∈ (-inf, 3.0] AND y2bar ∈ (6.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (2.0, 4.0] THEN target == 19
+IF y2bar ∈ (5.0, inf] AND xybar ∈ (10.0, inf] AND x2ybr ∈ (-inf, 9.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 19
+IF x-bar ∈ (-inf, 6.0] AND y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (7.0, inf] AND xybar ∈ (-inf, 9.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (-inf, 7.0] THEN target == 19
+IF x-bar ∈ (6.0, inf] AND y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (7.0, inf] AND xybar ∈ (-inf, 9.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (7.0, inf] THEN target == 19
+IF x-bar ∈ (-inf, 7.0] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (4.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (3.0, inf] AND y-ege ∈ (5.0, inf] AND yegvx ∈ (-inf, 8.0] THEN target == 19
+IF x2bar ∈ (3.0, 4.0] AND y2bar ∈ (4.0, inf] AND xy2br ∈ (6.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (8.0, 10.0] AND y-ege ∈ (-inf, 2.0] THEN target == 20
+IF y-bar ∈ (-inf, 10.0] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (3.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 20
+IF x-box ∈ (5.0, inf] AND width ∈ (4.0, inf] AND y-bar ∈ (-inf, 7.0] AND x-ege ∈ (3.0, 4.0] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 20
+IF y-box ∈ (9.0, inf] AND y-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND x-ege ∈ (3.0, inf] AND xegvy ∈ (-inf, 7.0] AND y-ege ∈ (-inf, 2.0] THEN target == 20
+IF onpix ∈ (5.0, inf] AND x2ybr ∈ (-inf, 7.0] AND x-ege ∈ (3.0, 7.0] AND xegvy ∈ (7.0, 9.0] AND y-ege ∈ (-inf, 2.0] AND yegvx ∈ (-inf, 10.0] THEN target == 20
+IF onpix ∈ (-inf, 3.0] AND x2ybr ∈ (7.0, inf] AND x-ege ∈ (3.0, inf] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (1.0, 2.0] THEN target == 20
+IF x2bar ∈ (3.0, inf] AND y2bar ∈ (5.0, inf] AND x2ybr ∈ (7.0, inf] AND x-ege ∈ (3.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 20
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (4.0, inf] AND xybar ∈ (-inf, 6.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, 6.0] AND yegvx ∈ (-inf, 7.0] THEN target == 20
+IF y-bar ∈ (6.0, 9.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (-inf, 4.0] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 21
+IF y-bar ∈ (-inf, 10.0] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (-inf, 3.0] AND x2ybr ∈ (11.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 21
+IF y-bar ∈ (10.0, inf] AND x2bar ∈ (4.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] AND yegvx ∈ (6.0, inf] THEN target == 21
+IF y2bar ∈ (-inf, 3.0] AND x2ybr ∈ (7.0, inf] AND x-ege ∈ (3.0, 4.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (0.0, 2.0] THEN target == 21
+IF xybar ∈ (-inf, 9.0] AND x2ybr ∈ (6.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 6.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, 3.0] AND yegvx ∈ (-inf, 6.0] THEN target == 21
+IF y-box ∈ (8.0, inf] AND x2bar ∈ (4.0, inf] AND x2ybr ∈ (8.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, 5.0] AND yegvx ∈ (6.0, inf] THEN target == 21
+IF y2bar ∈ (-inf, 3.0] AND x2ybr ∈ (-inf, 7.0] AND x-ege ∈ (3.0, 7.0] AND xegvy ∈ (9.0, inf] AND y-ege ∈ (-inf, 2.0] AND yegvx ∈ (-inf, 10.0] THEN target == 22
+IF y-box ∈ (-inf, 8.0] AND x2ybr ∈ (-inf, 7.0] AND x-ege ∈ (7.0, inf] AND xegvy ∈ (7.0, inf] AND y-ege ∈ (-inf, 2.0] AND yegvx ∈ (-inf, 10.0] THEN target == 22
+IF onpix ∈ (3.0, inf] AND x-bar ∈ (3.0, inf] AND x2ybr ∈ (7.0, inf] AND x-ege ∈ (3.0, inf] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (1.0, 2.0] THEN target == 22
+IF y2bar ∈ (-inf, 3.0] AND x2ybr ∈ (7.0, inf] AND x-ege ∈ (4.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 22
+IF y2bar ∈ (-inf, 4.0] AND xybar ∈ (-inf, 9.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (6.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, 4.0] AND yegvx ∈ (-inf, 6.0] THEN target == 22
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (-inf, 4.0] AND xybar ∈ (-inf, 6.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, 6.0] AND yegvx ∈ (-inf, 7.0] THEN target == 22
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, 5.0] AND x2ybr ∈ (-inf, 6.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (6.0, inf] AND yegvx ∈ (-inf, 7.0] THEN target == 22
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (-inf, 3.0] AND y2bar ∈ (6.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (7.0, 8.0] AND y-ege ∈ (2.0, 4.0] THEN target == 23
+IF x2bar ∈ (-inf, 4.0] AND y2bar ∈ (4.0, inf] AND xy2br ∈ (6.0, 7.0] AND x-ege ∈ (1.0, 4.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (6.0, inf] THEN target == 23
+IF y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (-inf, 5.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, 5.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (2.0, inf] THEN target == 23
+IF x-bar ∈ (6.0, inf] AND y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (7.0, inf] AND xybar ∈ (-inf, 9.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, 7.0] THEN target == 23
+IF y-bar ∈ (4.0, inf] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (7.0, inf] AND xybar ∈ (9.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, 4.0] THEN target == 23
+IF x-bar ∈ (-inf, 7.0] AND x2bar ∈ (4.0, 5.0] AND y2bar ∈ (-inf, 5.0] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, 5.0] AND yegvx ∈ (-inf, 8.0] THEN target == 23
+IF y-bar ∈ (8.0, inf] AND x2bar ∈ (-inf, 2.0] AND x2ybr ∈ (8.0, inf] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (9.0, inf] AND y-ege ∈ (-inf, 0.0] THEN target == 24
+IF y-bar ∈ (8.0, 10.0] AND x2bar ∈ (-inf, 2.0] AND xybar ∈ (-inf, 10.0] AND x2ybr ∈ (8.0, 9.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (9.0, inf] THEN target == 24
+IF y-bar ∈ (8.0, 10.0] AND x2bar ∈ (-inf, 2.0] AND x2ybr ∈ (9.0, inf] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (9.0, inf] THEN target == 24
+IF x-bar ∈ (-inf, 4.0] AND y-bar ∈ (10.0, inf] AND x2bar ∈ (-inf, 2.0] AND x2ybr ∈ (8.0, inf] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (9.0, inf] THEN target == 24
+IF x-bar ∈ (-inf, 3.0] AND y-bar ∈ (8.0, 11.0] AND x2bar ∈ (2.0, inf] AND x2ybr ∈ (8.0, inf] AND xy2br ∈ (-inf, 9.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 10.0] AND yegvx ∈ (-inf, 5.0] THEN target == 24
+IF y-box ∈ (-inf, 10.0] AND x-bar ∈ (-inf, 3.0] AND y-bar ∈ (11.0, inf] AND x2ybr ∈ (8.0, inf] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (10.0, inf] THEN target == 24
+IF y-bar ∈ (9.0, 10.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (-inf, 2.0] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (-inf, 2.0] THEN target == 24
+IF x-bar ∈ (-inf, 3.0] AND y-bar ∈ (10.0, inf] AND x2bar ∈ (4.0, inf] AND x-ege ∈ (1.0, 3.0] AND xegvy ∈ (10.0, inf] AND y-ege ∈ (-inf, 2.0] AND yegvx ∈ (-inf, 6.0] THEN target == 24
+IF xybar ∈ (-inf, 9.0] AND x2ybr ∈ (6.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 6.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (3.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 24
+IF xybar ∈ (9.0, 10.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 4.0] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (-inf, 4.0] THEN target == 24
+IF x2bar ∈ (-inf, 2.0] AND y2bar ∈ (-inf, 4.0] AND x2ybr ∈ (6.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (6.0, inf] THEN target == 24
+IF y-box ∈ (-inf, 8.0] AND x2bar ∈ (4.0, inf] AND x2ybr ∈ (8.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, 5.0] AND yegvx ∈ (6.0, inf] THEN target == 24
+IF x-bar ∈ (7.0, inf] AND x2bar ∈ (4.0, inf] AND x2ybr ∈ (6.0, inf] AND xy2br ∈ (7.0, 8.0] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (6.0, inf] AND yegvx ∈ (-inf, 7.0] THEN target == 24
+IF high ∈ (1.0, inf] AND x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 8.0] AND xybar ∈ (5.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (5.0, inf] AND yegvx ∈ (-inf, 9.0] THEN target == 25
+IF x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 8.0] AND y2bar ∈ (7.0, inf] AND xybar ∈ (5.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (-inf, 9.0] THEN target == 25
+IF high ∈ (4.0, inf] AND x-bar ∈ (5.0, inf] AND y-bar ∈ (-inf, 8.0] AND x2bar ∈ (-inf, 4.0] AND xybar ∈ (5.0, inf] AND xy2br ∈ (6.0, inf] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (4.0, inf] AND yegvx ∈ (9.0, inf] THEN target == 25
+IF y-bar ∈ (8.0, inf] AND y2bar ∈ (6.0, inf] AND xybar ∈ (5.0, inf] AND x2ybr ∈ (-inf, 8.0] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (-inf, 1.0] AND y-ege ∈ (4.0, inf] THEN target == 25
+IF x-bar ∈ (3.0, inf] AND y-bar ∈ (8.0, inf] AND x2bar ∈ (2.0, inf] AND x2ybr ∈ (8.0, inf] AND xy2br ∈ (-inf, 9.0] AND x-ege ∈ (-inf, 1.0] AND xegvy ∈ (-inf, 10.0] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (-inf, 5.0] THEN target == 25
+IF y2bar ∈ (8.0, inf] AND xy2br ∈ (-inf, 7.0] AND x-ege ∈ (1.0, 2.0] AND xegvy ∈ (-inf, 8.0] AND y-ege ∈ (7.0, inf] AND yegvx ∈ (-inf, 8.0] THEN target == 25
+IF y2bar ∈ (-inf, 5.0] AND xybar ∈ (10.0, inf] AND xy2br ∈ (5.0, 7.0] AND x-ege ∈ (1.0, inf] AND xegvy ∈ (8.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (-inf, 6.0] THEN target == 25
+IF y-box ∈ (-inf, 7.0] AND y-bar ∈ (-inf, 4.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (-inf, 3.0] AND x2ybr ∈ (5.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] AND yegvx ∈ (-inf, 8.0] THEN target == 25
+IF y-bar ∈ (-inf, 4.0] AND x2bar ∈ (-inf, 4.0] AND y2bar ∈ (3.0, inf] AND xybar ∈ (11.0, inf] AND xy2br ∈ (9.0, 10.0] AND x-ege ∈ (1.0, inf] AND y-ege ∈ (2.0, inf] THEN target == 25
+IF x-bar ∈ (-inf, 7.0] AND x2bar ∈ (4.0, inf] AND y2bar ∈ (4.0, inf] AND xy2br ∈ (7.0, inf] AND x-ege ∈ (1.0, 3.0] AND y-ege ∈ (5.0, inf] AND yegvx ∈ (-inf, 8.0] THEN target == 25

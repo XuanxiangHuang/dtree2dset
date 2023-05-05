@@ -1,0 +1,13 @@
+IF 4 ∈ (-inf, 0.0409] THEN target == 0
+IF 2 ∈ (0.39394, 0.43636] AND 5 ∈ (-inf, 0.125] THEN target == 0
+IF 2 ∈ (-inf, 0.43636] AND 3 ∈ (-0.0952399999999999, inf] AND 5 ∈ (-inf, 0.125] THEN target == 0
+IF 2 ∈ (0.4444399999999999, inf] AND 26 ∈ (-inf, 0.9289] AND 33 ∈ (0.90196, inf] THEN target == 0
+IF 2 ∈ (-inf, 0.71253] AND 26 ∈ (0.9289, 0.99842] THEN target == 0
+IF 5 ∈ (-inf, -1.0] AND 26 ∈ (0.99842, inf] THEN target == 0
+IF 3 ∈ (-inf, -0.8670100000000001] AND 26 ∈ (0.99842, inf] THEN target == 0
+IF 21 ∈ (0.44758, inf] AND 26 ∈ (0.99842, inf] THEN target == 0
+IF 2 ∈ (-inf, 0.39394] AND 3 ∈ (-inf, -0.0952399999999999] AND 4 ∈ (0.0409, inf] AND 26 ∈ (-inf, 0.9289] THEN target == 1
+IF 2 ∈ (-inf, 0.43636] AND 4 ∈ (0.0409, inf] AND 5 ∈ (0.125, inf] AND 26 ∈ (-inf, 0.9289] THEN target == 1
+IF 2 ∈ (0.43636, inf] AND 4 ∈ (0.0409, inf] AND 26 ∈ (-inf, 0.9289] AND 33 ∈ (-inf, 0.90196] THEN target == 1
+IF 2 ∈ (0.43636, 0.4444399999999999] AND 4 ∈ (0.0409, inf] AND 26 ∈ (-inf, 0.9289] THEN target == 1
+IF 2 ∈ (0.6381600000000001, inf] AND 3 ∈ (-0.8670100000000001, inf] AND 4 ∈ (0.0409, inf] AND 5 ∈ (-1.0, inf] AND 21 ∈ (-inf, 0.44758] AND 26 ∈ (0.99842, inf] THEN target == 1

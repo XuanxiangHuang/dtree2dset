@@ -1,0 +1,46 @@
+IF Bit-3 ∈ {0} AND Bit-4 ∈ {0} AND Bit-5 ∈ {0} AND Bit-7 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-3 ∈ {0} AND Bit-4 ∈ {0} AND Bit-7 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-3 ∈ {0} AND Bit-4 ∈ {0} AND Bit-6 ∈ {0} AND Bit-7 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-3 ∈ {0} AND Bit-4 ∈ {0} AND Bit-6 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-3 ∈ {0} AND Bit-4 ∈ {0} AND Bit-5 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-3 ∈ {0} AND Bit-4 ∈ {0} AND Bit-5 ∈ {0} AND Bit-6 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-4 ∈ {0} AND Bit-5 ∈ {0} AND Bit-6 ∈ {0} AND Bit-7 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-4 ∈ {0} AND Bit-5 ∈ {0} AND Bit-6 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-4 ∈ {0} AND Bit-6 ∈ {0} AND Bit-7 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-4 ∈ {0} AND Bit-5 ∈ {0} AND Bit-7 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-3 ∈ {0} AND Bit-5 ∈ {0} AND Bit-6 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-3 ∈ {0} AND Bit-6 ∈ {0} AND Bit-7 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-3 ∈ {0} AND Bit-5 ∈ {0} AND Bit-7 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-5 ∈ {0} AND Bit-6 ∈ {0} AND Bit-7 ∈ {0} AND Bit-8 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-3 ∈ {0} AND Bit-4 ∈ {0} AND Bit-6 ∈ {0} AND Bit-7 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-3 ∈ {0} AND Bit-5 ∈ {0} AND Bit-6 ∈ {0} AND Bit-7 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-3 ∈ {0} AND Bit-4 ∈ {0} AND Bit-5 ∈ {0} AND Bit-6 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {0} AND Bit-4 ∈ {0} AND Bit-5 ∈ {0} AND Bit-6 ∈ {0} AND Bit-7 ∈ {0} THEN target == 0
+IF Bit-3 ∈ {0} AND Bit-4 ∈ {0} AND Bit-5 ∈ {0} AND Bit-6 ∈ {0} AND Bit-7 ∈ {0} THEN target == 0
+IF Bit-2 ∈ {1} AND Bit-5 ∈ {1} AND Bit-6 ∈ {1} THEN target == 1
+IF Bit-5 ∈ {1} AND Bit-6 ∈ {1} AND Bit-7 ∈ {1} THEN target == 1
+IF Bit-2 ∈ {1} AND Bit-6 ∈ {1} AND Bit-7 ∈ {1} THEN target == 1
+IF Bit-2 ∈ {1} AND Bit-5 ∈ {1} AND Bit-7 ∈ {1} THEN target == 1
+IF Bit-2 ∈ {1} AND Bit-3 ∈ {1} AND Bit-7 ∈ {1} THEN target == 1
+IF Bit-2 ∈ {1} AND Bit-3 ∈ {1} AND Bit-5 ∈ {1} THEN target == 1
+IF Bit-3 ∈ {1} AND Bit-5 ∈ {1} AND Bit-7 ∈ {1} THEN target == 1
+IF Bit-3 ∈ {1} AND Bit-6 ∈ {1} AND Bit-7 ∈ {1} THEN target == 1
+IF Bit-3 ∈ {1} AND Bit-5 ∈ {1} AND Bit-6 ∈ {1} THEN target == 1
+IF Bit-2 ∈ {1} AND Bit-3 ∈ {1} AND Bit-6 ∈ {1} THEN target == 1
+IF Bit-4 ∈ {1} AND Bit-5 ∈ {1} AND Bit-7 ∈ {1} THEN target == 1
+IF Bit-4 ∈ {1} AND Bit-6 ∈ {1} AND Bit-7 ∈ {1} THEN target == 1
+IF Bit-4 ∈ {1} AND Bit-5 ∈ {1} AND Bit-6 ∈ {1} THEN target == 1
+IF Bit-3 ∈ {1} AND Bit-4 ∈ {1} AND Bit-7 ∈ {1} THEN target == 1
+IF Bit-3 ∈ {1} AND Bit-4 ∈ {1} AND Bit-6 ∈ {1} THEN target == 1
+IF Bit-3 ∈ {1} AND Bit-4 ∈ {1} AND Bit-5 ∈ {1} THEN target == 1
+IF Bit-2 ∈ {1} AND Bit-4 ∈ {1} THEN target == 1
+IF Bit-4 ∈ {1} AND Bit-5 ∈ {1} AND Bit-8 ∈ {1} THEN target == 1
+IF Bit-4 ∈ {1} AND Bit-7 ∈ {1} AND Bit-8 ∈ {1} THEN target == 1
+IF Bit-5 ∈ {1} AND Bit-7 ∈ {1} AND Bit-8 ∈ {1} THEN target == 1
+IF Bit-3 ∈ {1} AND Bit-4 ∈ {1} AND Bit-8 ∈ {1} THEN target == 1
+IF Bit-3 ∈ {1} AND Bit-7 ∈ {1} AND Bit-8 ∈ {1} THEN target == 1
+IF Bit-3 ∈ {1} AND Bit-5 ∈ {1} AND Bit-8 ∈ {1} THEN target == 1
+IF Bit-2 ∈ {1} AND Bit-3 ∈ {1} AND Bit-8 ∈ {1} THEN target == 1
+IF Bit-2 ∈ {1} AND Bit-5 ∈ {1} AND Bit-8 ∈ {1} THEN target == 1
+IF Bit-2 ∈ {1} AND Bit-7 ∈ {1} AND Bit-8 ∈ {1} THEN target == 1
+IF Bit-6 ∈ {1} AND Bit-8 ∈ {1} THEN target == 1

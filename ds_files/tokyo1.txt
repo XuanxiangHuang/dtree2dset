@@ -1,0 +1,12 @@
+IF cpu_avg_sys ∈ (0.06916, inf] AND cpu_max_waste ∈ (-inf, 0.8227] AND net_avg_total ∈ (115.4, inf] THEN target == 0
+IF cpu_avg_sys ∈ (0.06916, inf] AND cpu_max_user ∈ (-inf, 0.08012] AND io_iget ∈ (-inf, 245400.0] AND io_phwrite ∈ (768.0, 1024.0] AND net_avg_total ∈ (115.4, inf] THEN target == 0
+IF cpu_avg_sys ∈ (0.06916, inf] AND cpu_avg_busy ∈ (-inf, 0.1061] AND cpu_max_user ∈ (0.08012, inf] AND net_avg_total ∈ (115.4, inf] AND mem_tlbflush ∈ (-inf, 1175.0] THEN target == 0
+IF cpu_avg_sys ∈ (0.06916, 0.0863299999999999] AND cpu_max_user ∈ (0.08012, inf] AND disk_frac_active ∈ (1.842, 5.354] AND net_avg_total ∈ (115.4, inf] AND mem_tlbflush ∈ (-inf, 1175.0] THEN target == 0
+IF cpu_avg_sys ∈ (0.06916, inf] AND disk_frac_active ∈ (5.354, inf] THEN target == 0
+IF cpu_avg_sys ∈ (0.06916, inf] AND cpu_max_sys ∈ (0.3628, inf] THEN target == 0
+IF cpu_avg_sys ∈ (-inf, 0.06916] THEN target == 1
+IF cpu_max_sys ∈ (-inf, 0.3628] AND disk_frac_active ∈ (-inf, 5.354] AND net_avg_total ∈ (-inf, 115.4] THEN target == 1
+IF cpu_max_user ∈ (-inf, 0.08012] AND cpu_max_sys ∈ (-inf, 0.3628] AND cpu_max_waste ∈ (0.8227, inf] AND io_phwrite ∈ (-inf, 768.0] AND disk_frac_active ∈ (-inf, 5.354] THEN target == 1
+IF cpu_max_user ∈ (-inf, 0.08012] AND cpu_max_sys ∈ (-inf, 0.3628] AND cpu_max_waste ∈ (0.8227, inf] AND io_iget ∈ (245400.0, inf] AND disk_frac_active ∈ (-inf, 5.354] THEN target == 1
+IF cpu_avg_busy ∈ (0.1061, inf] AND cpu_max_user ∈ (0.08012, inf] AND cpu_max_sys ∈ (-inf, 0.3628] AND cpu_max_waste ∈ (0.8227, inf] AND disk_frac_active ∈ (-inf, 1.842] THEN target == 1
+IF cpu_max_user ∈ (0.08012, inf] AND cpu_max_sys ∈ (-inf, 0.3628] AND cpu_max_waste ∈ (0.8227, inf] AND disk_frac_active ∈ (-inf, 5.354] AND mem_tlbflush ∈ (1175.0, inf] THEN target == 1

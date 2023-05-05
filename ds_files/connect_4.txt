@@ -1,0 +1,259 @@
+IF a1 ∈ {0, 2} AND c1 ∈ {1, 2} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {2} AND d6 ∈ {2} AND g1 ∈ {0, 2} THEN target == 0
+IF a1 ∈ {0, 2} AND b2 ∈ {1, 2} AND c1 ∈ {0} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {0, 2} AND d6 ∈ {2} AND g1 ∈ {0, 2} THEN target == 0
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {1} AND e1 ∈ {1} AND g1 ∈ {0, 2} THEN target == 0
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {1} AND c4 ∈ {1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND f2 ∈ {2} AND g1 ∈ {0, 2} THEN target == 0
+IF a1 ∈ {0, 2} AND c2 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {0, 2} AND d1 ∈ {0, 2} AND e1 ∈ {0} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {0, 2} THEN target == 0
+IF a1 ∈ {0, 2} AND c1 ∈ {1} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {1} AND g4 ∈ {2} AND g5 ∈ {2} AND g6 ∈ {1, 2} THEN target == 0
+IF a1 ∈ {0, 2} AND a2 ∈ {1, 2} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {1} AND g4 ∈ {2} AND g5 ∈ {2} AND g6 ∈ {0} THEN target == 0
+IF a1 ∈ {0, 2} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {1} AND g4 ∈ {2} AND g5 ∈ {0, 1} AND g6 ∈ {2} THEN target == 0
+IF a1 ∈ {2} AND c1 ∈ {0, 1} AND c3 ∈ {1} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {1} AND g4 ∈ {0, 1} THEN target == 0
+IF a1 ∈ {2} AND b1 ∈ {1} AND c1 ∈ {1} AND d1 ∈ {0, 2} AND e1 ∈ {2} AND f1 ∈ {2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 0
+IF a1 ∈ {2} AND d1 ∈ {1} AND d2 ∈ {2} AND d3 ∈ {2} AND g1 ∈ {1} AND g2 ∈ {2} AND g4 ∈ {1, 2} THEN target == 0
+IF a1 ∈ {2} AND b1 ∈ {0, 1} AND d1 ∈ {1} AND d2 ∈ {2} AND d3 ∈ {0} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 0
+IF a1 ∈ {2} AND d1 ∈ {1} AND d2 ∈ {2} AND d3 ∈ {1} AND d4 ∈ {2} AND d5 ∈ {0} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 0
+IF a1 ∈ {2} AND b1 ∈ {2} AND d1 ∈ {1} AND d2 ∈ {2} AND d3 ∈ {1} AND d4 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 0
+IF a1 ∈ {2} AND b1 ∈ {0, 2} AND c1 ∈ {0, 2} AND d1 ∈ {1} AND d2 ∈ {0, 1} AND e1 ∈ {1} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 0
+IF a1 ∈ {2} AND b2 ∈ {1} AND c1 ∈ {1} AND d1 ∈ {1} AND d2 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 0
+IF a1 ∈ {0} AND b1 ∈ {0, 2} AND c1 ∈ {1} AND d1 ∈ {1} AND e1 ∈ {0, 2} AND g1 ∈ {1} AND g4 ∈ {1} THEN target == 0
+IF a1 ∈ {0} AND b1 ∈ {0, 2} AND c1 ∈ {1} AND c3 ∈ {1} AND d1 ∈ {1} AND e1 ∈ {0, 2} AND g1 ∈ {1} THEN target == 0
+IF a1 ∈ {0} AND b1 ∈ {1} AND c3 ∈ {1} AND d1 ∈ {1} AND e1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 0
+IF a1 ∈ {0} AND b1 ∈ {1} AND c2 ∈ {0} AND d1 ∈ {1} AND d3 ∈ {1} AND e1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 0
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND b3 ∈ {1, 2} AND c3 ∈ {1} AND c4 ∈ {2} AND d1 ∈ {0, 2} AND d2 ∈ {0, 2} AND e1 ∈ {0, 2} THEN target == 0
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {2} AND d1 ∈ {1} AND d2 ∈ {0} AND e1 ∈ {0, 2} THEN target == 0
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {2} AND d2 ∈ {0, 2} AND e1 ∈ {1} AND g1 ∈ {1} THEN target == 0
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND c2 ∈ {0, 1} AND c3 ∈ {1} AND c4 ∈ {0, 1} AND d2 ∈ {2} AND d3 ∈ {0} THEN target == 0
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {1} AND b3 ∈ {2} AND c1 ∈ {2} AND c3 ∈ {1} AND d2 ∈ {0, 2} AND f1 ∈ {0, 1} THEN target == 0
+IF a1 ∈ {1} AND a3 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {1} AND c3 ∈ {1} AND d2 ∈ {0, 2} AND f1 ∈ {0, 1} THEN target == 0
+IF a1 ∈ {1} AND a2 ∈ {2} AND a3 ∈ {1, 2} AND b1 ∈ {2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {1} THEN target == 0
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {2} AND b3 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0} AND f2 ∈ {1} THEN target == 0
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {2} AND b2 ∈ {1, 2} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 2} AND e1 ∈ {1} AND e3 ∈ {1, 2} THEN target == 0
+IF a1 ∈ {1} AND a2 ∈ {0, 2} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND d1 ∈ {1} AND d3 ∈ {1} AND e1 ∈ {1} AND g1 ∈ {2} AND g2 ∈ {0, 2} THEN target == 0
+IF a1 ∈ {1} AND a2 ∈ {1} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND c2 ∈ {0} AND d1 ∈ {1} AND e1 ∈ {0, 2} AND g1 ∈ {2} AND g2 ∈ {2} THEN target == 0
+IF a1 ∈ {1} AND a2 ∈ {1} AND a3 ∈ {0, 1} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND c4 ∈ {2} AND c5 ∈ {2} AND g1 ∈ {2} AND g2 ∈ {0, 1} THEN target == 0
+IF a1 ∈ {1} AND a2 ∈ {2} AND a3 ∈ {1} AND b1 ∈ {0, 1} AND b2 ∈ {1, 2} AND d3 ∈ {1} AND d4 ∈ {0, 2} AND g1 ∈ {0, 1} THEN target == 0
+IF a1 ∈ {1} AND a2 ∈ {2} AND a3 ∈ {1, 2} AND b1 ∈ {1} AND d1 ∈ {0, 1} AND d3 ∈ {1} AND d4 ∈ {0, 2} AND g1 ∈ {0, 1} THEN target == 0
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {0, 1} AND c1 ∈ {1, 2} AND d1 ∈ {0, 1} AND d3 ∈ {1} AND d4 ∈ {2} AND d5 ∈ {1} AND g1 ∈ {0, 1} THEN target == 0
+IF a1 ∈ {0, 2} AND b2 ∈ {1} AND c2 ∈ {1} AND c3 ∈ {0, 1} AND d1 ∈ {2} AND d2 ∈ {0} AND d3 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND b3 ∈ {0} AND c1 ∈ {1, 2} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {0} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND b2 ∈ {0} AND c1 ∈ {0} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {0, 2} AND d6 ∈ {2} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c1 ∈ {1, 2} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {1} AND f3 ∈ {0} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c1 ∈ {0} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {1} AND e1 ∈ {0, 1} AND f1 ∈ {0, 1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND b1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c3 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND a2 ∈ {2} AND c2 ∈ {0, 1} AND c3 ∈ {0, 2} AND d1 ∈ {1} AND d2 ∈ {0, 2} AND d3 ∈ {0, 1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c2 ∈ {0, 1} AND c3 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {0, 2} AND d3 ∈ {0, 1} AND d4 ∈ {1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {2} AND c6 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {0, 2} AND e2 ∈ {0, 1} AND f1 ∈ {0, 1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {0, 2} AND d3 ∈ {0, 1} AND e2 ∈ {0, 1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND b1 ∈ {2} AND c2 ∈ {1} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {0, 2} AND f1 ∈ {1, 2} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND b1 ∈ {0, 2} AND c1 ∈ {1} AND c2 ∈ {0, 1} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {2} AND b1 ∈ {1} AND c2 ∈ {0, 1} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {2} AND e1 ∈ {0, 2} AND f1 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND b2 ∈ {2} AND c1 ∈ {0, 2} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {2} AND f2 ∈ {1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND b1 ∈ {0, 2} AND b2 ∈ {0, 1} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND b2 ∈ {0, 1} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d4 ∈ {1} AND e2 ∈ {0, 1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c1 ∈ {1} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {1} AND f1 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {1} AND e1 ∈ {1} AND f1 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c2 ∈ {0, 1} AND c3 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0} AND f1 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {0, 1} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0} AND f1 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {2} AND a2 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND e1 ∈ {0, 2} AND f1 ∈ {1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {1} AND e1 ∈ {1} AND g1 ∈ {2} THEN target == 1
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {1} AND e1 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND f2 ∈ {0, 1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND b2 ∈ {2} AND b3 ∈ {0, 2} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND f2 ∈ {1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND b3 ∈ {1} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND e2 ∈ {0} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND b2 ∈ {0, 1} AND c1 ∈ {0} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND b2 ∈ {0, 1} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND e2 ∈ {0, 1} AND g1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {0, 2} AND d1 ∈ {0, 2} AND d3 ∈ {1} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND c2 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {1} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {2} AND c2 ∈ {1} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0} AND c1 ∈ {0, 1} AND c2 ∈ {1} AND d1 ∈ {0, 2} AND e1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {0, 2} AND a2 ∈ {0} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {1} AND g4 ∈ {2} AND g5 ∈ {2} AND g6 ∈ {0} THEN target == 1
+IF a1 ∈ {0, 2} AND c1 ∈ {2} AND c3 ∈ {1} AND d1 ∈ {0, 2} AND e1 ∈ {1} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {1} AND g4 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {0} AND c1 ∈ {0, 1} AND c3 ∈ {1} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {1} AND g4 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {0, 2} AND a2 ∈ {0, 1} AND c1 ∈ {0, 2} AND d1 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {1} AND g1 ∈ {1} AND g2 ∈ {0} THEN target == 1
+IF a1 ∈ {0, 2} AND b1 ∈ {2} AND c1 ∈ {1} AND d1 ∈ {0, 2} AND e1 ∈ {0, 2} AND f1 ∈ {2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {0, 2} AND c1 ∈ {1} AND d1 ∈ {0, 2} AND d2 ∈ {0, 1} AND d3 ∈ {1} AND f1 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {0, 2} AND c1 ∈ {1} AND d1 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {1} AND f1 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {2} AND d1 ∈ {1} AND d2 ∈ {2} AND d3 ∈ {1} AND d4 ∈ {2} AND d5 ∈ {1, 2} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 1
+IF a1 ∈ {2} AND b1 ∈ {0, 1} AND d1 ∈ {1} AND d2 ∈ {2} AND d3 ∈ {1} AND d4 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 1
+IF a1 ∈ {2} AND c1 ∈ {0, 2} AND d1 ∈ {1} AND d2 ∈ {0, 1} AND e1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 1
+IF a1 ∈ {2} AND b1 ∈ {1} AND c1 ∈ {0, 2} AND d1 ∈ {1} AND d2 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 1
+IF a1 ∈ {2} AND b2 ∈ {0} AND c1 ∈ {1} AND c2 ∈ {0, 1} AND d1 ∈ {1} AND d2 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 1
+IF a1 ∈ {2} AND b2 ∈ {2} AND c3 ∈ {1} AND d1 ∈ {1} AND d2 ∈ {0, 2} AND d3 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {2} AND c2 ∈ {2} AND c3 ∈ {1} AND d1 ∈ {1} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {2} AND c2 ∈ {0, 1} AND d1 ∈ {1} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND f2 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {0} AND b1 ∈ {0, 2} AND c1 ∈ {0, 2} AND d1 ∈ {1} AND d3 ∈ {0, 1} AND e1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 1
+IF a1 ∈ {0} AND b1 ∈ {1} AND c3 ∈ {0, 2} AND d1 ∈ {1} AND e1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {2} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {2} AND b3 ∈ {0, 2} AND c2 ∈ {0, 1} AND c3 ∈ {0, 2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {1} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {2} AND b3 ∈ {1} AND b4 ∈ {1} AND c2 ∈ {0, 1} AND c3 ∈ {0, 2} AND d2 ∈ {0} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 1} AND c2 ∈ {0, 1} AND c3 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {0, 1} AND d4 ∈ {1} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 1} AND c2 ∈ {0, 1} AND c3 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {0} AND e2 ∈ {1} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {1} AND c4 ∈ {0, 1} AND d1 ∈ {1} AND d2 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND c2 ∈ {0, 1} AND c3 ∈ {1} AND c4 ∈ {0, 1} AND d2 ∈ {0} AND e2 ∈ {0} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {1} AND c3 ∈ {1} AND d2 ∈ {0, 2} AND f1 ∈ {2} THEN target == 1
+IF a1 ∈ {1} AND a3 ∈ {0, 2} AND b1 ∈ {2} AND b2 ∈ {1} AND c1 ∈ {0, 1} AND c3 ∈ {1} AND d2 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {1} AND a3 ∈ {0, 2} AND b1 ∈ {2} AND b2 ∈ {1} AND b3 ∈ {0, 1} AND c3 ∈ {1} AND d2 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {2} AND b3 ∈ {1, 2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {1} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {2} AND b3 ∈ {1} AND b4 ∈ {0, 1} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 1} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0} AND e1 ∈ {1, 2} AND e2 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {2} AND b1 ∈ {2} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {1, 2} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {2} AND b1 ∈ {2} AND b2 ∈ {1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {2} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {2} AND b1 ∈ {2} AND c1 ∈ {0, 1} AND c2 ∈ {2} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {2} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 2} AND d4 ∈ {0, 1} AND e1 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {1} AND e1 ∈ {1, 2} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND c1 ∈ {1, 2} AND d2 ∈ {1} AND d3 ∈ {1} AND g1 ∈ {2} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {1} AND f1 ∈ {1, 2} AND g1 ∈ {2} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {1} AND g1 ∈ {2} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND c1 ∈ {1, 2} AND d2 ∈ {1} AND d3 ∈ {1} AND f1 ∈ {2} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {2} AND c3 ∈ {0} AND d2 ∈ {1} AND d3 ∈ {1} AND f1 ∈ {0, 1} AND g1 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {0, 2} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND c3 ∈ {1} AND e1 ∈ {0, 2} AND g1 ∈ {2} AND g2 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {0, 2} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND g1 ∈ {2} AND g2 ∈ {1} AND g3 ∈ {2} AND g4 ∈ {2} AND g5 ∈ {0, 2} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {1} AND a3 ∈ {1, 2} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND c2 ∈ {1, 2} AND e1 ∈ {0, 2} AND g1 ∈ {2} AND g2 ∈ {2} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {1} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND d1 ∈ {2} AND e1 ∈ {1} AND g1 ∈ {2} AND g2 ∈ {2} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {1} AND a3 ∈ {2} AND a4 ∈ {2} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND c2 ∈ {1} AND g1 ∈ {2} AND g2 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {1} AND a3 ∈ {0, 1} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND c4 ∈ {0, 1} AND c5 ∈ {2} AND g1 ∈ {2} AND g2 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {0, 1} AND c1 ∈ {0, 1} AND d3 ∈ {0, 1} AND d4 ∈ {1} AND g1 ∈ {2} AND g3 ∈ {0} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {2} AND b1 ∈ {1} AND c2 ∈ {0, 1} AND c3 ∈ {1} AND d3 ∈ {0, 2} AND g1 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {2} AND b1 ∈ {1} AND b2 ∈ {1} AND c3 ∈ {1} AND d3 ∈ {0, 2} AND g1 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {2} AND b1 ∈ {0} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0, 2} AND e1 ∈ {1} AND g1 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {2} AND a3 ∈ {0, 2} AND b1 ∈ {0} AND d1 ∈ {0, 1} AND d3 ∈ {1} AND g1 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {2} AND b1 ∈ {0, 1} AND d3 ∈ {1} AND d4 ∈ {1} AND g1 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {0, 1} AND c1 ∈ {1, 2} AND d3 ∈ {1} AND d4 ∈ {2} AND d5 ∈ {0, 2} AND e2 ∈ {2} AND g1 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {1} AND b1 ∈ {0, 1} AND c1 ∈ {1, 2} AND d1 ∈ {0, 1} AND d3 ∈ {1} AND d4 ∈ {1} AND g1 ∈ {0, 1} THEN target == 1
+IF a1 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {2} AND d3 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c2 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {0} AND d3 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c3 ∈ {2} AND d1 ∈ {2} AND d2 ∈ {0} AND d3 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND b2 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {0} AND d3 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {2} AND d6 ∈ {0, 1} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND b3 ∈ {1, 2} AND c1 ∈ {1, 2} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {0} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c1 ∈ {0} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {0, 2} AND d6 ∈ {0, 1} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c1 ∈ {1, 2} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {1} AND f3 ∈ {1, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c1 ∈ {0} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {1} AND e1 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c1 ∈ {0} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {1} AND d4 ∈ {1} AND f1 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {0, 2} AND d2 ∈ {0, 2} AND d3 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND b1 ∈ {1} AND c2 ∈ {2} AND c3 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {0, 2} AND d4 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND a2 ∈ {0, 1} AND c2 ∈ {0, 1} AND c3 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {0, 2} AND d4 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c3 ∈ {1} AND d1 ∈ {0, 1} AND d2 ∈ {0, 2} AND e2 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {2} AND d1 ∈ {0, 1} AND d2 ∈ {0, 2} AND f1 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {2} AND c6 ∈ {1} AND d1 ∈ {1} AND d2 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c4 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {0, 2} AND d3 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c2 ∈ {0, 2} AND d1 ∈ {2} AND d3 ∈ {2} AND d4 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF b1 ∈ {2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {0, 2} AND f1 ∈ {0} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {2} AND b1 ∈ {0, 1} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND d1 ∈ {2} AND d3 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND b1 ∈ {0, 2} AND c1 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {1} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0} AND b1 ∈ {1} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {0, 2} AND d3 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} AND e1 ∈ {1} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} AND f1 ∈ {1} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND b2 ∈ {2} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {2} AND f2 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND b2 ∈ {2} AND c1 ∈ {1} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND b1 ∈ {1} AND b2 ∈ {0, 1} AND c2 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND b2 ∈ {0, 1} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d3 ∈ {2} AND d4 ∈ {1} AND e2 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c1 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {1} AND e1 ∈ {0, 2} AND f1 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {0, 2} AND d3 ∈ {0} AND f1 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0} AND f1 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {2} AND a2 ∈ {1} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND e1 ∈ {0, 2} AND f1 ∈ {1} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND e1 ∈ {0, 2} AND f1 ∈ {1} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {0, 2} AND d1 ∈ {0, 1} AND d3 ∈ {0} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {1} AND c4 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND f2 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND b2 ∈ {2} AND b3 ∈ {0, 2} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND f2 ∈ {0, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND b2 ∈ {2} AND b3 ∈ {1} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND e2 ∈ {1, 2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND b2 ∈ {0, 1} AND c1 ∈ {1, 2} AND c2 ∈ {0, 1} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND e2 ∈ {2} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c2 ∈ {2} AND c3 ∈ {0, 2} AND d1 ∈ {0, 2} AND d3 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c2 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {0, 2} AND d1 ∈ {0, 2} AND e1 ∈ {1, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0} AND c1 ∈ {2} AND c2 ∈ {1} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {2} THEN target == 2
+IF a1 ∈ {0} AND c2 ∈ {1} AND e1 ∈ {1} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND c1 ∈ {0, 2} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {1} AND g4 ∈ {2} AND g5 ∈ {2} AND g6 ∈ {1, 2} THEN target == 2
+IF a1 ∈ {0, 2} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {1} AND g4 ∈ {2} AND g5 ∈ {1} AND g6 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {0, 2} AND c3 ∈ {0, 2} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {1} AND g4 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {0, 2} AND c1 ∈ {2} AND d1 ∈ {0, 2} AND e1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {1} AND g4 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {0, 2} AND c1 ∈ {0, 2} AND d1 ∈ {2} AND g1 ∈ {1} AND g2 ∈ {1} THEN target == 2
+IF a1 ∈ {0, 2} AND a2 ∈ {2} AND c1 ∈ {0, 2} AND d1 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {0} THEN target == 2
+IF a1 ∈ {0, 2} AND c1 ∈ {0, 2} AND d1 ∈ {0, 2} AND d3 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {0} THEN target == 2
+IF a1 ∈ {0, 2} AND c1 ∈ {0, 2} AND d1 ∈ {0, 2} AND d4 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {0} THEN target == 2
+IF a1 ∈ {0, 2} AND b1 ∈ {0} AND c1 ∈ {1} AND d1 ∈ {0, 2} AND f1 ∈ {2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {2} AND c1 ∈ {1} AND d1 ∈ {0, 2} AND e1 ∈ {1} AND f1 ∈ {2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {0} AND c1 ∈ {1} AND e1 ∈ {1} AND f1 ∈ {2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {0, 2} AND b1 ∈ {1} AND c1 ∈ {1} AND d1 ∈ {0, 2} AND e1 ∈ {0, 1} AND f1 ∈ {2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {0, 2} AND d1 ∈ {0, 2} AND d3 ∈ {0, 2} AND f1 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {0, 2} AND d1 ∈ {0, 2} AND d2 ∈ {2} AND d4 ∈ {0, 2} AND f1 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {2} AND d1 ∈ {1} AND d2 ∈ {2} AND d3 ∈ {2} AND g1 ∈ {1} AND g4 ∈ {0} THEN target == 2
+IF a1 ∈ {2} AND b1 ∈ {2} AND d1 ∈ {1} AND d2 ∈ {2} AND d3 ∈ {0} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 2
+IF a1 ∈ {2} AND b2 ∈ {2} AND c1 ∈ {1} AND d1 ∈ {1} AND d2 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 2
+IF a1 ∈ {2} AND b2 ∈ {0} AND c1 ∈ {1} AND c2 ∈ {2} AND d1 ∈ {1} AND d2 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {2} THEN target == 2
+IF a1 ∈ {2} AND d1 ∈ {1} AND d2 ∈ {0, 2} AND d3 ∈ {2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {2} AND c3 ∈ {0, 2} AND d1 ∈ {1} AND d2 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {2} AND b2 ∈ {0, 1} AND d1 ∈ {1} AND d2 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {2} AND d1 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {2} AND b1 ∈ {1} AND d1 ∈ {1} AND d3 ∈ {2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {2} AND c2 ∈ {2} AND c3 ∈ {0, 2} AND d1 ∈ {1} AND d3 ∈ {0, 1} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {2} AND c2 ∈ {0, 1} AND d1 ∈ {1} AND d2 ∈ {1} AND d3 ∈ {0, 1} AND f2 ∈ {2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {0} AND b1 ∈ {0, 2} AND c1 ∈ {0, 2} AND d1 ∈ {1} AND d3 ∈ {2} AND g1 ∈ {1} THEN target == 2
+IF a1 ∈ {0} AND b1 ∈ {0, 2} AND c1 ∈ {0, 2} AND d1 ∈ {1} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {0} AND b1 ∈ {0, 2} AND c1 ∈ {1} AND c3 ∈ {0, 2} AND d1 ∈ {1} AND g1 ∈ {1} AND g4 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {0} AND b1 ∈ {1} AND c3 ∈ {0, 2} AND d1 ∈ {1} AND g1 ∈ {1} AND g2 ∈ {2} AND g3 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {0} AND b1 ∈ {1} AND d3 ∈ {0, 2} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {0} AND b1 ∈ {1} AND c2 ∈ {1, 2} AND d1 ∈ {1} AND g1 ∈ {1} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {0} AND d1 ∈ {1} AND e1 ∈ {1} AND g1 ∈ {1} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND c2 ∈ {2} AND c3 ∈ {0, 2} AND d2 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {2} AND b3 ∈ {0, 2} AND c3 ∈ {0, 2} AND d2 ∈ {0, 2} AND d3 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {2} AND b3 ∈ {0, 2} AND c3 ∈ {0, 2} AND d2 ∈ {0, 2} AND d4 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {2} AND b3 ∈ {1} AND c3 ∈ {0, 2} AND d2 ∈ {2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {2} AND b3 ∈ {1} AND b4 ∈ {0, 2} AND c3 ∈ {0, 2} AND d2 ∈ {0} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 1} AND c3 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d4 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 1} AND c3 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {0, 2} AND d3 ∈ {2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND c3 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {2} AND d3 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 1} AND c3 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 1} AND c3 ∈ {0, 2} AND d1 ∈ {0, 1} AND d2 ∈ {0} AND e2 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND b3 ∈ {0} AND c3 ∈ {1} AND c4 ∈ {2} AND d1 ∈ {0, 2} AND d2 ∈ {0, 2} AND e1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {2} AND d1 ∈ {1} AND d2 ∈ {2} AND e1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND c3 ∈ {1} AND c4 ∈ {2} AND d2 ∈ {0, 2} AND e1 ∈ {1} AND g1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND c2 ∈ {2} AND c4 ∈ {0, 1} AND d1 ∈ {0, 2} AND d2 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND c2 ∈ {0, 1} AND c3 ∈ {1} AND c4 ∈ {0, 1} AND d2 ∈ {2} AND d3 ∈ {1, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND c2 ∈ {0, 1} AND c3 ∈ {1} AND c4 ∈ {0, 1} AND d2 ∈ {0} AND e2 ∈ {1, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {2} AND a3 ∈ {0} AND b1 ∈ {2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {2} AND b3 ∈ {0} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {2} AND b3 ∈ {0, 2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0} AND f2 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {2} AND b3 ∈ {1} AND b4 ∈ {2} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 1} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0} AND e2 ∈ {2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND b2 ∈ {0, 1} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {0} AND e1 ∈ {0} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {2} AND b1 ∈ {2} AND b2 ∈ {0, 2} AND d2 ∈ {1} AND d3 ∈ {2} AND d4 ∈ {0} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {2} AND b1 ∈ {2} AND c1 ∈ {2} AND c2 ∈ {2} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {2} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 2} AND d4 ∈ {2} AND e1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {2} AND c2 ∈ {2} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 2} AND e1 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {2} AND b2 ∈ {0} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 2} AND e1 ∈ {1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {2} AND d1 ∈ {0, 1} AND d2 ∈ {1} AND d3 ∈ {0, 2} AND e1 ∈ {1} AND e3 ∈ {0} THEN target == 2
+IF b1 ∈ {2} AND c1 ∈ {0} AND d1 ∈ {2} AND d2 ∈ {1} AND d3 ∈ {1} AND e1 ∈ {0} AND f1 ∈ {0} AND g1 ∈ {2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND c1 ∈ {0} AND d2 ∈ {1} AND d3 ∈ {1} AND e1 ∈ {0} AND f1 ∈ {2} AND g1 ∈ {0} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {2} AND c3 ∈ {1, 2} AND d2 ∈ {1} AND d3 ∈ {1} AND e1 ∈ {0} AND f1 ∈ {0, 1} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 2} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND c3 ∈ {0, 2} AND e1 ∈ {0, 2} AND g1 ∈ {2} AND g2 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 2} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND d1 ∈ {0, 2} AND e1 ∈ {1} AND g1 ∈ {2} AND g2 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 2} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND d3 ∈ {0, 2} AND e1 ∈ {1} AND g1 ∈ {2} AND g2 ∈ {0, 2} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 2} AND b1 ∈ {0, 1} AND g1 ∈ {2} AND g2 ∈ {1} AND g3 ∈ {2} AND g4 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 2} AND b1 ∈ {0, 1} AND g1 ∈ {2} AND g2 ∈ {1} AND g3 ∈ {2} AND g5 ∈ {1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 2} AND b1 ∈ {1} AND c1 ∈ {2} AND g1 ∈ {2} AND g2 ∈ {1} AND g3 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {1} AND a3 ∈ {0} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND c2 ∈ {1, 2} AND e1 ∈ {0, 2} AND g1 ∈ {2} AND g2 ∈ {2} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {1} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND c2 ∈ {0} AND d1 ∈ {0, 2} AND e1 ∈ {0, 2} AND g1 ∈ {2} AND g2 ∈ {2} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {1} AND a3 ∈ {2} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND c2 ∈ {0, 2} AND g1 ∈ {2} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {1} AND a3 ∈ {2} AND a4 ∈ {0, 1} AND b1 ∈ {0, 1} AND c1 ∈ {2} AND g1 ∈ {2} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {1} AND a3 ∈ {0, 1} AND b1 ∈ {1} AND c1 ∈ {2} AND c5 ∈ {0, 1} AND g1 ∈ {2} AND g2 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {0, 1} AND c1 ∈ {0, 1} AND d4 ∈ {0, 2} AND g1 ∈ {2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {0, 1} AND c1 ∈ {0, 1} AND d3 ∈ {2} AND g1 ∈ {2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {0, 1} AND c1 ∈ {0, 1} AND g1 ∈ {2} AND g3 ∈ {1, 2} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {1} AND c3 ∈ {0, 2} AND d3 ∈ {0, 2} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {1} AND b2 ∈ {0, 2} AND c2 ∈ {2} AND d3 ∈ {0, 2} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {0} AND d2 ∈ {2} AND d3 ∈ {0, 2} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {0} AND d3 ∈ {0, 2} AND e1 ∈ {0, 2} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND b1 ∈ {0} AND d1 ∈ {0, 1} AND d3 ∈ {0, 2} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {2} AND a3 ∈ {0, 2} AND b1 ∈ {0, 1} AND d1 ∈ {2} AND d3 ∈ {1} AND d4 ∈ {2} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a3 ∈ {0, 2} AND b1 ∈ {0, 1} AND d1 ∈ {2} AND d3 ∈ {1} AND d4 ∈ {0} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {2} AND b1 ∈ {0, 1} AND b2 ∈ {0} AND d1 ∈ {2} AND d3 ∈ {1} AND d4 ∈ {0, 2} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {2} AND a3 ∈ {0} AND b1 ∈ {1} AND d3 ∈ {1} AND d4 ∈ {0, 2} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {0, 1} AND d3 ∈ {0, 2} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {0, 1} AND d4 ∈ {2} AND d5 ∈ {0, 2} AND e2 ∈ {0, 1} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {0, 1} AND d1 ∈ {2} AND d5 ∈ {1} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {0, 1} AND d1 ∈ {2} AND d4 ∈ {1} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {0, 1} AND d4 ∈ {0} AND g1 ∈ {0, 1} THEN target == 2
+IF a1 ∈ {1} AND a2 ∈ {0, 1} AND b1 ∈ {0, 1} AND c1 ∈ {0} AND g1 ∈ {0, 1} THEN target == 2

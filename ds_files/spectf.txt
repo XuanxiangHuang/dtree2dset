@@ -1,0 +1,15 @@
+IF F2S ∈ (65.0, inf] AND F7S ∈ (69.0, inf] AND F13S ∈ (57.0, inf] AND F17S ∈ (-inf, 56.0] AND F20S ∈ (63.0, 71.0] THEN target == 0
+IF F1S ∈ (74.0, inf] AND F2S ∈ (65.0, inf] AND F7S ∈ (69.0, inf] AND F13S ∈ (57.0, inf] AND F17S ∈ (-inf, 64.0] AND F20S ∈ (63.0, 71.0] THEN target == 0
+IF F2S ∈ (65.0, 77.0] AND F5R ∈ (60.0, inf] AND F8S ∈ (-inf, 72.0] AND F13S ∈ (57.0, inf] AND F17S ∈ (-inf, 64.0] AND F20S ∈ (71.0, inf] THEN target == 0
+IF F2S ∈ (65.0, inf] AND F5R ∈ (60.0, inf] AND F8S ∈ (-inf, 72.0] AND F11R ∈ (78.0, inf] AND F13S ∈ (57.0, inf] AND F17S ∈ (-inf, 64.0] AND F20S ∈ (71.0, inf] THEN target == 0
+IF F2S ∈ (65.0, inf] AND F3R ∈ (-inf, 77.0] AND F13S ∈ (57.0, inf] AND F17S ∈ (64.0, inf] AND F20S ∈ (63.0, inf] AND F21S ∈ (61.0, inf] THEN target == 0
+IF F13S ∈ (-inf, 57.0] THEN target == 1
+IF F20S ∈ (-inf, 63.0] THEN target == 1
+IF F2S ∈ (-inf, 65.0] THEN target == 1
+IF F7S ∈ (-inf, 69.0] AND F17S ∈ (-inf, 64.0] AND F20S ∈ (63.0, 71.0] THEN target == 1
+IF F1S ∈ (-inf, 74.0] AND F17S ∈ (56.0, 64.0] AND F20S ∈ (63.0, 71.0] THEN target == 1
+IF F5R ∈ (-inf, 60.0] AND F17S ∈ (-inf, 64.0] AND F20S ∈ (71.0, inf] THEN target == 1
+IF F2S ∈ (77.0, inf] AND F11R ∈ (-inf, 78.0] AND F17S ∈ (-inf, 64.0] AND F20S ∈ (71.0, inf] THEN target == 1
+IF F8S ∈ (72.0, inf] AND F17S ∈ (-inf, 64.0] AND F20S ∈ (71.0, inf] THEN target == 1
+IF F17S ∈ (64.0, inf] AND F21S ∈ (-inf, 61.0] THEN target == 1
+IF F3R ∈ (77.0, inf] AND F17S ∈ (64.0, inf] THEN target == 1

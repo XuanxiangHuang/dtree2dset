@@ -1,0 +1,34 @@
+IF F1 ∈ {0} AND F11 ∈ {0} AND F13 ∈ {0} AND F16 ∈ {0} AND F17 ∈ {0} AND F20 ∈ {0} AND F21 ∈ {0} AND F22 ∈ {0} THEN target == 0
+IF F1 ∈ {0} AND F2 ∈ {1} AND F11 ∈ {0} AND F13 ∈ {0} AND F16 ∈ {0} AND F17 ∈ {0} AND F20 ∈ {0} AND F22 ∈ {0} THEN target == 0
+IF F1 ∈ {0} AND F3 ∈ {0} AND F11 ∈ {0} AND F13 ∈ {0} AND F16 ∈ {0} AND F17 ∈ {0} AND F20 ∈ {1} AND F22 ∈ {0} THEN target == 0
+IF F1 ∈ {0} AND F4 ∈ {1} AND F11 ∈ {0} AND F13 ∈ {0} AND F16 ∈ {0} AND F17 ∈ {0} AND F20 ∈ {1} AND F22 ∈ {0} THEN target == 0
+IF F1 ∈ {1} AND F2 ∈ {0} AND F11 ∈ {0} AND F13 ∈ {0} AND F14 ∈ {0} AND F16 ∈ {0} AND F20 ∈ {0} AND F22 ∈ {0} THEN target == 0
+IF F1 ∈ {1} AND F6 ∈ {1} AND F11 ∈ {0} AND F13 ∈ {0} AND F16 ∈ {0} AND F22 ∈ {0} THEN target == 0
+IF F1 ∈ {1} AND F6 ∈ {0} AND F7 ∈ {0} AND F11 ∈ {0} AND F13 ∈ {0} AND F16 ∈ {0} AND F22 ∈ {1} THEN target == 0
+IF F2 ∈ {0} AND F10 ∈ {0} AND F11 ∈ {1} AND F13 ∈ {0} AND F16 ∈ {0} AND F19 ∈ {0} THEN target == 0
+IF F1 ∈ {1} AND F12 ∈ {1} AND F13 ∈ {0} AND F16 ∈ {1} AND F20 ∈ {0} THEN target == 0
+IF F1 ∈ {1} AND F3 ∈ {1} AND F13 ∈ {0} AND F16 ∈ {1} AND F20 ∈ {0} THEN target == 0
+IF F8 ∈ {0} AND F10 ∈ {0} AND F13 ∈ {1} AND F16 ∈ {0} AND F17 ∈ {0} AND F22 ∈ {0} THEN target == 0
+IF F3 ∈ {1} AND F4 ∈ {1} AND F10 ∈ {0} AND F13 ∈ {1} AND F16 ∈ {0} AND F17 ∈ {0} AND F22 ∈ {0} THEN target == 0
+IF F5 ∈ {1} AND F10 ∈ {0} AND F13 ∈ {1} AND F17 ∈ {0} AND F22 ∈ {0} THEN target == 0
+IF F1 ∈ {0} AND F2 ∈ {0} AND F11 ∈ {0} AND F13 ∈ {0} AND F20 ∈ {0} AND F21 ∈ {1} THEN target == 1
+IF F1 ∈ {0} AND F3 ∈ {1} AND F4 ∈ {0} AND F11 ∈ {0} AND F13 ∈ {0} AND F20 ∈ {1} THEN target == 1
+IF F1 ∈ {0} AND F11 ∈ {0} AND F17 ∈ {1} THEN target == 1
+IF F1 ∈ {1} AND F6 ∈ {0} AND F11 ∈ {0} AND F13 ∈ {0} AND F20 ∈ {1} AND F22 ∈ {0} THEN target == 1
+IF F1 ∈ {1} AND F2 ∈ {1} AND F6 ∈ {0} AND F13 ∈ {0} AND F16 ∈ {0} AND F22 ∈ {0} THEN target == 1
+IF F1 ∈ {1} AND F6 ∈ {0} AND F11 ∈ {0} AND F13 ∈ {0} AND F14 ∈ {1} AND F16 ∈ {0} AND F22 ∈ {0} THEN target == 1
+IF F1 ∈ {0} AND F11 ∈ {0} AND F22 ∈ {1} THEN target == 1
+IF F6 ∈ {1} AND F11 ∈ {0} AND F16 ∈ {0} AND F22 ∈ {1} THEN target == 1
+IF F7 ∈ {1} AND F11 ∈ {0} AND F16 ∈ {0} AND F22 ∈ {1} THEN target == 1
+IF F2 ∈ {1} AND F11 ∈ {1} AND F13 ∈ {0} AND F16 ∈ {0} THEN target == 1
+IF F11 ∈ {1} AND F13 ∈ {0} AND F16 ∈ {0} AND F19 ∈ {1} THEN target == 1
+IF F10 ∈ {1} AND F11 ∈ {1} AND F16 ∈ {0} THEN target == 1
+IF F1 ∈ {0} AND F13 ∈ {0} AND F16 ∈ {1} THEN target == 1
+IF F3 ∈ {0} AND F12 ∈ {0} AND F13 ∈ {0} AND F16 ∈ {1} THEN target == 1
+IF F13 ∈ {0} AND F16 ∈ {1} AND F20 ∈ {1} THEN target == 1
+IF F4 ∈ {0} AND F5 ∈ {0} AND F8 ∈ {1} AND F13 ∈ {1} THEN target == 1
+IF F3 ∈ {0} AND F5 ∈ {0} AND F8 ∈ {1} AND F13 ∈ {1} THEN target == 1
+IF F5 ∈ {0} AND F13 ∈ {1} AND F16 ∈ {1} THEN target == 1
+IF F13 ∈ {1} AND F17 ∈ {1} THEN target == 1
+IF F13 ∈ {1} AND F22 ∈ {1} THEN target == 1
+IF F10 ∈ {1} AND F13 ∈ {1} THEN target == 1

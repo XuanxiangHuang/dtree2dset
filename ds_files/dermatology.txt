@@ -1,0 +1,9 @@
+IF thinning_of_the_suprapapillary_epidermis ∈ {1.0, 2.0, 3.0} THEN target == 0
+IF koebner_phenomenon ∈ {0.0} AND follicular_papules ∈ {0.0} AND knee_and_elbow_involvement ∈ {1.0, 2.0, 3.0} AND fibrosis_of_the_papillary_dermis ∈ {0.0} AND disappearance_of_the_granular_layer ∈ {1.0, 2.0, 3.0} AND band-like_infiltrate ∈ {0.0, 1.0} THEN target == 0
+IF koebner_phenomenon ∈ {0.0} AND follicular_papules ∈ {1.0, 2.0, 3.0} AND eosinophils_in_the_infiltrate ∈ {1.0, 2.0} AND fibrosis_of_the_papillary_dermis ∈ {0.0} AND thinning_of_the_suprapapillary_epidermis ∈ {0.0} AND band-like_infiltrate ∈ {0.0, 1.0} THEN target == 1
+IF koebner_phenomenon ∈ {0.0} AND follicular_papules ∈ {0.0} AND fibrosis_of_the_papillary_dermis ∈ {0.0} AND thinning_of_the_suprapapillary_epidermis ∈ {0.0} AND disappearance_of_the_granular_layer ∈ {0.0} AND band-like_infiltrate ∈ {0.0, 1.0} THEN target == 1
+IF thinning_of_the_suprapapillary_epidermis ∈ {0.0} AND band-like_infiltrate ∈ {2.0, 3.0} THEN target == 2
+IF koebner_phenomenon ∈ {1.0, 2.0, 3.0} AND fibrosis_of_the_papillary_dermis ∈ {0.0} AND thinning_of_the_suprapapillary_epidermis ∈ {0.0} AND band-like_infiltrate ∈ {0.0, 1.0} THEN target == 3
+IF follicular_papules ∈ {0.0} AND knee_and_elbow_involvement ∈ {0.0} AND fibrosis_of_the_papillary_dermis ∈ {0.0} AND thinning_of_the_suprapapillary_epidermis ∈ {0.0} AND disappearance_of_the_granular_layer ∈ {1.0, 2.0, 3.0} AND band-like_infiltrate ∈ {0.0, 1.0} THEN target == 3
+IF fibrosis_of_the_papillary_dermis ∈ {1.0, 2.0, 3.0} AND thinning_of_the_suprapapillary_epidermis ∈ {0.0} AND band-like_infiltrate ∈ {0.0, 1.0} THEN target == 4
+IF koebner_phenomenon ∈ {0.0} AND follicular_papules ∈ {1.0, 2.0, 3.0} AND eosinophils_in_the_infiltrate ∈ {0.0} AND fibrosis_of_the_papillary_dermis ∈ {0.0} AND thinning_of_the_suprapapillary_epidermis ∈ {0.0} AND band-like_infiltrate ∈ {0.0, 1.0} THEN target == 5

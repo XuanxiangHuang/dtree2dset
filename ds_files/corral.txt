@@ -1,0 +1,6 @@
+IF A0 ∈ {0} AND B0 ∈ {0} THEN target == 0
+IF A1 ∈ {0} AND B0 ∈ {0} THEN target == 0
+IF A1 ∈ {0} AND B1 ∈ {0} THEN target == 0
+IF A0 ∈ {0} AND B1 ∈ {0} THEN target == 0
+IF A0 ∈ {1} AND A1 ∈ {1} THEN target == 1
+IF B0 ∈ {1} AND B1 ∈ {1} THEN target == 1

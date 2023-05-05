@@ -1,0 +1,11 @@
+IF A17 ∈ (0.006, inf] AND A18 ∈ (-inf, 0.011] AND A21 ∈ (-inf, 0.064] THEN target == 0
+IF A1 ∈ (-inf, 0.15] AND A17 ∈ (0.006, inf] AND A18 ∈ (0.011, 0.026] AND A21 ∈ (-inf, 0.064] THEN target == 0
+IF A1 ∈ (0.65, 0.79] AND A9 ∈ {0} AND A17 ∈ (0.006, inf] AND A18 ∈ (0.011, 0.026] AND A21 ∈ (-inf, 0.064] THEN target == 0
+IF A3 ∈ {0} AND A8 ∈ {0} AND A17 ∈ (0.006, inf] AND A19 ∈ (-inf, 0.15] AND A21 ∈ (0.064, inf] THEN target == 1
+IF A17 ∈ (-inf, 0.006] THEN target == 2
+IF A1 ∈ (0.15, 0.27] AND A18 ∈ (0.011, 0.026] AND A21 ∈ (-inf, 0.064] THEN target == 2
+IF A1 ∈ (0.65, inf] AND A9 ∈ {1} AND A18 ∈ (0.011, 0.026] AND A21 ∈ (-inf, 0.064] THEN target == 2
+IF A18 ∈ (0.026, inf] AND A21 ∈ (-inf, 0.064] THEN target == 2
+IF A8 ∈ {1} AND A21 ∈ (0.064, inf] THEN target == 2
+IF A19 ∈ (0.15, inf] AND A21 ∈ (0.064, inf] THEN target == 2
+IF A3 ∈ {1} AND A21 ∈ (0.064, inf] THEN target == 2

@@ -1,0 +1,48 @@
+IF t1 ∈ {1} AND t3 ∈ {2} AND t5 ∈ {0, 2} AND t6 ∈ {1} AND t7 ∈ {1} AND t9 ∈ {0, 2} THEN target == 0
+IF t1 ∈ {1} AND t3 ∈ {0, 2} AND t4 ∈ {1} AND t5 ∈ {0, 2} AND t7 ∈ {1} AND t9 ∈ {0, 2} THEN target == 0
+IF t1 ∈ {2} AND t2 ∈ {0, 1} AND t3 ∈ {2} AND t5 ∈ {0, 2} AND t7 ∈ {1} AND t9 ∈ {1} THEN target == 0
+IF t2 ∈ {0, 1} AND t3 ∈ {2} AND t4 ∈ {0, 1} AND t5 ∈ {0, 2} AND t7 ∈ {1} AND t9 ∈ {1} THEN target == 0
+IF t3 ∈ {0, 2} AND t5 ∈ {0, 2} AND t7 ∈ {1} AND t8 ∈ {1} AND t9 ∈ {1} THEN target == 0
+IF t1 ∈ {2} AND t2 ∈ {1, 2} AND t3 ∈ {1} AND t5 ∈ {0, 2} AND t6 ∈ {2} AND t8 ∈ {1, 2} AND t9 ∈ {1} THEN target == 0
+IF t1 ∈ {0, 2} AND t3 ∈ {1} AND t5 ∈ {0, 2} AND t6 ∈ {1} AND t9 ∈ {1} THEN target == 0
+IF t1 ∈ {1} AND t3 ∈ {1} AND t4 ∈ {1} AND t5 ∈ {0, 2} AND t6 ∈ {1, 2} AND t7 ∈ {1, 2} AND t9 ∈ {1, 2} THEN target == 0
+IF t1 ∈ {1} AND t2 ∈ {1} AND t3 ∈ {1} AND t5 ∈ {0, 2} THEN target == 0
+IF t1 ∈ {0, 1} AND t2 ∈ {1, 2} AND t3 ∈ {1} AND t4 ∈ {0, 2} AND t5 ∈ {1} AND t6 ∈ {2} AND t8 ∈ {0, 2} THEN target == 0
+IF t4 ∈ {1} AND t5 ∈ {1} AND t6 ∈ {1} AND t7 ∈ {0, 2} AND t9 ∈ {0, 2} THEN target == 0
+IF t2 ∈ {1} AND t5 ∈ {1} AND t7 ∈ {0, 2} AND t8 ∈ {1} THEN target == 0
+IF t3 ∈ {1} AND t5 ∈ {1} AND t8 ∈ {2} AND t9 ∈ {1} THEN target == 0
+IF t4 ∈ {1} AND t5 ∈ {1} AND t7 ∈ {0, 2} AND t8 ∈ {2} AND t9 ∈ {1} THEN target == 0
+IF t2 ∈ {1} AND t5 ∈ {1} AND t7 ∈ {0, 2} AND t8 ∈ {0, 1} AND t9 ∈ {1} THEN target == 0
+IF t1 ∈ {0, 1} AND t5 ∈ {1} AND t7 ∈ {0, 2} AND t9 ∈ {1} THEN target == 0
+IF t1 ∈ {1} AND t2 ∈ {2} AND t4 ∈ {1, 2} AND t5 ∈ {1} AND t7 ∈ {1} AND t8 ∈ {0, 2} THEN target == 0
+IF t1 ∈ {1} AND t4 ∈ {0} AND t5 ∈ {1} AND t7 ∈ {1} AND t9 ∈ {0, 1} THEN target == 0
+IF t3 ∈ {0, 1} AND t5 ∈ {1} AND t7 ∈ {1} THEN target == 0
+IF t3 ∈ {0, 2} AND t5 ∈ {0, 2} AND t7 ∈ {0, 2} THEN target == 1
+IF t1 ∈ {0, 2} AND t5 ∈ {0, 2} AND t9 ∈ {0, 2} THEN target == 1
+IF t3 ∈ {0, 2} AND t4 ∈ {0, 2} AND t5 ∈ {0, 2} AND t6 ∈ {0, 2} AND t9 ∈ {0, 2} THEN target == 1
+IF t3 ∈ {0} AND t4 ∈ {0, 2} AND t5 ∈ {0, 2} AND t9 ∈ {0, 2} THEN target == 1
+IF t1 ∈ {0, 2} AND t2 ∈ {2} AND t3 ∈ {2} AND t7 ∈ {1} AND t8 ∈ {0, 2} THEN target == 1
+IF t2 ∈ {2} AND t3 ∈ {2} AND t4 ∈ {2} AND t5 ∈ {0, 2} AND t8 ∈ {0, 2} AND t9 ∈ {1} THEN target == 1
+IF t1 ∈ {0, 1} AND t3 ∈ {2} AND t4 ∈ {2} AND t5 ∈ {0, 2} AND t8 ∈ {0, 2} AND t9 ∈ {1} THEN target == 1
+IF t3 ∈ {0} AND t5 ∈ {0, 2} AND t8 ∈ {0, 2} AND t9 ∈ {1} THEN target == 1
+IF t1 ∈ {2} AND t3 ∈ {1} AND t5 ∈ {0, 2} AND t6 ∈ {0} THEN target == 1
+IF t1 ∈ {2} AND t2 ∈ {0} AND t3 ∈ {1} AND t5 ∈ {0, 2} AND t6 ∈ {0, 2} THEN target == 1
+IF t1 ∈ {2} AND t3 ∈ {1} AND t5 ∈ {0, 2} AND t6 ∈ {0, 2} AND t8 ∈ {0} THEN target == 1
+IF t1 ∈ {1} AND t2 ∈ {0, 2} AND t3 ∈ {1} AND t4 ∈ {2} AND t5 ∈ {0, 2} THEN target == 1
+IF t2 ∈ {0, 2} AND t3 ∈ {1} AND t5 ∈ {0, 2} AND t9 ∈ {0} THEN target == 1
+IF t2 ∈ {0, 2} AND t3 ∈ {1} AND t5 ∈ {0, 2} AND t6 ∈ {0} THEN target == 1
+IF t1 ∈ {1} AND t2 ∈ {0, 2} AND t5 ∈ {0, 2} AND t7 ∈ {0} THEN target == 1
+IF t3 ∈ {0, 2} AND t6 ∈ {2} AND t7 ∈ {0, 2} AND t8 ∈ {0, 2} AND t9 ∈ {0, 2} THEN target == 1
+IF t1 ∈ {2} AND t6 ∈ {2} AND t7 ∈ {0, 2} AND t8 ∈ {0, 2} AND t9 ∈ {0, 2} THEN target == 1
+IF t2 ∈ {0} AND t5 ∈ {1} AND t6 ∈ {2} AND t7 ∈ {0, 2} AND t9 ∈ {0, 2} THEN target == 1
+IF t4 ∈ {0, 2} AND t5 ∈ {1} AND t6 ∈ {0, 1} AND t7 ∈ {0, 2} AND t8 ∈ {0, 2} AND t9 ∈ {0, 2} THEN target == 1
+IF t2 ∈ {0, 2} AND t5 ∈ {1} AND t6 ∈ {0, 2} AND t7 ∈ {0, 2} AND t8 ∈ {1} AND t9 ∈ {0, 2} THEN target == 1
+IF t2 ∈ {0, 2} AND t4 ∈ {0, 2} AND t7 ∈ {0, 2} AND t8 ∈ {1} AND t9 ∈ {0, 2} THEN target == 1
+IF t1 ∈ {2} AND t3 ∈ {0, 2} AND t4 ∈ {0, 2} AND t7 ∈ {0, 2} AND t8 ∈ {2} THEN target == 1
+IF t1 ∈ {2} AND t2 ∈ {0, 2} AND t5 ∈ {1} AND t7 ∈ {0, 2} AND t8 ∈ {0, 1} AND t9 ∈ {1} THEN target == 1
+IF t1 ∈ {2} AND t2 ∈ {2} AND t3 ∈ {2} AND t5 ∈ {1} AND t7 ∈ {1} THEN target == 1
+IF t2 ∈ {2} AND t3 ∈ {2} AND t4 ∈ {1, 2} AND t5 ∈ {1} AND t7 ∈ {1} AND t8 ∈ {1} THEN target == 1
+IF t2 ∈ {1} AND t3 ∈ {2} AND t4 ∈ {1} AND t5 ∈ {1} AND t7 ∈ {1} THEN target == 1
+IF t1 ∈ {0} AND t3 ∈ {2} AND t5 ∈ {1} AND t7 ∈ {1} THEN target == 1
+IF t1 ∈ {0, 2} AND t3 ∈ {2} AND t4 ∈ {0} AND t5 ∈ {1} AND t7 ∈ {1} THEN target == 1
+IF t3 ∈ {2} AND t4 ∈ {0} AND t5 ∈ {1} AND t7 ∈ {1} AND t9 ∈ {2} THEN target == 1

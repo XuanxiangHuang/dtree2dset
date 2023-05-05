@@ -1,0 +1,7 @@
+IF 25 ∈ (-inf, 873.2] AND 29 ∈ (-inf, 0.1342] THEN target == 0
+IF 15 ∈ (-inf, 21.2] AND 23 ∈ (-inf, 27.2] AND 25 ∈ (-inf, 873.2] THEN target == 0
+IF 6 ∈ (-inf, 0.08992] AND 23 ∈ (-inf, 27.2] AND 25 ∈ (-inf, 873.2] THEN target == 0
+IF 14 ∈ (2.41, inf] AND 23 ∈ (-inf, 27.2] AND 25 ∈ (-inf, 873.2] THEN target == 0
+IF 6 ∈ (0.08992, inf] AND 14 ∈ (-inf, 2.41] AND 15 ∈ (21.2, inf] AND 29 ∈ (0.1342, inf] THEN target == 1
+IF 23 ∈ (27.2, inf] AND 29 ∈ (0.1342, inf] THEN target == 1
+IF 25 ∈ (873.2, inf] THEN target == 1

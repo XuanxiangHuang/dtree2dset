@@ -1,0 +1,8 @@
+IF p-35 ∈ {3.0} AND p-34 ∈ {0.0, 1.0, 3.0} AND p-31 ∈ {1.0, 3.0} THEN target == 0
+IF p-48 ∈ {1.0} AND p-35 ∈ {3.0} AND p-34 ∈ {0.0, 1.0, 3.0} THEN target == 0
+IF p-44 ∈ {2.0, 3.0} AND p-35 ∈ {0.0, 1.0, 2.0} THEN target == 0
+IF p-35 ∈ {0.0, 1.0, 2.0} AND p-18 ∈ {0.0, 1.0} THEN target == 0
+IF p-36 ∈ {0.0, 1.0} AND p-35 ∈ {0.0, 1.0, 2.0} THEN target == 0
+IF p-48 ∈ {0.0, 2.0, 3.0} AND p-35 ∈ {3.0} AND p-31 ∈ {0.0, 2.0} THEN target == 1
+IF p-35 ∈ {3.0} AND p-34 ∈ {2.0} THEN target == 1
+IF p-44 ∈ {0.0, 1.0} AND p-36 ∈ {2.0, 3.0} AND p-35 ∈ {0.0, 1.0, 2.0} AND p-18 ∈ {2.0, 3.0} THEN target == 1

@@ -1,0 +1,43 @@
+IF workclass ∈ {0.0, 2.0, 4.0, 6.0, 7.0, 8.0} AND education-num ∈ (-inf, 8.0] AND relationship ∈ {0.0, 5.0} AND capital-loss ∈ (1740.0, 1977.0] AND hours-per-week ∈ (-inf, 40.0] THEN target == 0
+IF workclass ∈ {1.0, 3.0, 5.0} AND fnlwgt ∈ (76845.0, 90915.0] AND education-num ∈ (-inf, 8.0] AND occupation ∈ {0.0, 14.0, 5.0, 6.0, 8.0, 9.0} AND relationship ∈ {0.0, 5.0} THEN target == 0
+IF workclass ∈ {1.0, 3.0, 5.0} AND education ∈ (2.0, inf] AND education-num ∈ (-inf, 8.0] AND occupation ∈ {3.0, 7.0} AND relationship ∈ {0.0, 5.0} THEN target == 0
+IF workclass ∈ {1.0, 3.0, 5.0} AND education-num ∈ (-inf, 8.0] AND occupation ∈ {3.0, 7.0} AND relationship ∈ {0.0, 5.0} AND hours-per-week ∈ (48.0, inf] THEN target == 0
+IF education-num ∈ (8.0, 12.0] AND occupation ∈ {0.0, 14.0, 5.0, 6.0, 9.0} AND relationship ∈ {0.0, 5.0} AND capital-loss ∈ (1844.0, 1977.0] THEN target == 0
+IF age ∈ (23.0, inf] AND education-num ∈ (8.0, 12.0] AND relationship ∈ {0.0, 5.0} AND capital-loss ∈ (1844.0, 1977.0] THEN target == 0
+IF age ∈ (23.0, 26.0] AND workclass ∈ {0.0, 2.0} AND education-num ∈ (-inf, 12.0] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0} AND relationship ∈ {0.0, 5.0} AND capital-loss ∈ (-inf, 1740.0] THEN target == 0
+IF age ∈ (26.0, 33.0] AND fnlwgt ∈ (-inf, 26973.0] AND education-num ∈ (-inf, 12.0] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0} AND relationship ∈ {0.0, 5.0} AND capital-loss ∈ (-inf, 1740.0] THEN target == 0
+IF age ∈ (33.0, inf] AND education-num ∈ (-inf, 7.0] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0} AND relationship ∈ {0.0, 5.0} AND capital-gain ∈ (4064.0, 5013.0] AND capital-loss ∈ (-inf, 1740.0] THEN target == 0
+IF age ∈ (33.0, inf] AND education-num ∈ (9.0, 12.0] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0} AND relationship ∈ {0.0, 5.0} AND capital-loss ∈ (-inf, 1740.0] AND hours-per-week ∈ (33.0, inf] THEN target == 0
+IF occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0} AND relationship ∈ {0.0, 5.0} AND capital-loss ∈ (1740.0, 1977.0] THEN target == 0
+IF age ∈ (-inf, 59.0] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0} AND relationship ∈ {0.0, 5.0} AND capital-loss ∈ (2377.0, inf] THEN target == 0
+IF age ∈ (-inf, 37.0] AND workclass ∈ {0.0, 2.0, 3.0, 5.0} AND education-num ∈ (12.0, inf] AND occupation ∈ {14.0, 7.0, 8.0} AND relationship ∈ {0.0, 5.0} THEN target == 0
+IF workclass ∈ {0.0, 2.0, 3.0, 5.0} AND education-num ∈ (12.0, inf] AND occupation ∈ {5.0, 6.0} AND relationship ∈ {0.0, 5.0} THEN target == 0
+IF education-num ∈ (15.0, inf] AND occupation ∈ {0.0, 3.0} AND relationship ∈ {0.0, 5.0} AND hours-per-week ∈ (-inf, 40.0] THEN target == 0
+IF workclass ∈ {0.0, 1.0, 2.0, 4.0, 6.0, 7.0, 8.0} AND education ∈ (-inf, 12.0] AND education-num ∈ (12.0, inf] AND occupation ∈ {0.0, 3.0} AND relationship ∈ {0.0, 5.0} AND hours-per-week ∈ (40.0, inf] THEN target == 0
+IF age ∈ (-inf, 24.0] AND education-num ∈ (12.0, inf] AND marital-status ∈ {0.0, 1.0} AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0, 9.0} AND relationship ∈ {0.0, 5.0} THEN target == 0
+IF age ∈ (-inf, 24.0] AND education ∈ (9.0, inf] AND education-num ∈ (12.0, inf] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0, 9.0} AND relationship ∈ {0.0, 5.0} THEN target == 0
+IF age ∈ (28.0, inf] AND education-num ∈ (12.0, inf] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0, 9.0} AND relationship ∈ {5.0} AND capital-gain ∈ (-inf, 3103.0] AND hours-per-week ∈ (-inf, 30.0] THEN target == 0
+IF age ∈ (28.0, inf] AND education-num ∈ (12.0, inf] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0, 9.0} AND relationship ∈ {0.0, 5.0} AND capital-gain ∈ (-inf, 3103.0] AND capital-loss ∈ (-inf, 1485.0] AND hours-per-week ∈ (30.0, inf] THEN target == 0
+IF age ∈ (28.0, inf] AND education-num ∈ (12.0, inf] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0, 9.0} AND relationship ∈ {0.0, 5.0} AND capital-gain ∈ (4064.0, 4386.0] THEN target == 0
+IF education-num ∈ (12.0, inf] AND relationship ∈ {0.0, 5.0} AND capital-loss ∈ (1740.0, inf] THEN target == 0
+IF relationship ∈ {0.0, 5.0} AND capital-gain ∈ (5013.0, inf] THEN target == 0
+IF capital-gain ∈ (6849.0, inf] THEN target == 0
+IF workclass ∈ {0.0, 2.0, 4.0, 6.0, 7.0, 8.0} AND education-num ∈ (-inf, 8.0] AND occupation ∈ {0.0, 14.0, 3.0, 5.0, 6.0, 7.0, 8.0, 9.0} AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (-inf, 1740.0] THEN target == 1
+IF workclass ∈ {0.0, 2.0, 4.0, 6.0, 7.0, 8.0} AND education-num ∈ (-inf, 8.0] AND occupation ∈ {0.0, 14.0, 3.0, 5.0, 6.0, 7.0, 9.0} AND capital-gain ∈ (-inf, 5013.0] AND hours-per-week ∈ (40.0, inf] THEN target == 1
+IF workclass ∈ {1.0, 3.0, 5.0} AND fnlwgt ∈ (-inf, 76845.0] AND education-num ∈ (-inf, 8.0] AND occupation ∈ {0.0, 14.0, 5.0, 6.0, 8.0, 9.0} AND capital-gain ∈ (-inf, 5013.0] THEN target == 1
+IF workclass ∈ {1.0, 3.0, 5.0} AND education ∈ (-inf, 2.0] AND education-num ∈ (-inf, 8.0] AND occupation ∈ {3.0, 7.0} AND capital-gain ∈ (-inf, 5013.0] AND hours-per-week ∈ (-inf, 48.0] THEN target == 1
+IF education-num ∈ (8.0, 12.0] AND occupation ∈ {14.0, 3.0} AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (-inf, 1844.0] THEN target == 1
+IF age ∈ (-inf, 23.0] AND education-num ∈ (8.0, 12.0] AND occupation ∈ {3.0, 7.0, 8.0} AND capital-gain ∈ (-inf, 5013.0] THEN target == 1
+IF education-num ∈ (8.0, 12.0] AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (1977.0, 2149.0] THEN target == 1
+IF age ∈ (-inf, 23.0] AND education-num ∈ (-inf, 12.0] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0} AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (-inf, 1740.0] THEN target == 1
+IF age ∈ (23.0, 26.0] AND workclass ∈ {1.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0} AND education-num ∈ (-inf, 12.0] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0} AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (-inf, 1740.0] THEN target == 1
+IF age ∈ (26.0, 33.0] AND fnlwgt ∈ (26973.0, inf] AND education-num ∈ (-inf, 12.0] AND occupation ∈ {10.0, 13.0, 2.0, 4.0} AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (-inf, 1740.0] THEN target == 1
+IF age ∈ (33.0, 59.0] AND education-num ∈ (7.0, 12.0] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0} AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (-inf, 1740.0] AND hours-per-week ∈ (-inf, 33.0] THEN target == 1
+IF workclass ∈ {1.0, 4.0, 6.0, 7.0, 8.0} AND fnlwgt ∈ (34007.0, 326292.0] AND education-num ∈ (12.0, inf] AND occupation ∈ {14.0, 5.0, 6.0, 7.0, 8.0} AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (-inf, 1740.0] THEN target == 1
+IF education-num ∈ (12.0, 15.0] AND occupation ∈ {0.0, 3.0} AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (-inf, 1740.0] AND hours-per-week ∈ (-inf, 30.0] THEN target == 1
+IF workclass ∈ {3.0, 5.0} AND education-num ∈ (12.0, inf] AND occupation ∈ {0.0, 3.0} AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (-inf, 1740.0] AND hours-per-week ∈ (40.0, inf] THEN target == 1
+IF education ∈ (12.0, inf] AND education-num ∈ (12.0, inf] AND occupation ∈ {0.0, 3.0} AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (-inf, 1740.0] AND hours-per-week ∈ (40.0, inf] THEN target == 1
+IF age ∈ (-inf, 24.0] AND education ∈ (-inf, 9.0] AND education-num ∈ (12.0, inf] AND marital-status ∈ {2.0, 3.0, 4.0, 5.0, 6.0} AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0, 9.0} AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (-inf, 1740.0] THEN target == 1
+IF age ∈ (24.0, 28.0] AND education-num ∈ (12.0, inf] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0, 9.0} AND relationship ∈ {0.0} AND capital-gain ∈ (-inf, 5013.0] AND capital-loss ∈ (-inf, 1740.0] THEN target == 1
+IF age ∈ (28.0, inf] AND education-num ∈ (12.0, inf] AND occupation ∈ {1.0, 10.0, 11.0, 12.0, 13.0, 2.0, 4.0, 9.0} AND relationship ∈ {0.0} AND capital-gain ∈ (-inf, 3103.0] AND capital-loss ∈ (-inf, 1740.0] AND hours-per-week ∈ (-inf, 30.0] THEN target == 1
+IF relationship ∈ {1.0, 2.0, 3.0, 4.0} AND capital-gain ∈ (-inf, 6849.0] THEN target == 1

@@ -1,0 +1,73 @@
+IF A25 ∈ {0} AND A89 ∈ {0} AND A92 ∈ {1} AND A96 ∈ {1} AND A99 ∈ {0} AND A104 ∈ {1} AND A130 ∈ {1} THEN target == 0
+IF A26 ∈ {1} AND A89 ∈ {0} AND A92 ∈ {1} AND A96 ∈ {1} AND A99 ∈ {0} AND A104 ∈ {1} THEN target == 0
+IF A89 ∈ {0} AND A92 ∈ {1} AND A93 ∈ {0} AND A95 ∈ {0} AND A99 ∈ {1} AND A104 ∈ {1} THEN target == 0
+IF A26 ∈ {0} AND A42 ∈ {1} AND A73 ∈ {1} AND A84 ∈ {0} AND A89 ∈ {1} AND A92 ∈ {1} AND A96 ∈ {0} AND A104 ∈ {0} THEN target == 0
+IF A0 ∈ {0} AND A26 ∈ {1} AND A42 ∈ {1} AND A84 ∈ {0} AND A89 ∈ {1} AND A92 ∈ {1} AND A96 ∈ {0} AND A104 ∈ {0} THEN target == 0
+IF A0 ∈ {1} AND A5 ∈ {1} AND A63 ∈ {0} AND A84 ∈ {0} AND A89 ∈ {1} AND A92 ∈ {1} AND A96 ∈ {1} AND A99 ∈ {0} AND A104 ∈ {0} THEN target == 0
+IF A15 ∈ {0} AND A63 ∈ {0} AND A84 ∈ {0} AND A89 ∈ {1} AND A92 ∈ {1} AND A96 ∈ {1} AND A99 ∈ {1} AND A104 ∈ {0} THEN target == 0
+IF A11 ∈ {0} AND A63 ∈ {1} AND A84 ∈ {0} AND A89 ∈ {1} AND A92 ∈ {1} AND A96 ∈ {1} AND A104 ∈ {0} THEN target == 0
+IF A84 ∈ {0} AND A89 ∈ {1} AND A92 ∈ {1} AND A97 ∈ {0} AND A104 ∈ {1} THEN target == 0
+IF A12 ∈ {1} AND A84 ∈ {0} AND A89 ∈ {1} AND A92 ∈ {1} AND A104 ∈ {1} THEN target == 0
+IF A60 ∈ {1} AND A62 ∈ {0} AND A81 ∈ {0} AND A83 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A104 ∈ {0} AND A130 ∈ {1} THEN target == 0
+IF A54 ∈ {1} AND A57 ∈ {0} AND A62 ∈ {1} AND A81 ∈ {0} AND A83 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A104 ∈ {0} THEN target == 0
+IF A25 ∈ {0} AND A57 ∈ {1} AND A62 ∈ {1} AND A81 ∈ {0} AND A83 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A104 ∈ {0} THEN target == 0
+IF A2 ∈ {0} AND A6 ∈ {1} AND A81 ∈ {0} AND A83 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A104 ∈ {0} THEN target == 0
+IF A81 ∈ {0} AND A83 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A96 ∈ {1} AND A104 ∈ {0} THEN target == 0
+IF A1 ∈ {0} AND A15 ∈ {0} AND A81 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A94 ∈ {0} AND A99 ∈ {0} AND A104 ∈ {0} THEN target == 0
+IF A7 ∈ {1} AND A81 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A94 ∈ {0} AND A96 ∈ {0} AND A99 ∈ {1} AND A104 ∈ {0} THEN target == 0
+IF A81 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A93 ∈ {0} AND A94 ∈ {0} AND A96 ∈ {1} AND A99 ∈ {1} AND A104 ∈ {0} THEN target == 0
+IF A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A93 ∈ {0} AND A94 ∈ {0} AND A95 ∈ {0} AND A104 ∈ {1} THEN target == 0
+IF A2 ∈ {0} AND A23 ∈ {1} AND A66 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A94 ∈ {1} AND A95 ∈ {0} AND A104 ∈ {1} THEN target == 0
+IF A8 ∈ {1} AND A66 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A94 ∈ {1} AND A95 ∈ {0} AND A104 ∈ {1} THEN target == 0
+IF A60 ∈ {0} AND A81 ∈ {0} AND A82 ∈ {0} AND A83 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {0} THEN target == 1
+IF A81 ∈ {0} AND A82 ∈ {0} AND A83 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {0} AND A118 ∈ {0} THEN target == 1
+IF A17 ∈ {0} AND A58 ∈ {1} AND A81 ∈ {1} AND A82 ∈ {0} AND A83 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {0} THEN target == 1
+IF A55 ∈ {1} AND A58 ∈ {1} AND A81 ∈ {1} AND A82 ∈ {0} AND A83 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {0} THEN target == 1
+IF A12 ∈ {0} AND A18 ∈ {0} AND A43 ∈ {1} AND A82 ∈ {0} AND A83 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {0} THEN target == 1
+IF A74 ∈ {0} AND A82 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {0} THEN target == 1
+IF A6 ∈ {0} AND A10 ∈ {0} AND A52 ∈ {1} AND A82 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {0} THEN target == 1
+IF A10 ∈ {1} AND A33 ∈ {0} AND A82 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {0} THEN target == 1
+IF A60 ∈ {0} AND A62 ∈ {0} AND A81 ∈ {0} AND A83 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A104 ∈ {0} THEN target == 1
+IF A62 ∈ {0} AND A81 ∈ {0} AND A83 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A104 ∈ {0} AND A130 ∈ {0} THEN target == 1
+IF A54 ∈ {0} AND A57 ∈ {0} AND A62 ∈ {1} AND A81 ∈ {0} AND A83 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A104 ∈ {0} THEN target == 1
+IF A7 ∈ {0} AND A81 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A94 ∈ {0} AND A96 ∈ {0} AND A99 ∈ {1} AND A104 ∈ {0} THEN target == 1
+IF A10 ∈ {0} AND A81 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A94 ∈ {1} AND A104 ∈ {0} THEN target == 1
+IF A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A93 ∈ {1} AND A94 ∈ {0} AND A95 ∈ {0} AND A104 ∈ {1} THEN target == 1
+IF A23 ∈ {0} AND A66 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A94 ∈ {1} AND A95 ∈ {0} AND A104 ∈ {1} THEN target == 1
+IF A2 ∈ {1} AND A66 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A94 ∈ {1} AND A95 ∈ {0} AND A104 ∈ {1} THEN target == 1
+IF A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A95 ∈ {1} AND A104 ∈ {1} AND A119 ∈ {0} THEN target == 1
+IF A1 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A95 ∈ {1} AND A104 ∈ {1} THEN target == 1
+IF A89 ∈ {0} AND A104 ∈ {0} THEN target == 2
+IF A89 ∈ {0} AND A92 ∈ {0} THEN target == 2
+IF A89 ∈ {0} AND A96 ∈ {0} AND A99 ∈ {0} THEN target == 2
+IF A26 ∈ {0} AND A89 ∈ {0} AND A99 ∈ {0} AND A130 ∈ {0} THEN target == 2
+IF A25 ∈ {1} AND A26 ∈ {0} AND A89 ∈ {0} AND A99 ∈ {0} THEN target == 2
+IF A89 ∈ {0} AND A95 ∈ {1} AND A99 ∈ {1} THEN target == 2
+IF A89 ∈ {0} AND A93 ∈ {1} AND A99 ∈ {1} THEN target == 2
+IF A84 ∈ {0} AND A92 ∈ {0} THEN target == 2
+IF A42 ∈ {0} AND A84 ∈ {0} AND A96 ∈ {0} AND A104 ∈ {0} THEN target == 2
+IF A26 ∈ {0} AND A73 ∈ {0} AND A84 ∈ {0} AND A96 ∈ {0} AND A104 ∈ {0} THEN target == 2
+IF A0 ∈ {1} AND A26 ∈ {1} AND A84 ∈ {0} AND A96 ∈ {0} AND A104 ∈ {0} THEN target == 2
+IF A5 ∈ {0} AND A63 ∈ {0} AND A84 ∈ {0} AND A96 ∈ {1} AND A99 ∈ {0} AND A104 ∈ {0} THEN target == 2
+IF A0 ∈ {0} AND A63 ∈ {0} AND A84 ∈ {0} AND A96 ∈ {1} AND A99 ∈ {0} AND A104 ∈ {0} THEN target == 2
+IF A15 ∈ {1} AND A63 ∈ {0} AND A84 ∈ {0} AND A96 ∈ {1} AND A99 ∈ {1} AND A104 ∈ {0} THEN target == 2
+IF A11 ∈ {1} AND A63 ∈ {1} AND A84 ∈ {0} AND A96 ∈ {1} AND A104 ∈ {0} THEN target == 2
+IF A12 ∈ {0} AND A84 ∈ {0} AND A89 ∈ {1} AND A97 ∈ {1} AND A104 ∈ {1} THEN target == 2
+IF A60 ∈ {1} AND A81 ∈ {0} AND A82 ∈ {0} AND A83 ∈ {0} AND A92 ∈ {0} AND A118 ∈ {1} THEN target == 2
+IF A58 ∈ {0} AND A81 ∈ {1} AND A82 ∈ {0} AND A83 ∈ {0} AND A92 ∈ {0} THEN target == 2
+IF A17 ∈ {1} AND A55 ∈ {0} AND A81 ∈ {1} AND A82 ∈ {0} AND A83 ∈ {0} AND A92 ∈ {0} THEN target == 2
+IF A43 ∈ {0} AND A82 ∈ {0} AND A83 ∈ {1} AND A92 ∈ {0} THEN target == 2
+IF A18 ∈ {1} AND A82 ∈ {0} AND A83 ∈ {1} AND A92 ∈ {0} THEN target == 2
+IF A12 ∈ {1} AND A82 ∈ {0} AND A83 ∈ {1} AND A92 ∈ {0} THEN target == 2
+IF A10 ∈ {0} AND A52 ∈ {0} AND A74 ∈ {1} AND A82 ∈ {1} AND A92 ∈ {0} THEN target == 2
+IF A6 ∈ {1} AND A10 ∈ {0} AND A74 ∈ {1} AND A82 ∈ {1} AND A92 ∈ {0} THEN target == 2
+IF A10 ∈ {1} AND A33 ∈ {1} AND A74 ∈ {1} AND A82 ∈ {1} AND A92 ∈ {0} THEN target == 2
+IF A25 ∈ {1} AND A57 ∈ {1} AND A62 ∈ {1} AND A81 ∈ {0} AND A83 ∈ {0} AND A84 ∈ {1} AND A92 ∈ {1} AND A104 ∈ {0} THEN target == 2
+IF A6 ∈ {0} AND A81 ∈ {0} AND A83 ∈ {1} AND A84 ∈ {1} AND A92 ∈ {1} AND A96 ∈ {0} AND A104 ∈ {0} THEN target == 2
+IF A2 ∈ {1} AND A81 ∈ {0} AND A83 ∈ {1} AND A84 ∈ {1} AND A92 ∈ {1} AND A96 ∈ {0} AND A104 ∈ {0} THEN target == 2
+IF A1 ∈ {1} AND A81 ∈ {1} AND A84 ∈ {1} AND A92 ∈ {1} AND A94 ∈ {0} AND A99 ∈ {0} AND A104 ∈ {0} THEN target == 2
+IF A15 ∈ {1} AND A81 ∈ {1} AND A84 ∈ {1} AND A92 ∈ {1} AND A94 ∈ {0} AND A99 ∈ {0} AND A104 ∈ {0} THEN target == 2
+IF A81 ∈ {1} AND A84 ∈ {1} AND A92 ∈ {1} AND A93 ∈ {1} AND A94 ∈ {0} AND A96 ∈ {1} AND A99 ∈ {1} AND A104 ∈ {0} THEN target == 2
+IF A10 ∈ {1} AND A81 ∈ {1} AND A84 ∈ {1} AND A92 ∈ {1} AND A94 ∈ {1} AND A104 ∈ {0} THEN target == 2
+IF A8 ∈ {0} AND A66 ∈ {1} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A94 ∈ {1} AND A95 ∈ {0} AND A104 ∈ {1} THEN target == 2
+IF A1 ∈ {0} AND A84 ∈ {1} AND A89 ∈ {1} AND A92 ∈ {1} AND A95 ∈ {1} AND A104 ∈ {1} AND A119 ∈ {1} THEN target == 2
