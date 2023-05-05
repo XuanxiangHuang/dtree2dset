@@ -1,0 +1,246 @@
+################## adult ##################
+DT, Train accuracy: 86.6%
+DT, Test accuracy: 86.0%
+DT, Depth: 9
+DT, Number of nodes: 151
+################## analcatdata_authorship ##################
+DT, Train accuracy: 97.2%
+DT, Test accuracy: 95.3%
+DT, Depth: 5
+DT, Number of nodes: 25
+################## ann_thyroid ##################
+DT, Train accuracy: 99.7%
+DT, Test accuracy: 99.7%
+DT, Depth: 8
+DT, Number of nodes: 25
+################## breast_cancer_wisconsin ##################
+DT, Train accuracy: 98.0%
+DT, Test accuracy: 92.10000000000001%
+DT, Depth: 6
+DT, Number of nodes: 13
+################## calendarDOW ##################
+DT: train accuracy 0.875 < 0.7 or test accuracy 0.288 < 0.7
+################## car_evaluation ##################
+DT, Train accuracy: 97.6%
+DT, Test accuracy: 96.2%
+DT, Depth: 9
+DT, Number of nodes: 117
+################## chess ##################
+DT, Train accuracy: 98.9%
+DT, Test accuracy: 99.4%
+DT, Depth: 9
+DT, Number of nodes: 43
+################## churn ##################
+DT, Train accuracy: 96.0%
+DT, Test accuracy: 92.80000000000001%
+DT, Depth: 9
+DT, Number of nodes: 93
+################## clean1 ##################
+DT, Train accuracy: 100.0%
+DT, Test accuracy: 100.0%
+DT, Depth: 1
+DT, Number of nodes: 3
+################## clean2 ##################
+DT, Train accuracy: 100.0%
+DT, Test accuracy: 100.0%
+DT, Depth: 1
+DT, Number of nodes: 3
+################## coil2000 ##################
+DT, Train accuracy: 94.8%
+DT, Test accuracy: 93.89999999999999%
+DT, Depth: 9
+DT, Number of nodes: 117
+################## connect_4 ##################
+DT, Train accuracy: 73.0%
+DT, Test accuracy: 72.39999999999999%
+DT, Depth: 9
+DT, Number of nodes: 689
+################## corral ##################
+DT, Train accuracy: 100.0%
+DT, Test accuracy: 100.0%
+DT, Depth: 5
+DT, Number of nodes: 27
+################## dermatology ##################
+DT, Train accuracy: 98.3%
+DT, Test accuracy: 95.89999999999999%
+DT, Depth: 7
+DT, Number of nodes: 17
+################## dna ##################
+DT, Train accuracy: 97.1%
+DT, Test accuracy: 92.5%
+DT, Depth: 9
+DT, Number of nodes: 149
+################## hypothyroid ##################
+DT, Train accuracy: 95.1%
+DT, Test accuracy: 95.89999999999999%
+DT, Depth: 0
+DT, Number of nodes: 1
+################## ionosphere ##################
+DT, Train accuracy: 98.2%
+DT, Test accuracy: 93.0%
+DT, Depth: 7
+DT, Number of nodes: 29
+################## kr_vs_kp ##################
+DT, Train accuracy: 99.3%
+DT, Test accuracy: 98.9%
+DT, Depth: 9
+DT, Number of nodes: 39
+################## letter ##################
+DT, Train accuracy: 76.6%
+DT, Test accuracy: 73.9%
+DT, Depth: 9
+DT, Number of nodes: 499
+################## mfeat_factors ##################
+DT, Train accuracy: 97.8%
+DT, Test accuracy: 84.8%
+DT, Depth: 9
+DT, Number of nodes: 155
+################## mfeat_fourier ##################
+DT, Train accuracy: 92.4%
+DT, Test accuracy: 75.0%
+DT, Depth: 9
+DT, Number of nodes: 217
+################## mfeat_karhunen ##################
+DT, Train accuracy: 96.89999999999999%
+DT, Test accuracy: 77.2%
+DT, Depth: 9
+DT, Number of nodes: 253
+################## mfeat_pixel ##################
+DT, Train accuracy: 97.89999999999999%
+DT, Test accuracy: 87.0%
+DT, Depth: 9
+DT, Number of nodes: 185
+################## mfeat_zernike ##################
+DT, Train accuracy: 88.9%
+DT, Test accuracy: 74.2%
+DT, Depth: 9
+DT, Number of nodes: 293
+################## mofn_3_7_10 ##################
+DT, Train accuracy: 98.9%
+DT, Test accuracy: 97.39999999999999%
+DT, Depth: 7
+DT, Number of nodes: 93
+################## molecular_biology_promoters ##################
+DT, Train accuracy: 100.0%
+DT, Test accuracy: 72.7%
+DT, Depth: 4
+DT, Number of nodes: 15
+################## movement_libras ##################
+DT, Train accuracy: 100.0%
+DT, Test accuracy: 73.6%
+DT, Depth: 9
+DT, Number of nodes: 127
+################## mushroom ##################
+DT, Train accuracy: 98.6%
+DT, Test accuracy: 98.4%
+DT, Depth: 1
+DT, Number of nodes: 3
+################## mux6 ##################
+DT, Train accuracy: 100.0%
+DT, Test accuracy: 100.0%
+DT, Depth: 6
+DT, Number of nodes: 55
+################## optdigits ##################
+DT, Train accuracy: 96.8%
+DT, Test accuracy: 89.3%
+DT, Depth: 9
+DT, Number of nodes: 353
+################## parity5+5 ##################
+DT: train accuracy 0.85 < 0.7 or test accuracy 0.596 < 0.7
+################## pendigits ##################
+DT, Train accuracy: 96.8%
+DT, Test accuracy: 94.0%
+DT, Depth: 9
+DT, Number of nodes: 235
+################## ring ##################
+DT, Train accuracy: 88.7%
+DT, Test accuracy: 83.6%
+DT, Depth: 9
+DT, Number of nodes: 107
+################## satimage ##################
+DT, Train accuracy: 93.60000000000001%
+DT, Test accuracy: 86.2%
+DT, Depth: 9
+DT, Number of nodes: 333
+################## sonar ##################
+DT, Train accuracy: 99.4%
+DT, Test accuracy: 78.60000000000001%
+DT, Depth: 7
+DT, Number of nodes: 27
+################## soybean ##################
+DT, Train accuracy: 97.8%
+DT, Test accuracy: 84.39999999999999%
+DT, Depth: 9
+DT, Number of nodes: 79
+################## spambase ##################
+DT, Train accuracy: 95.3%
+DT, Test accuracy: 92.0%
+DT, Depth: 9
+DT, Number of nodes: 141
+################## spect ##################
+DT, Train accuracy: 92.0%
+DT, Test accuracy: 79.60000000000001%
+DT, Depth: 9
+DT, Number of nodes: 77
+################## spectf ##################
+DT, Train accuracy: 96.8%
+DT, Test accuracy: 85.7%
+DT, Depth: 9
+DT, Number of nodes: 29
+################## splice ##################
+DT, Train accuracy: 98.0%
+DT, Test accuracy: 89.2%
+DT, Depth: 9
+DT, Number of nodes: 91
+################## texture ##################
+DT, Train accuracy: 95.7%
+DT, Test accuracy: 90.4%
+DT, Depth: 9
+DT, Number of nodes: 167
+################## threeOf9 ##################
+DT, Train accuracy: 100.0%
+DT, Test accuracy: 100.0%
+DT, Depth: 8
+DT, Number of nodes: 63
+################## tic_tac_toe ##################
+DT, Train accuracy: 98.8%
+DT, Test accuracy: 91.7%
+DT, Depth: 9
+DT, Number of nodes: 113
+################## tokyo1 ##################
+DT, Train accuracy: 96.1%
+DT, Test accuracy: 94.3%
+DT, Depth: 9
+DT, Number of nodes: 27
+################## twonorm ##################
+DT, Train accuracy: 96.2%
+DT, Test accuracy: 83.8%
+DT, Depth: 9
+DT, Number of nodes: 351
+################## vehicle ##################
+DT: train accuracy 0.959 < 0.7 or test accuracy 0.694 < 0.7
+################## vote ##################
+DT, Train accuracy: 98.3%
+DT, Test accuracy: 93.10000000000001%
+DT, Depth: 8
+DT, Number of nodes: 19
+################## waveform_21 ##################
+DT, Train accuracy: 91.4%
+DT, Test accuracy: 75.6%
+DT, Depth: 9
+DT, Number of nodes: 343
+################## waveform_40 ##################
+DT, Train accuracy: 93.2%
+DT, Test accuracy: 75.0%
+DT, Depth: 9
+DT, Number of nodes: 391
+################## wdbc ##################
+DT, Train accuracy: 97.6%
+DT, Test accuracy: 89.5%
+DT, Depth: 6
+DT, Number of nodes: 17
+################## xd6 ##################
+DT, Train accuracy: 100.0%
+DT, Test accuracy: 100.0%
+DT, Depth: 9
+DT, Number of nodes: 79
