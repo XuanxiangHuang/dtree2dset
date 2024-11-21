@@ -21,7 +21,7 @@ class Tree2Rules:
 
     def find_axp(self, path):
         """
-            Compute one path abductive explanation (Axp) using Horn encoding.
+            Compute one path abductive explanation (Axp).
 
             :param path: a decision path.
             :return: one path abductive explanation,
